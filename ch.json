@@ -98,6 +98,16 @@
       "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
     },
     {
+      "cid": 1,
+      "name": "[미국] Mo Laughter TV",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] Movie Kingdom",
+      "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+    },
+    {
       "cid": 2,
       "name": "tvn",
       "stream_url": "http://1.214.67.100/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
