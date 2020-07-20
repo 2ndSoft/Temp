@@ -88,6 +88,16 @@
       "stream_url": "https://30a-tv.com/music.m3u8"
     },
     {
+      "cid": 1,
+      "name": "[미국] Urban Music 4U",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] World Fashion TV",
+      "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+    },
+    {
       "cid": 2,
       "name": "tvn",
       "stream_url": "http://1.214.67.100/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
@@ -226,11 +236,6 @@
       "cid": 2,
       "name": "ARTE",
       "stream_url": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "HD Fashion",
-      "stream_url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
     },
     {
       "cid": 2,
