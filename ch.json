@@ -84,6 +84,21 @@
     },
     {
       "cid": 1,
+      "name": "[미국] FOX NEWS",
+      "stream_url": "https://gma2.blab.email/espn2.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] NBC NEWS",
+      "stream_url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_3200.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] FOX BUSINESS",
+      "stream_url": "https://gma2.blab.email/espnu.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] MTV (Latin America)",
       "stream_url": "http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8"
     },
@@ -146,21 +161,6 @@
       "cid": 1,
       "name": "[미국] NASA TV",
       "stream_url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] FOX BUSINESS",
-      "stream_url": "https://gma2.blab.email/espnu.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] FOX NEWS",
-      "stream_url": "https://gma2.blab.email/espn2.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] NBC NEWS",
-      "stream_url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_3200.m3u8"
     },
     {
       "cid": 2,
