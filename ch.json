@@ -84,6 +84,16 @@
     },
     {
       "cid": 1,
+      "name": "[미국] MTV (Latin America)",
+      "stream_url": "http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] MTV Norge",
+      "stream_url": "http://185.236.229.2:8000/play/a05m/index.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] CMC",
       "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
     },
@@ -119,11 +129,6 @@
     },
     {
       "cid": 1,
-      "name": "[미국] Comedy Dynamics",
-      "stream_url": "http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8"
-    },
-    {
-      "cid": 1,
       "name": "[미국] Pop",
       "stream_url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
     },
@@ -136,6 +141,11 @@
       "cid": 1,
       "name": "[미국] Bumblebee TV",
       "stream_url": "https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] NASA TV",
+      "stream_url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
     },
     {
       "cid": 1,
