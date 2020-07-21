@@ -94,8 +94,18 @@
     },
     {
       "cid": 1,
+      "name": "[미국] 30A Music",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] Country Music 4U",
       "stream_url": "https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] Street Music 4U",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
     },
     {
       "cid": 1,
@@ -114,6 +124,11 @@
     },
     {
       "cid": 1,
+      "name": "[미국] Pop",
+      "stream_url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] Movie Kingdom",
       "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
     },
@@ -124,13 +139,18 @@
     },
     {
       "cid": 1,
+      "name": "[미국] FOX BUSINESS",
+      "stream_url": "https://gma2.blab.email/espnu.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] FOX NEWS",
       "stream_url": "https://gma2.blab.email/espn2.m3u8"
     },
     {
       "cid": 1,
-      "name": "[미국] FOX BUSINESS",
-      "stream_url": "https://gma2.blab.email/espnu.m3u8"
+      "name": "[미국] NBC NEWS",
+      "stream_url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_3200.m3u8"
     },
     {
       "cid": 2,
