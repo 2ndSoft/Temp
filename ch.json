@@ -124,6 +124,11 @@
     },
     {
       "cid": 1,
+      "name": "[미국] Dream TV",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] Urban Music 4U",
       "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
     },
