@@ -189,7 +189,8 @@
     },
     {
       "cid": 2,
-      "name": "KBSN 조이","http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1595577468&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTU3NzQ2OH19fV19&Signature=SwMduUsRVLizCBlQCZK9Qucmg-gunj-sPk0c~lqquAWvi6MPChToCRhb-T30-cnqOYH6oN0YGFYeDNwCeM0nI8yMo6deD88lAzH-WYNMP~f~vw2jmch90JYymdLwc3UgDC~xh5cukuMR9-ZtnRRP--J7D-rqfjNOz5ltzCHdCQppcxnw0ZGv0eWT10EOFmBpaS9zoSoyhMfqlQcm5~yPlvmJgNCFNHv2zgDJ4zzgMH6jOm~x0DZDwwKikU1WsM6XYmMgmSN0yppXFrvPr2DcqagAQ53pPz6nCBm6TrCUNdxfLzl90~tANC551CKX-7WEltl7tHUDtWVc~JHwGCDPqQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "name": "KBSN 조이",
+      "stream_url": "http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1595577468&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTU3NzQ2OH19fV19&Signature=SwMduUsRVLizCBlQCZK9Qucmg-gunj-sPk0c~lqquAWvi6MPChToCRhb-T30-cnqOYH6oN0YGFYeDNwCeM0nI8yMo6deD88lAzH-WYNMP~f~vw2jmch90JYymdLwc3UgDC~xh5cukuMR9-ZtnRRP--J7D-rqfjNOz5ltzCHdCQppcxnw0ZGv0eWT10EOFmBpaS9zoSoyhMfqlQcm5~yPlvmJgNCFNHv2zgDJ4zzgMH6jOm~x0DZDwwKikU1WsM6XYmMgmSN0yppXFrvPr2DcqagAQ53pPz6nCBm6TrCUNdxfLzl90~tANC551CKX-7WEltl7tHUDtWVc~JHwGCDPqQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 2,
