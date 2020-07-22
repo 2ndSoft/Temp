@@ -34,7 +34,12 @@
     },
     {
       "cid": 0,
-      "name": "MBC",
+      "name": "대구MBC",
+      "stream_url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "울산MBC",
       "stream_url": "https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8"
     },
     {
