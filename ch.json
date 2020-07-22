@@ -109,8 +109,18 @@
     },
     {
       "cid": 1,
+      "name": "[미국] Cooking 4U",
+      "stream_url": "https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[미국] CMC",
       "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] CMC-USA",
+      "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8"
     },
     {
       "cid": 1,
@@ -141,6 +151,11 @@
       "cid": 1,
       "name": "[미국] World Fashion TV",
       "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[미국] Comedy Dynamics",
+      "stream_url": "http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8"
     },
     {
       "cid": 1,
