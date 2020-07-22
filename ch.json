@@ -99,16 +99,6 @@
     },
     {
       "cid": 1,
-      "name": "[미국] MTV (Latin America)",
-      "stream_url": "http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] MTV Norge",
-      "stream_url": "http://185.236.229.2:8000/play/a05m/index.m3u8"
-    },
-    {
-      "cid": 1,
       "name": "[미국] CMC",
       "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
     },
