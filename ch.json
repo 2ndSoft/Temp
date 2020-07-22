@@ -89,23 +89,8 @@
     },
     {
       "cid": 1,
-      "name": "[미국] FOX NEWS",
-      "stream_url": "https://gma2.blab.email/espn2.m3u8"
-    },
-    {
-      "cid": 1,
       "name": "[미국] NBC NEWS",
       "stream_url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_3200.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] FOX BUSINESS",
-      "stream_url": "https://gma2.blab.email/espnu.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] FOX SPORT",
-      "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
     },
     {
       "cid": 1,
@@ -154,8 +139,8 @@
     },
     {
       "cid": 1,
-      "name": "[미국] Comedy Dynamics",
-      "stream_url": "http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8"
+      "name": "[미국] AMG TV",
+      "stream_url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
     },
     {
       "cid": 1,
@@ -171,11 +156,6 @@
       "cid": 1,
       "name": "[미국] Movie Kingdom",
       "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "[미국] Bumblebee TV",
-      "stream_url": "https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8"
     },
     {
       "cid": 1,
