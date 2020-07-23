@@ -375,7 +375,7 @@
     {
       "cid": 3,
       "name": "MBC 스포츠",
-      "stream_url": "http://1.214.67.28/vod/01101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.28/vod/01101.m3u8?SessionID=f8055d57-5ebd-4c55-9f66-f90126aba5c3&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 3,
