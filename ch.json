@@ -49,8 +49,8 @@
     },
     {
       "cid": 0,
-      "name": "KNN|SBS",
-      "stream_url": "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8?wowzasessionid=979070900"
+      "name": "UBC|SBS",
+      "stream_url": "http://59.25.202.81:1935/live/UBCstream/playlist.m3u8"
     },
     {
       "cid": 0,
