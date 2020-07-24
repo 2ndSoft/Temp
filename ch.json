@@ -84,11 +84,6 @@
     },
     {
       "cid": 0,
-      "name": "[제주방송] JIBS",
-      "stream_url": "http://123.140.197.22/media/contents/live/1"
-    },
-    {
-      "cid": 0,
       "name": "OBS",
       "stream_url": "http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8"
     },
