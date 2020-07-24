@@ -34,6 +34,11 @@
     },
     {
       "cid": 0,
+      "name": "춘천MBC",
+      "stream_url": "https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8"
+    },
+    {
+      "cid": 0,
       "name": "대구MBC",
       "stream_url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
     },
@@ -41,6 +46,16 @@
       "cid": 0,
       "name": "울산MBC",
       "stream_url": "https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "전주MBC",
+      "stream_url": "https://5e78e0fa4379e.streamlock.net/rud08ska01mbc/Jmbc001/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "G1|SBS",
+      "stream_url": "http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8"
     },
     {
       "cid": 0,
@@ -54,6 +69,11 @@
     },
     {
       "cid": 0,
+      "name": "CJB|SBS",
+      "stream_url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8"
+    },
+    {
+      "cid": 0,
       "name": "EBS1",
       "stream_url": "http://1.214.67.100/vod/50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -61,6 +81,11 @@
       "cid": 0,
       "name": "EBS2",
       "stream_url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "[제주방송] JIBS",
+      "stream_url": "http://123.140.197.22/media/contents/live/1"
     },
     {
       "cid": 0,
