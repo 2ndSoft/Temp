@@ -39,6 +39,11 @@
     },
     {
       "cid": 0,
+      "name": "전주MBC",
+      "stream_url": "https://5e78e0fa4379e.streamlock.net/rud08ska01mbc/Jmbc001/playlist.m3u8"
+    }, 
+    {
+      "cid": 0,
       "name": "대구MBC",
       "stream_url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
     },
@@ -49,13 +54,8 @@
     },
     {
       "cid": 0,
-      "name": "전주MBC",
-      "stream_url": "https://5e78e0fa4379e.streamlock.net/rud08ska01mbc/Jmbc001/playlist.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "G1|SBS",
-      "stream_url": "http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8"
+      "name": "UBC|SBS",
+      "stream_url": "http://59.25.202.81:1935/live/UBCstream/playlist.m3u8"
     },
     {
       "cid": 0,
@@ -64,13 +64,13 @@
     },
     {
       "cid": 0,
-      "name": "UBC|SBS",
-      "stream_url": "http://59.25.202.81:1935/live/UBCstream/playlist.m3u8"
-    },
-    {
-      "cid": 0,
       "name": "CJB|SBS",
       "stream_url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8"
+    }, 
+    {
+      "cid": 0,
+      "name": "KBC|SBS",
+      "stream_url": "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8"
     },
     {
       "cid": 0,
