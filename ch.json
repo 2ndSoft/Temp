@@ -272,11 +272,6 @@
     },
     {
       "cid": 1,
-      "name": "ARTE",
-      "stream_url": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
-    },
-    {
-      "cid": 1,
       "name": "NBS 한국농업방송",
       "stream_url": "https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8"
     },
@@ -294,6 +289,11 @@
       "cid": 1,
       "name": "ArirangTV",
       "stream_url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "ARTE",
+      "stream_url": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
     },
     {
       "cid": 1,
