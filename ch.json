@@ -98,18 +98,23 @@
     },
     {
       "cid": 0,
-      "name": "EBS1",
-      "stream_url": "http://1.214.67.100/vod/50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 0,
-      "name": "EBS2",
-      "stream_url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8"
-    },
-    {
-      "cid": 0,
       "name": "OBS",
       "stream_url": "http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "OBSW",
+      "stream_url": "http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "KCTV7 제주방송",
+      "stream_url": "https://5b99fdb0a9492.streamlock.net/LIVE/ch7/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "KCTV20 제주방송",
+      "stream_url": "https://5b99fdb0a9492.streamlock.net/ch7/ch4/playlist.m3u8"
     },
     {
       "cid": 1,
@@ -195,6 +200,11 @@
       "cid": 1,
       "name": "Xtvn",
       "stream_url": "http://1.214.67.100/vod/67101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 1,
+      "name": "ASIAN",
+      "stream_url": "http://1.214.67.100/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
@@ -353,11 +363,6 @@
     },
     {
       "cid": 3,
-      "name": "대교 어린이TV",
-      "stream_url": "http://1.214.67.34/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 3,
       "name": "Bravokids TV",
       "stream_url": "http://1.214.67.24/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -373,23 +378,168 @@
     },
     {
       "cid": 3,
+      "name": "대교 어린이TV",
+      "stream_url": "http://1.214.67.34/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
+      "name": "JEI EnglishTV",
+      "stream_url": "http://1.214.67.100/vod/79301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
+      "name": "플레이런TV",
+      "stream_url": "http://1.214.67.100/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
       "name": "EBS Kids",
       "stream_url": "http://ebsonair.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/Playlist.m3u8"
     },
     {
       "cid": 3,
-      "name": "EBS i",
+      "name": "EBS1",
+      "stream_url": "http://1.214.67.100/vod/50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
+      "name": "EBS2",
+      "stream_url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "EBSi",
       "stream_url": "http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/Playlist.m3u8"
     },
     {
       "cid": 3,
-      "name": "EBS +2",
+      "name": "EBS+2",
       "stream_url": "http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/Playlist.m3u8"
     },
     {
       "cid": 3,
       "name": "EBSe",
       "stream_url": "http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/Playlist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "CGNTV",
+      "stream_url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "CBSTV",
+      "stream_url": "http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/chunklist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "CTS 기독교방송",
+      "stream_url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index_2.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "CTS2 기독교방송",
+      "stream_url": "http://external.cdn.zroad.tv/ChurchTV/live/playlist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "카톨릭 평화방송",
+      "stream_url": "http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/chunklist_w613812420_b1456000.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "C채널",
+      "stream_url": "http://112.175.51.214:1935/live/myStream/playlist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "BBS 불교방송",
+      "stream_url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1554340486.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "WBS 원음방송",
+      "stream_url": "http://live.cdn.smilecdn.com:1935/yunho90_live/live/playlist.m3u8
+    },
+    {
+      "cid": 5,
+      "name": "[미국] CBSN",
+      "stream_url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] NBC NEWS",
+      "stream_url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_3200.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] CMC",
+      "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] CMC-USA",
+      "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Urban Music 4U",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Country Music 4U",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Street Music 4U",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] 30A Music",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] World Fashion TV",
+      "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] AMG TV",
+      "stream_url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Dream TV",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] DRYBAR",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Pop",
+      "stream_url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Movie Kingdom",
+      "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Cooking 4U",
+      "stream_url": "https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] NASA TV",
+      "stream_url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
     }
   ]
 }
