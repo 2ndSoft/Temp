@@ -138,17 +138,22 @@
     {
       "cid": 1,
       "name": "KBS 24",
-      "stream_url": "http://news24.gscdn.kbs.co.kr/news24-m/news24-m_hd.m3u8?Expires=1595843451&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTg0MzQ1MX19fV19&Signature=TXm4EaSSWwyaqx1Cthhxxo8QucgFYlCDRmr7FPccWVny8b7bNUgCcDezCa5Ts~m9k2UWA-X6Ny8NwJoftDSAs2pA-v6a4eqKM7UPP~nnFOMy-cKuTZFn5rpb68M08UyMofJ5q1ZdziOLn3vzaB0UNuosb5tciJbfKyE33wk258MQ6yGebrRGcYmXDYBLYvVJX2lEhVzPkKfbyyj8KDK4v1Foy2ub7-WGlg9zzJoPSvUOHQ1u49CXcvd5c2W~gUej1bzhgOJIiTrZ8g54qVPgxIMCnmeVMjKwapFT0J-THFKvnDSpfmyK4lnhqNzhEX9wRJRtQIKOI1eu1uWTBV7-TA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://news24.gscdn.kbs.co.kr/news24-m/news24-m_hd.m3u8?Expires=1595973789&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTk3Mzc4OX19fV19&Signature=j20LCREKiIFSpfZW7mItK0lVGBE6VWCZuvdOlF0Qb66eT-06W4g3RaeXNp5R8MIOTDQ3UizjAMEN1YvCbPoeEZDyh~X1QGYzBx882mK2k3fD8xBmOHCslLjWt1qy4ah-QrO6yGIGS52ZZw4P-L6AulkNd9A94eEOELWIYYHxwfAaVXJCxecOMZ-nSPi-KWz9FaqDwrBhg027PqW9V05nQ8bA6OhqpDsXaSVB1iRc~u6XTHJIqL-3zAH8uuq~MfOsqIRLdg0vtMK2b2lBB8pDU-YcqeHQ81LLMsDY2tjSRzOiZcWZJ9XhkOUaDpRtpQ6OQ2pJn9K5rPAFjT-SlJRziA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
-      "name": "KBSN 드라마",
-      "stream_url": "http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-m/kbsndrama-m_sd.m3u8?Expires=1595843495&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTg0MzQ5NX19fV19&Signature=PZYoliL7ElnN4MpkaTr-yk9ezctnHs4wpHGmbMss4tyG5qxW9ZbgsCNRs~7cJhfLqut23onQRkrT-ixBV0O8~23ipqp9eYEEhfIA8BImVGTgTDla~vw4d9BhwYSAUtARYXBxgj9D2IyGy7DTqrtsCzGtZ4YqKut5lwmkaoX0kcdpe8iZ6jke-2XuAlPFhH~dpHJMiuj7oHy6a3Q8qn2R5B1gf6u9qg57npkrlHdK2e0SXR37jJeOOiSxbF-rwREF5FprGd3Wb~qgYn6omJ2NKVs6S6U40RDT2iLxMHvnfYVsR99p0HUmjBgJKur2c6YYB-I3lAahao7PVHgZ1QiU7A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "name": "KBSN Drama",
+      "stream_url": "http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-m/kbsndrama-m_sd.m3u8?Expires=1595973711&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTk3MzcxMX19fV19&Signature=S6nTvgKRn7kRz63BQ8Qkv52FdBEJcTV44yIHy6O4sbQcOUObKVUeutW-ezFWYV6TDwOhrIxR96~CrT6534cE47Di7QJAo76JMyDexDt4igDW9IH0hCF8nYaaXyLQjxhVRoKTZPyRENbQsTgwF9ieDhAeaIjw2j~odkJOnNpuD4FiHwQuhxU-n8yrCX~-uMMcSZzsk~htO5AycRSPjeTDYzn16EdYFuEBiRayxvllnkJgkG3HsMD6OYgHUQidxpoQJuqZS1oghlaPyi2PpsZqKVzon8WbXgy9mQ4oqq-VmMEOsLtU5DTu9tpMT6fgcN8-uSzLnzw9lzESDC~eyWmw0g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
-      "name": "KBSN 조이",
-      "stream_url": "http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1595843484&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTg0MzQ4NH19fV19&Signature=VRzAHdYtjZDAOTbsD1fp2lPFrt0HXCzN1~wmxwZgUJzcPInqYc2bOcaxe4ukJxhVVG-~Zi8uoi4iUtCXN6ujerdpKxSCnE476X5De5Dgb4lg1jLmGRjnPBDyzEG1qOdQh1xmoGQQluRqVn8JBgmwtpPqZDxPAfGujrtp4gaOtAu1ht~VEOs1QCQfWT7k-pWROiORrsV7jDn~SK8M1R3EnH88~4KVlNFlmEv~WQb9k0I3h1Xxordg5MOx~qLolgB0CEL60lzJSGJyVwCmYwwyBJ3luiwx~jbs~fVbKY1LumsJhXI~trz6gKSVKAqGU6dkC0ugX38s8FI1m8JCUAzQew__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "name": "KBSN joy",
+      "stream_url": "http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1595973689&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTk3MzY4OX19fV19&Signature=CMNk2uGOLLVVDVAVq60nVVdxWYFjrvWjE1R2f7389XN8C8URMe-FUJhN0jCqXFwO~8COF8GVcTOAg2M9SLsOmjU0-ieH3bnlHUuTa6kwfkf2WFJVPDQnPCWqnCrCTYVV8i~UmeG0mDLWgOwsCnCRorynk5Jz7hPE5bFlOfjcfZjuJgurCpxGz9ZaGc4uGf3xDYevvwprCIDAubYQ3lCITweQEbc2Qq85S0SArdJQkIRxuXFh84AJZJ1RCbqYPZ8CXPk6gmmWERcu5jeU2NXtvlEMr9NH4gIY2XBltc-J-erqrNNrCpkTHIUXdpLFdkVs6jsLOahaGFBdmihm3TFppA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+    },
+    {
+      "cid": 1,
+      "name": "KBS WORLD",
+      "stream_url": "http://world.gscdn.kbs.co.kr/world-m/world-m_sd.m3u8?Expires=1595973798&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTk3Mzc5OH19fV19&Signature=diSyVvWqgVtKARCvlTBySx04QyAY7ujf9Ts1IM4hx~i4PZ4aqjzcKdx1fyVSeJLLy7ZFYxqSSksnVombJ3Clc~jIBJVGYBjQUtmAf8Y3OWq280ItywXkbTCL4mZ~sgpoHrz7EOA1odSlVrtAfVJzbgaRx3ACRtauEqrOYxXWPpXAz2B~JvDlD1yfUOK7Tbr0J2IcYdONr4AaFPCjJ3izqMoU2SdOKOwBoxIcJzQwig28bQYB4E6vKygYdspnfeX~tBLevaGgo7IMcnyciaykSibXooXzEdfFArSGL5jWyZ12OT17~Y5ZLoN17HDWV1-e27l9iIWEI3b3mYQ83jFuhA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
@@ -407,6 +412,11 @@
     },
     {
       "cid": 3,
+      "name": "플레이런TV",
+      "stream_url": "http://1.214.67.100/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
       "name": "대교 어린이TV",
       "stream_url": "http://1.214.67.34/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -417,8 +427,8 @@
     },
     {
       "cid": 3,
-      "name": "플레이런TV",
-      "stream_url": "http://1.214.67.100/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "name": "KBS Kids",
+      "stream_url": "http://kbsnkids.gscdn.kbs.co.kr/kbsnkids-m/kbsnkids-m_sd.m3u8?Expires=1595973703&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25raWRzLmdzY2RuLmticy5jby5rci9rYnNua2lkcy1tL2tic25raWRzLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NTk3MzcwM319fV19&Signature=bnCR6C6r0J2fKjc8j2UcnpMVC2Ri-YbT8-TWB3HxUB99xcEOzMpqb0MJFYh-I1ut4rIKnBVfE8E3DM9jheQRaob~GeJMiL8bRJT2JZdgliXvs1W2vQydJEH7DF1-ZCPlB2qzAe3RKCMF5MBWvdkl1FPqiQdDb~26cpOfG696cbKY214IE0KT8lLHyNZI8KZY5JledY13~zRVycxIjZqQS-eETX1m5~VKHnh3~WOY5QclCYzlkWfuvo0u2iC0URHQ3kC552RfL5LVTzlhmd6NTLtw0Hd7GGYEhISnwM8KM-1t0eoqNe6q7P-KmbLf3C3PA9oNFKKhIE~m3jpqFan~tQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 3,
