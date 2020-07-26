@@ -278,6 +278,11 @@
     },
     {
       "cid": 1,
+      "name": "G국악방송",
+      "stream_url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "ArirangTV",
       "stream_url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     },
@@ -288,8 +293,28 @@
     },
     {
       "cid": 1,
+      "name": "KoreaTV",
+      "stream_url": "http://218.38.152.57:1935/mlive/mp4:ch001/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "복지TV",
+      "stream_url": "http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "국방TV",
       "stream_url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "국회방송",
+      "stream_url": "http://m.webcast.go.kr/live/_definst_/smil:natv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "한국선거방송",
+      "stream_url": "http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8"
     },
     {
       "cid": 2,
@@ -328,6 +353,11 @@
     },
     {
       "cid": 2,
+      "name": "SPOTV 골프&헬스",
+      "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
       "name": "SPOTV",
       "stream_url": "http://1.214.67.20/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -335,11 +365,6 @@
       "cid": 2,
       "name": "SPOTV2",
       "stream_url": "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
-      "name": "SPOTV 골프&헬스",
-      "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
