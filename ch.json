@@ -15,6 +15,14 @@
     {
       "id": 3,
       "name": "어린이&교육 채널"
+    },
+    {
+      "id": 4,
+      "name": "종교 채널"
+    },
+    {
+      "id": 5,
+      "name": "특별편성 채널"
     }
   ],
   "channels": [
@@ -68,7 +76,7 @@
       "name": "KBC|SBS",
       "stream_url": "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8"
     },
-        {
+    {
       "cid": 0,
       "name": "JTBC",
       "stream_url": "http://1.214.67.100/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
