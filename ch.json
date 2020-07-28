@@ -397,11 +397,6 @@
     },
     {
       "cid": 3,
-      "name": "Bravokids TV",
-      "stream_url": "http://1.214.67.24/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 3,
       "name": "애니플러스",
       "stream_url": "http://1.214.67.208/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -409,6 +404,11 @@
       "cid": 3,
       "name": "애니맥스",
       "stream_url": "http://1.214.67.34/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
+      "name": "Bravokids TV",
+      "stream_url": "http://1.214.67.24/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 3,
@@ -424,6 +424,11 @@
       "cid": 3,
       "name": "JEI EnglishTV",
       "stream_url": "http://1.214.67.100/vod/79301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 3,
+      "name": "[미국] 3ABN KIDS TV",
+      "stream_url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"
     },
     {
       "cid": 3,
@@ -584,7 +589,22 @@
       "cid": 5,
       "name": "홈&쇼핑",
       "stream_url": "http://1.214.67.206/vod/64901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Beauty IQ",
+      "stream_url": "https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8"
     }, 
+    {
+      "cid": 5,
+      "name": "[미국] The Shopping Channel",
+      "stream_url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "[미국] Shop HQ",
+      "stream_url": "https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8"
+    },
     {
       "cid": 6,
       "name": "[미국] CBSN",
