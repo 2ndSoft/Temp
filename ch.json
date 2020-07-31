@@ -122,7 +122,17 @@
     },
     {
       "cid": 0,
-      "name": "OBS",
+      "name": "OBS[1]",
+      "stream_url": "http://1.214.67.100/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "OBS[2]",
+      "stream_url": "http://1.214.67.100/vod/59602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "OBS[3]",
       "stream_url": "http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8"
     },
     {
