@@ -392,28 +392,53 @@
     },
     {
       "cid": 2,
-      "name": "SBS 골프",
-      "stream_url": "http://1.214.67.32/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "name": "JTBC 골프&스포츠[1]",
+      "stream_url": "http://1.214.67.28/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
-      "name": "JTBC 골프&스포츠",
-      "stream_url": "http://1.214.67.208/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "name": "JTBC 골프&스포츠[2]",
+      "stream_url": "http://1.214.67.100/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
-      "name": "SPOTV 골프&헬스",
+      "name": "SBS 골프[1]",
+      "stream_url": "http://1.214.67.22/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SBS 골프[2]",
+      "stream_url": "http://1.214.67.100/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV 골프&헬스[1]",
       "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
-      "name": "SPOTV",
+      "name": "SPOTV 골프&헬스[2]",
+      "stream_url": "http://1.214.67.22/vod/65001.m3u8?SessionID=836da4b4-c978-4021-bc1c-be0b1c8c2773&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV[1]",
       "stream_url": "http://1.214.67.20/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
-      "name": "SPOTV2",
+      "name": "SPOTV[2]",
+      "stream_url": "http://1.214.67.28/vod/66701.m3u8?SessionID=8a1af4b8-7e71-4af9-8fd2-ba3fee7bb890&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV2[1]",
       "stream_url": "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV2[2]",
+      "stream_url": "http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
