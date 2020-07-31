@@ -98,7 +98,7 @@
     {
       "cid": 0,
       "name": "MBN[2]",
-      "stream_url": "http://1.214.67.100/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.100/vod/75002.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 0,
@@ -108,7 +108,7 @@
     {
       "cid": 0,
       "name": "TV조선[2]",
-      "stream_url": "http://1.214.67.100/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.100/vod/74602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 0,
@@ -148,7 +148,7 @@
     {
       "cid": 1,
       "name": "tvn[2]",
-      "stream_url": "http://1.214.67.100/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.100/vod/68202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
@@ -168,7 +168,7 @@
     {
       "cid": 1,
       "name": "연합뉴스TV[2]",
-      "stream_url": "http://1.214.67.100/vod/73403.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.100/vod/73402.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
@@ -218,7 +218,7 @@
     {
       "cid": 1,
       "name": "가요TV",
-      "stream_url": "http://1.214.67.22/vod/79401.m3u8?SessionID=1cf7cb3f-a19a-465b-bfad-dff4fde44e99&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.22/vod/79401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
@@ -238,7 +238,7 @@
     {
       "cid": 1,
       "name": "Otvn",
-      "stream_url": "http://1.214.67.38/vod/68903.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.100/vod/68903.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
@@ -247,7 +247,7 @@
     },
     {
       "cid": 1,
-      "name": "ASIAN",
+      "name": "AsiaN",
       "stream_url": "http://1.214.67.100/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
@@ -378,7 +378,7 @@
     {
       "cid": 2,
       "name": "MBC 스포츠[2]",
-      "stream_url": "http://1.214.67.28/vod/01101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.28/vod/01102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
@@ -557,12 +557,12 @@
     },
     {
       "cid": 5,
-      "name": "GS샵",
+      "name": "GS SHOP",
       "stream_url": "http://1.214.67.206/vod/67601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     }, 
     {
       "cid": 5,
-      "name": "GS마이샵",
+      "name": "GS MYSHOP",
       "stream_url": "http://1.214.67.206/vod/74001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
@@ -587,7 +587,7 @@
     }, 
     {
       "cid": 5,
-      "name": "CJ오쇼핑PLUS",
+      "name": "CJ오쇼핑+",
       "stream_url": "http://cjoshoppingplus.live.cdn.visioncloud.co.kr/cjosplus/live2/playlist.m3u8"
     }, 
     {
