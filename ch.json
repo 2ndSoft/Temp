@@ -47,11 +47,6 @@
     },
     {
       "cid": 0,
-      "name": "충북MBC",
-      "stream_url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
-    },
-    {
-      "cid": 0,
       "name": "울산MBC",
       "stream_url": "https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8"
     },
