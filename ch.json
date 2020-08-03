@@ -23,10 +23,6 @@
     {
       "id": 5,
       "name": "홈쇼핑 채널"
-    },
-    {
-      "id": 6,
-      "name": "특별편성 채널"
     }
   ],
   "channels": [
@@ -684,101 +680,6 @@
       "cid": 5,
       "name": "홈&쇼핑",
       "stream_url": "http://1.214.67.206/vod/64901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 5,
-      "name": "[미국] Beauty IQ",
-      "stream_url": "https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8"
-    }, 
-    {
-      "cid": 5,
-      "name": "[미국] The Shopping Channel",
-      "stream_url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
-    },
-    {
-      "cid": 5,
-      "name": "[미국] Shop HQ",
-      "stream_url": "https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] CBSN",
-      "stream_url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] NBC NEWS",
-      "stream_url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_3200.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] CMC",
-      "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] CMC-USA",
-      "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Urban Music 4U",
-      "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Country Music 4U",
-      "stream_url": "https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Street Music 4U",
-      "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] 30A Music",
-      "stream_url": "https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] World Fashion TV",
-      "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] AMG TV",
-      "stream_url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Dream TV",
-      "stream_url": "https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] DRYBAR",
-      "stream_url": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Pop",
-      "stream_url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Movie Kingdom",
-      "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] Cooking 4U",
-      "stream_url": "https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "[미국] NASA TV",
-      "stream_url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
     }
   ]
 }
