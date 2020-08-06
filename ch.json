@@ -29,12 +29,12 @@
     {
       "cid": 0,
       "name": "KBS1",
-      "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1596745795&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTc5NX19fV19&Signature=eoXRMYgyoCJ4o958KgVanq8qsdxaSV-ndCuI1RAjnYidWO15d05hvVTexrPLWngtSsnVMfoTVbJRkucDmNYfkg1YC0JI5RUpfPpSillnEg7IP8kV8XTnsnnVpzoH2cgs~yJoQacElAIuy5GJaDpA4afPwvdSAnb612BagmouhrHxLQ8fIx~h-IUG2EbyopLKVqGPA659uH6YrwxZhHw2KD6fsas4I0uTHLG5bLsBPxrhEubqUqNTacaL8UzO8SrUrCLX7tbeUjWu~d2qQyKnEUL8ihBfED6w-neOr0PzOg6~nuDl-ExWw78tdVMVOzm7FqtFpEgHf9UbLk7Bie7SZA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1596847552&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzU1Mn19fV19&Signature=foPt6PANPr1R7GCtC~hlD1ISPM8iCqlfcR3Tt96QBXhzsW9QQg-y2N2FBZ5HGCJOSsl0-oheY5D8e0gh-rX3J2fRajdyN4Ba3a7SMopHdBo4-oWheYFnu-qnJDod0Ol7BPUXPD63Rt-NynDX7MKZMjnLjUo~MqmDYbbjuA2fvIvs7fPAgu9OOQYF75LiOv2yy-kRfx6I2E6ct3j-dazuGwwXNRt8-ov8ZZ1mIZd~-ts9VVipaOrRtwLfgiLdsWibII514k2icphmSAfk593YtjzXSIONElCLHBWf0qFKMqJ56IgkyA6ArPc3GSFUPX0ByyfWZ0IWh6rT4oU5SSwtGA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 0,
       "name": "KBS2",
-      "stream_url": "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1596745793&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTc5M319fV19&Signature=SaQkXBVgl-sm~Yz4FvtUc50H8nBwMyo5YzgA3TK1awI8lngs0EJAYuUWLXZAdnveyL54giYhLShoPaab5aLdyb27GTwm8~NPvvYDOrEe7NDJRFMfsoaoInZUEw20f4S6egLNWgBkfiLPwR8Vxhl6FLM5g9SXLzHLX8tOr0QGdVaZouns454BYgCsr-WEMXjbmPD2lBgHHd319IMeHG48DNgbsgYloA5hLKn3Yv-6vjaqRIbMmOuMKs6qi4-pvlDywdZYWmAyXelwAxXXKzVfCfM10Qwdz75LDBYhY~nGNTq7u1evCDzutl-ECnTZwUs1lDe4a~VEEV7o9lpK~hSpvA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1596847534&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzUzNH19fV19&Signature=bh4fXsCtMybQvjxYfQIqA0lDwD3p1disp-b2ZPD-iy3x8LoUDGq~gJg1vyvIK6~r8Bv00tOWgkIuoTx4KGYMjFCRBsYCwwQ3u-N9dSjjDFC8MzmbLxOy2reyX4-dvfkSqowKfBWmlVuTevBm4uSqjxxDSU-VBRvKE0bVTWUfTuhH-YfdfBtH~A86rQy3ILbUl8m03-PGdhG-Nup2VRZ3IGMANIUyFXwf6JdvJsG1Z7cx79XY4xQ0G2PyeK2XWkE71B-xKU4na3N958w2qubzoOzkUGJrFeDur7azHS4Nf7lbtFOUMHYzAe6y2CZ8F80gYEYofu3GPnmBkn~cuewjUw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 0,
@@ -189,22 +189,22 @@
     {
       "cid": 1,
       "name": "KBS 24",
-      "stream_url": "http://news24.gscdn.kbs.co.kr/news24-m/news24-m_hd.m3u8?Expires=1596745823&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTgyM319fV19&Signature=n3AdlbBbSAUKE7TaALr0gLLwAhVW5lTkzVyBfrYD-1ugZ-hO4-WaJLsO-ntpx4MfGf7thXJO10gN9YjkJXKf-E8K4wxRiB0kBS7OcAKW6FLoLZUt3l2GBwfYF3zfzp9cNqpvmKELUwEFHn-rgdyqdp3hxupSH0pzUH88oRflsdsTwPKJMKfV80-tAdoInBnoAKKK~xnoARfAA4owEaQAlqqLVsdV8fq5YO5-C41rGwcCykGye2XX-9S3Hz5-VLD34UGFBfIwm0FaJyt0Mv0aMAVqP83L2po~Knwoqn6mq5~URo8dwWmg~coUIeTGCeCl03hS0S3G52sv425p8ddqAg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://news24.gscdn.kbs.co.kr/news24-m/news24-m_hd.m3u8?Expires=1596847526&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzUyNn19fV19&Signature=HAFoKaAjewWn4RD6sus7o21tsDbGY-ljeLB1KUUejoTnHkCnCw~NJuRblt1AQ3cUjVU9emqHOwkuNNYP4BqZumUF1mIg2o8X1DMo5gpLrjMfmGrCGAB2za6fp3QVcDCTCXu92xP4Y~7GO6TtumFnY-QdOjWZWnd3g6dSIijeYqn4gHXnyuTOMMKK851ULa3RDk3LHC3vNDpx9j6njHkBMY4eldB-sfiweAoPmmJz2IACd1Xzqu3qTVuSTfhBqnYcfvcDlRXeuxE2GAQ6XNTHmE7VKM1MMddyDN-VoF4ekjoLQFZizuCDB1XnyjMYnZYEDMcRokcEbduPtenjKMTTcA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
       "name": "KBS Drama",
-      "stream_url": "http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-m/kbsndrama-m_sd.m3u8?Expires=1596745843&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTg0M319fV19&Signature=MJleOXLxmEoOqq3h5-JulDUzcVXFQ7QCKvyFPQdL4z8GtL05nwF7houAYEdiM4PN8bprqFcJgtYz9xtuF4HAhCnNIXwgMv2hcTQ7ZztfLnsvzFYEKq5w-ZuXlEUDDssSQ9wWTfxWlWsg5nTtmnSc-VnUayyW7BFJE0NsNcuLmFOI5d2lcW1Yu303sKXpj6LWMfXpVf6H~udcdBpTFJoR8-MejzcZZCOP3LRzPV53BR1nd6J7SSwzAx5pZ7~VfAMOwAQHDpnUYlKYrsOaQwaVHIpeH6U42cKhvX-VLOvJvuOxElwiiS6PeyGTqYBFTOBY~VfBDd3VcSiJ5FplH5lC-g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-m/kbsndrama-m_sd.m3u8?Expires=1596847470&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzQ3MH19fV19&Signature=NoQrQbbKQWVxpstJ9NMCPuTM-WMgXG2Szk8XRqc4BGc9c6Gj8u1CV0v04eZiiAR0zV2AE5snBtDRGLODdQbn21H~rGwtjFzgXUSTr4tInjAqevW11B6jmVLqaBlz0h516hbuDkpaqgBYX~bGul246bKvYBWZjylA4~pw9Ly2rVC47pP4jOo3PfY40MpA9zf9Nx~Kv5dyWq3QnRVHuOZzqD4cSGrfW~jc2W9Y4zsY~KzBY7PnaOayfv1CsxVxP-HkMmEsoSntOgCChEzKYDJ8VmbbCk50lVSdCw1yn7JehmtgTZ7~6bLLXUoDNoLROyjqAbmo4ZsNf7gq-BlL~zouIQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
       "name": "KBS joy",
-      "stream_url": "http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1596745833&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTgzM319fV19&Signature=LhWBZ5t~6TJwgKihTxpVgEpNoqzLitr-OmCqqvfrOV6QJLFhWGFBEoutJ3ZuQFu1aDvoG0nec4OftKIB7rYyfsLfQdH14e-xqHbd4zntzYJYR-XzG7~Mmu-kTqGCUDIeixr0cwl1R1ZdTDi3rUkAT8se-2o28coGV0Qrygr0kisNArykP8YjXg6oJaljGHevBNHy7N2jmiywiobDg9jJ5fJh~GQiH6Kzf7uDPzV1tLMqT5ZNfhZM7egdTRE~GTZBNp0qqCFEAMWQumLv6psE2A~5WqgZQfEU-pZItYRncMgVns7IooLAqT7rMJwD900AdS2BBEIxCCR3J6wfWNZymg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1596847573&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzU3M319fV19&Signature=Cfny3YefHg84gyhSkFRaRPTFOV~X5MB5dgu4qPeiU2Rz~BFPE8fJRWkLeOzl7AQ-1injo4dvF7fZCs3FWBUK-5EC5QIbMZVEoIYpCNhLamQ5N9cwHV-jsWff01ya8fV89uJ~1C6PtWdjHLdaMZeIYurJSI42FoTvkCTVrRugILI7sS3n0UD6kaYk~1IRZ2hbWF8eUNP~JvWQuiGylxa-JJkOES1VqO9omqkXtZ4RYee3LZACzzoClGqtFzDY7-9T0nK5ANEfkhV67nb6y-vxbdPC0p6tizQkQNgadWD2lYbCeGstUWc-YeR8zXDVawz2S1PaIGL~Pnjyybr9TprNOw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
       "name": "KBS WORLD",
-      "stream_url": "http://world.gscdn.kbs.co.kr/world-m/world-m_sd.m3u8?Expires=1596745829&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTgyOX19fV19&Signature=POSzlMh55qgQQcRtKb5tviYeV0YijlJjhDGmWf3uu9uuWBp0LAz6etj-hqrnUWJ2gbvZQe0KMHOq-lu4itJUDZEzY6f5~SKSR6lV4raDOG4Q8chVxsaahq1N51vPgCgWSwANjjWg6UDSb7VogdOmX-V7JxN4Wt7oXm4~IL2PDiJQh3MtiAg0xS-Re8OmcBUfEZfueHk1OdeYPXAYdUmkdvCUpYNkXFInl1tbmYzMyEiuM0mCx7x2Q5phtEhVAzdPaLnFNDHARN~Herr80gi90~uWjuNQr10rgEqU~jNfxSG4i~OULf6beZdedmq8fvk4~YB1IhDjjsCBUh8z2q8qSQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://world.gscdn.kbs.co.kr/world-m/world-m_sd.m3u8?Expires=1596847555&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzU1NX19fV19&Signature=CN1ecsOWsv~PEfJx6P243ZgsnVG3iH7ar8OgpnheBONoEVYkgAGC6k3wSxuqR3Dc4ewH3jwbkqra9dT7YNJ71oOg2TGr5HcWr7ApiuF~GCoEWX3kuzOOLBSaXGPP0gM3NTix98WmSYBK2wsehKC~abKTVyfGmgOztPG5-14aZ-m5CB8bn9xZrjecrOkLziKjZVfjqmZP79s5NGzN9bAqScJ7ZDTxEdd-iqNQn6-h6FG1Uqo8DQspPwkNs6tPNLJUr3kZLZnvOWJzOPvx5OAv4uN1NpVc2yreH~wE78GxgoiBAoqsbp-6YuiI9E1HAlpc4oSkXW-0eAzVV3g7a3s1ag__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
@@ -518,13 +518,8 @@
     },
     {
       "cid": 3,
-      "name": "[미국] 3ABN KIDS TV",
-      "stream_url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"
-    },
-    {
-      "cid": 3,
       "name": "KBS Kids",
-      "stream_url": "http://kbsnkids.gscdn.kbs.co.kr/kbsnkids-m/kbsnkids-m_sd.m3u8?Expires=1596745867&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25raWRzLmdzY2RuLmticy5jby5rci9rYnNua2lkcy1tL2tic25raWRzLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njc0NTg2N319fV19&Signature=JKcYvYG9Dj9fFkRMhLceBYvMThzq-i9WX9uH2YX9GhD~cvrjy5UpthRc8fiKK7AyPCk3274howgoD4DLk1SwZ8neuKOvKiRQbU-KNL4dZRIrO2e0NVBMhIXapdV4V-PGVfksgL0QdBm-PuZX00T5mfx-wvQ0WpwJA-1uxR52-4q~jGSdBawZX8HTJ79NKFA1bty3zLjogKrDpyEgVGZI3Qw3IVjF4Zdb2JZgonCwm~Zs7Gi4Eo4LPorJpKCK8yU4~lHvifz59RoH6EU5p9Qj2AHJI5GTJ3IHEEvS-S9lkuQ9sCzgEiwnS7oS0HN4Xk3bHKjy5Shi3JULzkySj96S1w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://kbsnkids.gscdn.kbs.co.kr/kbsnkids-m/kbsnkids-m_sd.m3u8?Expires=1596847570&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25raWRzLmdzY2RuLmticy5jby5rci9rYnNua2lkcy1tL2tic25raWRzLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5Njg0NzU3MH19fV19&Signature=Ht5sgnWV-lX7YAqMWUcUixQZcGKv9sMc1tbmD8FrMi-HGHBgVaVwkUkjFgGX0qHosKwoiYaH3~6B1veM7e52fEeHHfBbEtXrCx28HhsfW5hQCcrR-aqTxmOItWyddJUoyPflHCoHDxETUocZywErq6qpSeDfHBaS3X9GuxSx8hY1D2I~88uUPe22p~O3neSZjN7c8jh4QJc1CJU0q7ojAKa8uFBWUd~to4A~eUSgK2g59Whs6-R5YtaWKcGF8IeG0hZdOf7ENKcPNVYaxiHEU8rnWD3d1WQV1B0rl~Knmuspng5Twq1fCZJKOIbHHINyU0YGVRpwq9J4ZukyAUW61A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 3,
