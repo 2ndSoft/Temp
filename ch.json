@@ -209,7 +209,7 @@
     {
       "cid": 1,
       "name": "KBSN PLUS",
-      "stream_url": "http://1.214.67.15/vod/38902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.204/vod/04101.m3u8?SessionID=f1a137eb-028d-4f28-850d-15cfd98b4c34&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
