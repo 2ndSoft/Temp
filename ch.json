@@ -213,8 +213,8 @@
     },
     {
       "cid": 1,
-      "name": "SBS Plus",
-      "stream_url": "https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/media-urqsj8mwj.playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTY5Njc1NzEsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiY2RiMTdlZTQtMjc1MC00YjVlLThlYjItMGU0Y2JlMzZiMTMxIn0.AUa0VNzevqwumghQsO9Q9J87VJwbw5kPhdA118h_-U8&solsessionid=ac65ab0e7d39062348dfa7102561556c"
+      "name": "SBS PLUS",
+      "stream_url": "http://211.245.55.198:1024/m2u/239.192.49.7:49220"
     },
     {
       "cid": 1,
