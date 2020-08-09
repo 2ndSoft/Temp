@@ -384,12 +384,12 @@
     {
       "cid": 2,
       "name": "MBC 스포츠[1]",
-      "stream_url": "http://1.214.67.16/vod/39902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.15/vod/39801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
       "name": "MBC 스포츠[2]",
-      "stream_url": "http://1.214.67.28/vod/01102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.100/vod/39801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
@@ -399,7 +399,7 @@
     {
       "cid": 2,
       "name": "SBS 스포츠[2]",
-      "stream_url": "http://1.214.67.34/vod/00101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "stream_url": "http://1.214.67.15/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
