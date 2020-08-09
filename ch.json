@@ -213,8 +213,8 @@
     },
     {
       "cid": 1,
-      "name": "[채널공사중] SBS Plus",
-      "stream_url": "http://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTY5NzEyOTIsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImNhOTA5ZDM2LTdhY2EtNGRmNC1hOGJhLWJiYjM0ZGVlNzIxNCJ9.p55FIq8yeqW098UBXZjzJ_3JYMROFHd0WnGL5-A74cA&solsessionid=6b5a79b85f46e9df336c43678713482d"
+      "name": "SBS Plus",
+      "stream_url": "https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/media-urqsj8mwj.playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTY5Njc1NzEsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiY2RiMTdlZTQtMjc1MC00YjVlLThlYjItMGU0Y2JlMzZiMTMxIn0.AUa0VNzevqwumghQsO9Q9J87VJwbw5kPhdA118h_-U8&solsessionid=ac65ab0e7d39062348dfa7102561556c"
     },
     {
       "cid": 1,
