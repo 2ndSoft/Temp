@@ -213,11 +213,6 @@
     },
     {
       "cid": 1,
-      "name": "SBS PLUS",
-      "stream_url": "http://211.245.55.198:1024/m2u/239.192.49.7:49220"
-    },
-    {
-      "cid": 1,
       "name": "SBS STAR",
       "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
     },
