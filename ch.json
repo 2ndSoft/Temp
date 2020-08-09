@@ -213,6 +213,11 @@
     },
     {
       "cid": 1,
+      "name": "SBS PLUS",
+      "stream_url": "http://219.250.105.94:9981/stream/channelid/119937701"
+    },
+    {
+      "cid": 1,
       "name": "SBS STAR",
       "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
     },
