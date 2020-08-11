@@ -428,6 +428,16 @@
     },
     {
       "cid": 2,
+      "name": "SPOTV 골프&헬스[1]",
+      "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV 골프&헬스[2]",
+      "stream_url": "http://1.214.67.22/vod/65001.m3u8?SessionID=836da4b4-c978-4021-bc1c-be0b1c8c2773&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
       "name": "SBS 골프[1]",
       "stream_url": "http://1.214.67.22/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -438,13 +448,8 @@
     },
     {
       "cid": 2,
-      "name": "SPOTV 골프&헬스[1]",
-      "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
-      "name": "SPOTV 골프&헬스[2]",
-      "stream_url": "http://1.214.67.22/vod/65001.m3u8?SessionID=836da4b4-c978-4021-bc1c-be0b1c8c2773&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "name": "스크린 골프존",
+      "stream_url": "http://211.170.95.8/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
