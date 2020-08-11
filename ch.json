@@ -238,6 +238,11 @@
     },
     {
       "cid": 1,
+      "name": "GM",
+      "stream_url": "http://1.214.67.17/vod/68802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 1,
       "name": "K STAR",
       "stream_url": "http://211.170.95.16/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
