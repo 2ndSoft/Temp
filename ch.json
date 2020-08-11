@@ -418,6 +418,26 @@
     },
     {
       "cid": 2,
+      "name": "SPOTV[1]",
+      "stream_url": "http://1.214.67.20/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV[2]",
+      "stream_url": "http://1.214.67.28/vod/66701.m3u8?SessionID=8a1af4b8-7e71-4af9-8fd2-ba3fee7bb890&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV2[1]",
+      "stream_url": "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "SPOTV2[2]",
+      "stream_url": "http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
       "name": "JTBC 골프&스포츠[1]",
       "stream_url": "http://1.214.67.28/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -450,26 +470,6 @@
       "cid": 2,
       "name": "스크린 골프존",
       "stream_url": "http://211.170.95.8/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
-      "name": "SPOTV[1]",
-      "stream_url": "http://1.214.67.20/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
-      "name": "SPOTV[2]",
-      "stream_url": "http://1.214.67.28/vod/66701.m3u8?SessionID=8a1af4b8-7e71-4af9-8fd2-ba3fee7bb890&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
-      "name": "SPOTV2[1]",
-      "stream_url": "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
-      "name": "SPOTV2[2]",
-      "stream_url": "http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 2,
