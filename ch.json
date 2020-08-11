@@ -468,11 +468,6 @@
     },
     {
       "cid": 2,
-      "name": "스크린 골프존",
-      "stream_url": "http://211.170.95.8/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
-    },
-    {
-      "cid": 2,
       "name": "FISHING TV[1]",
       "stream_url": "http://211.170.95.16/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
@@ -505,6 +500,11 @@
       "cid": 3,
       "name": "애니플러스",
       "stream_url": "http://1.214.67.15/vod/69902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+    },
+    {
+      "cid": 2,
+      "name": "스크린 골프존",
+      "stream_url": "http://211.170.95.8/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 3,
