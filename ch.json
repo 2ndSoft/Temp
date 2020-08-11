@@ -328,13 +328,13 @@
     },
     {
       "cid": 1,
-      "name": "CNN",
-      "stream_url": "http://1.214.67.17/vod/72902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+      "name": "ARTE",
+      "stream_url": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "ARTE",
-      "stream_url": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
+      "name": "CNN",
+      "stream_url": "http://1.214.67.17/vod/72902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
     },
     {
       "cid": 1,
