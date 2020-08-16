@@ -248,11 +248,6 @@
     },
     {
       "cid": 1,
-      "name": "TBS",
-      "stream_url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"
-    },
-    {
-      "cid": 1,
       "name": "Otvn",
       "stream_url": "http://1.214.67.100/vod/68903.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
@@ -303,8 +298,8 @@
     },
     {
       "cid": 1,
-      "name": "KOREA K+",
-      "stream_url": "http://210.210.155.35/uq2663/h/h08/index.m3u8"
+      "name": "TBS",
+      "stream_url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"
     },
     {
       "cid": 1,
@@ -340,6 +335,11 @@
       "cid": 1,
       "name": "CNN",
       "stream_url": "http://1.214.67.17/vod/72902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 1,
+      "name": "KOREA K+",
+      "stream_url": "http://210.210.155.35/uq2663/h/h08/index.m3u8"
     },
     {
       "cid": 1,
