@@ -298,6 +298,11 @@
     },
     {
       "cid": 1,
+      "name": "YTN SCIENCE",
+      "stream_url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "TBS",
       "stream_url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"
     },
@@ -360,11 +365,6 @@
       "cid": 1,
       "name": "ArirangTV",
       "stream_url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "YTN SCIENCE",
-      "stream_url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist.m3u8"
     },
     {
       "cid": 1,
