@@ -338,22 +338,22 @@
     },
     {
       "cid": 1,
-      "name": "Pop",
+      "name": "[미국] Pop",
       "stream_url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
     },
     {
       "cid": 1,
-      "name": "Entertainment Tonight",
+      "name": "[미국] Entertainment Tonight",
       "stream_url": "https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"
     },
     {
       "cid": 1,
-      "name": "CBSN",
+      "name": "[미국] CBSN",
       "stream_url": "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
     },
     {
       "cid": 1,
-      "name": "CNN",
+      "name": "[미국] CNN",
       "stream_url": "http://1.214.67.17/vod/72902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
