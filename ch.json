@@ -138,13 +138,13 @@
     },
     {
       "cid": 0,
-      "name": "OBS[3]",
-      "stream_url": "http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8"
+      "name": "OBSW",
+      "stream_url": "http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 0,
-      "name": "OBSW",
-      "stream_url": "http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "name": "조선중앙TV",
+      "stream_url": "https://tv.nknews.org/tvhls/stream.m3u8"
     },
     {
       "cid": 0,
