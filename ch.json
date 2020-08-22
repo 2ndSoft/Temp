@@ -213,6 +213,11 @@
     },
     {
       "cid": 1,
+      "name": "SBS STAR",
+      "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "[송출테스트] SBS Plus",
       "stream_url": "http://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxMzI2MTAsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiZDE0NzM4N2EtNTQ5NC00YzVhLWIzZDUtOGE2MDIzMzhjYTU4In0.JYwDKvvvwHagncmcSAPtK7EZKVmqa_RB3rOoyJmqJb4"
     },
@@ -220,11 +225,6 @@
       "cid": 1,
       "name": "[송출테스트] SBS funE",
       "stream_url": "http://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxMzM2NTksInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiIwZGFkMjIxMC00YzU1LTRhM2UtODg4Yy1hZTMyOGUyODI1MmEifQ.RSkU6fMaP7AcLZ7YdmU6sRqxJ2Jo3VcUWZMzWRGxSr4"
-    },
-    {
-      "cid": 1,
-      "name": "SBS STAR",
-      "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
     },
     {
       "cid": 1,
