@@ -203,6 +203,16 @@
     },
     {
       "cid": 1,
+      "name": "KBSW",
+      "stream_url": "http://kbsnw.gscdn.kbs.co.kr/kbsnw-m/kbsnw-m_sd.m3u8?Expires=1598315482&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic253LmdzY2RuLmticy5jby5rci9rYnNudy1tL2tic253LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5ODMxNTQ4Mn19fV19&Signature=iWPstrBOWOK9YK31kEujhkNiD2KEbtjNs8IiZ5KYe8caQiitvSQ3y2FXAiUwx~Exp0oMrjvi263l~PB-Vq~Ikd5fe9Pnmp5t4IfXff6BXnxNxGThUyC3EWfxcy9FMgV7oZMbWKACMAoCinbCrZBMECRux7MRoWNpX2rxdWm4XCVcLzV5T5wiHjpfkQ4xfkaN-pelypj7KblvDHWLnoQ6-OVslEmTyYTgs9r-MWnGHd6VeC5tfx5YO~vwwV66qvZRTq0VpYJdwft1LKQOGs3fMQmPfhTCH8haY57SCZGDQ-QY2rGW0OMdF5Dqnia~GW6ZyodUosHgp606c-bjhQw-eA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+    },
+    {
+      "cid": 1,
+      "name": "KBS LIFE",
+      "stream_url": "http://kbsnlife.gscdn.kbs.co.kr/kbsnlife-m/kbsnlife-m_sd.m3u8?Expires=1598315482&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25saWZlLmdzY2RuLmticy5jby5rci9rYnNubGlmZS1tL2tic25saWZlLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5ODMxNTQ4Mn19fV19&Signature=RCZX8LWi-FDwE5RmNn5EtXMZNdc4zu5S1-kuDF0nLYHwUrCZJ20lykkrFSVOYLyyln6xSuGS010~~aGXAQEFXFkeKD1gbzmkDNgpoDCfHwzyjGUnVo-~ebYiW9VINbMTob1Rkw6iI9Qu-FcMpq77~lkE2f6HbD6yTs4f~Pz60yDLqF-Pukbt0meFYhJmzMb7Sq-98cyy4UxDTh4LUnut7awby1bQOM~bW~SDys2zA1DGxcMUFJJ~spAjZ5gkOUuCo~tzLbIXHpbQ~fDooGs96Yiw7P89wY20-ZiJyHu7VkBcKq66I2c-mrBsdhvuLVpyfSO72NeG4NKci7L5CpQ8jA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+    },
+    {
+      "cid": 1,
       "name": "KBS WORLD",
       "stream_url": "http://world.gscdn.kbs.co.kr/world-m/world-m_sd.m3u8?Expires=1598307109&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5ODMwNzEwOX19fV19&Signature=mqHgv3iTUQpLhvF4h37-cqAsYQteGGo510Z9Zk6gIaaUGJ52dLycoA7fADvghoClk37-YMUdi6dzyJk3~LMtLQW~as2yxn4UxWvxYuaaDVVyQGOy--EeJ1~rM9EgjPFZTRjXlq7kmX0Psc1WMkQ189nBegm5nRABOA-YvhnmGcN1LxnmLXylxc1uZWaTboMs2~g-gsepqKtp4zewInOzEyik9w10Ci6GVM3onmU1~ocEPXr~XVCSZeALrBKfLNVlwQQR1Lo09dd8lIlAyuV7MEYEKBhk-puDz8g~AJtlugY-XuuUhrcNzkrSqLn87utwcNCj5Z-JTc9SLXHhFj3DiQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
