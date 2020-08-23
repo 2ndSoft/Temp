@@ -226,6 +226,16 @@
       "name": "[송출테스트] SBS funE",
       "stream_url": "http://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxMzM2NTksInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiIwZGFkMjIxMC00YzU1LTRhM2UtODg4Yy1hZTMyOGUyODI1MmEifQ.RSkU6fMaP7AcLZ7YdmU6sRqxJ2Jo3VcUWZMzWRGxSr4"
     },
+        {
+      "cid": 1,
+      "name": "[송출테스트] SBS MTV",
+      "stream_url": "http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxNDE4MTcsInBhdGgiOiIvc2JzbXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiIwMmJmZjdlMS0wYjNjLTQwNzAtOWI1MC1iMzc3ZjBhZWQ5NzQifQ.NzPfpsDo1FHxsvMMP_51U30eUZJfMXqLxIFcD8V4CQQ"
+    },
+    {
+      "cid": 1,
+      "name": "[송출테스트] SBS CNBC",
+      "stream_url": "http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxNDg3NDIsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmNjk3OTNmMi1hMWI2LTRhNzAtYmU3ZS0wZjEwNGNiODc4ZjgifQ.ZTrT0xfBOfkItQenhjUK2oIFgqAzT6oNpgaX-J1r2jw"
+    },
     {
       "cid": 1,
       "name": "jtbc2",
