@@ -218,26 +218,6 @@
     },
     {
       "cid": 1,
-      "name": "[송출테스트] SBS Plus",
-      "stream_url": "http://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxMzI2MTAsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiZDE0NzM4N2EtNTQ5NC00YzVhLWIzZDUtOGE2MDIzMzhjYTU4In0.JYwDKvvvwHagncmcSAPtK7EZKVmqa_RB3rOoyJmqJb4"
-    },
-    {
-      "cid": 1,
-      "name": "[송출테스트] SBS funE",
-      "stream_url": "http://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxMzM2NTksInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiIwZGFkMjIxMC00YzU1LTRhM2UtODg4Yy1hZTMyOGUyODI1MmEifQ.RSkU6fMaP7AcLZ7YdmU6sRqxJ2Jo3VcUWZMzWRGxSr4"
-    },
-        {
-      "cid": 1,
-      "name": "[송출테스트] SBS MTV",
-      "stream_url": "http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxNDE4MTcsInBhdGgiOiIvc2JzbXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiIwMmJmZjdlMS0wYjNjLTQwNzAtOWI1MC1iMzc3ZjBhZWQ5NzQifQ.NzPfpsDo1FHxsvMMP_51U30eUZJfMXqLxIFcD8V4CQQ"
-    },
-    {
-      "cid": 1,
-      "name": "[송출테스트] SBS CNBC",
-      "stream_url": "http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgxNDg3NDIsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmNjk3OTNmMi1hMWI2LTRhNzAtYmU3ZS0wZjEwNGNiODc4ZjgifQ.ZTrT0xfBOfkItQenhjUK2oIFgqAzT6oNpgaX-J1r2jw"
-    },
-    {
-      "cid": 1,
       "name": "jtbc2",
       "stream_url": "http://1.214.67.16/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
