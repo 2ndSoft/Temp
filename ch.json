@@ -98,6 +98,16 @@
     },
     {
       "cid": 0,
+      "name": "JTBC[3]",
+      "stream_url": "http://211.170.95.20/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "JTBC[4]",
+      "stream_url": "http://211.170.95.50/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
       "name": "MBN[1]",
       "stream_url": "http://1.214.67.30/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
@@ -105,6 +115,16 @@
       "cid": 0,
       "name": "MBN[2]",
       "stream_url": "http://1.214.67.100/vod/75002.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "MBN[3]",
+      "stream_url": "http://211.170.95.20/vod/75002.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "MBN[4]",
+      "stream_url": "http://211.170.95.80/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 0,
@@ -118,6 +138,16 @@
     },
     {
       "cid": 0,
+      "name": "TV조선[3]",
+      "stream_url": "http://211.170.95.106/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "TV조선[4]",
+      "stream_url": "http://211.170.95.115/vod/74602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
       "name": "채널A[1]",
       "stream_url": "http://1.214.67.100/vod/74902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
@@ -125,6 +155,16 @@
       "cid": 0,
       "name": "채널A[2]",
       "stream_url": "http://1.214.67.208/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "채널A[3]",
+      "stream_url": "http://211.170.95.115/vod/74902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+    },
+    {
+      "cid": 0,
+      "name": "채널A[4]",
+      "stream_url": "http://211.170.95.118/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 0,
