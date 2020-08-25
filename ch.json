@@ -65,11 +65,11 @@
       "cid": 0,
       "name": "제주MBC",
       "stream_url": "https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8"
-    }, 
+    },
     {
       "cid": 0,
-      "name": "UBC|SBS",
-      "stream_url": "http://59.25.202.81:1935/live/UBCstream/playlist.m3u8"
+      "name": "KNN|SBS",
+      "stream_url": "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8"
     },
     {
       "cid": 0,
@@ -78,13 +78,23 @@
     },
     {
       "cid": 0,
-      "name": "CJB|SBS",
-      "stream_url": "https://5ee9be10640ac.streamlock.net/live/cjbtv/playlist.m3u8"
-    }, 
-    {
-      "cid": 0,
       "name": "KBC|SBS",
       "stream_url": "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "CJB|SBS",
+      "stream_url": "https://5ee9be10640ac.streamlock.net/live/cjbtv/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "TJB|SBS",
+      "stream_url": "http://1.245.74.5:1935/live/tv/.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "CJB|SBS",
+      "stream_url": "https://5ee9be10640ac.streamlock.net/live/cjbtv/playlist.m3u8"
     },
     {
       "cid": 0,
