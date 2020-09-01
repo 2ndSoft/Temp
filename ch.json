@@ -697,11 +697,6 @@
       "stream_url": "http://live.cdn.smilecdn.com:1935/yunho90_live/live/playlist.m3u8"
     },
     {
-      "cid": 4,
-      "name": "STB 상생방송",
-      "stream_url": "http://118.130.121.108:1935/live-stb/_definst_/454ddff34e723a81e91700df91bc51f13ddd254b9bf332b1502e8443e2c99917/playlist.m3u8"
-    },
-    {
       "cid": 5,
       "name": "GS SHOP",
       "stream_url": "http://1.214.67.206/vod/67601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
