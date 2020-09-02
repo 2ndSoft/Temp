@@ -32,12 +32,42 @@
   "channels": [
     {
       "cid": 0,
-      "name": "크롬캐스트 테스트1",
+      "name": "first",
       "stream_url": ""
     },
     {
       "cid": 0,
-      "name": "크롬캐스트 테스트2",
+      "name": "크롬캐스트 테스트",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "Wifi-Conneted",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "None",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "채널통합 서비스",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "온에어티비",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "TndSoft-signal",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "End",
       "stream_url": ""
     },
     {
