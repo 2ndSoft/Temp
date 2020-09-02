@@ -33,12 +33,12 @@
     {
       "cid": 0,
       "name": "크롬캐스트 테스트1",
-      "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1599255008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5OTI1NTAwOH19fV19&Signature=V79jrD2viJU-SnO0D6mwpFew894FAH6u6YkXFze7N3W4Qw-3CxmOesyK5alOwLcmRhp4byzC3~xxjieqbJ9aMkqwmbfnXEHwSVPtOOE0AhyfxWoGsJqAWInjLaC~uRlE2gnAIejlUrvNz6fBCQr-w3mMpkI9duMTHVOhhvzY1Z4pXFlJ1cyxlS~i8HhzlpaaK6jSqkHMYx579emNfgZmvM4vKy7HlM5Vxi~Gk~~cpEFpNZAEO-OzmD4hIuyxxZIcXZm0gyasd0I66-eSXdK8s7WZDVWpi2aTgWTB6~PL8pIQ08Vr-147ky8Khq2HUFgcPLc0RvZyDqsg4yf~XCKqCg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": ""
     },
     {
       "cid": 0,
       "name": "크롬캐스트 테스트2",
-      "stream_url": "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1599254993&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5OTI1NDk5M319fV19&Signature=abXH4WfrVCZ3Sk0yIrlRWWReTXNOIYzdv3IPyQ7oIet9QcDFjoLx28TTjmo1MZ4CkqQhVXBBqw5nmfirNwhAAznhM-lXkxkmss8EAUF5f1eZnpnJ8-WYW7mSIScItzIboOcn2lSHihuC3OQj7t8cTDS5yIbDR9GsSXg2I3JGprt~g3HhUYAGDE99smnHeApEfEjGADX6b8g5MmnaUMJ-SOtEx5drptZsUrecZdPwXZM1RWLzQ8ZLDDL2Jx-BF5epBLW7oCn5c2jwB9P6JoGzcsx04tuV-XZrGltjoWoPfL~f~DQPFgdQe1YuZ4wRZBcTm-8GrQxpmcXhoIBnr4aoBw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": ""
     },
     {
       "cid": 1,
