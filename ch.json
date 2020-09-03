@@ -32,12 +32,12 @@
   "channels": [
     {
       "cid": 0,
-      "name": "first",
+      "name": "신규 플랫폼 크롬캐스트 Test",
       "stream_url": ""
     },
     {
       "cid": 0,
-      "name": "신규 플랫폼 크롬캐스트 Test",
+      "name": "ui-wavve",
       "stream_url": ""
     },
     {
@@ -47,12 +47,7 @@
     },
     {
       "cid": 0,
-      "name": "android TV 채널",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "사용자: 3200명 이상",
+      "name": "사용자: 3300명 이상",
       "stream_url": ""
     },
     {
@@ -63,11 +58,6 @@
     {
       "cid": 0,
       "name": "TndSoft-signal",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "End",
       "stream_url": ""
     },
     {
