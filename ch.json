@@ -1,10 +1,6 @@
 {
   "menu": [
     {
-      "id": 0,
-      "name": "TndSoft"
-    },
-    {
       "id": 1,
       "name": "지상파&종합편성 채널"
     },
@@ -30,26 +26,6 @@
     }
   ],
   "channels": [
-    {
-      "cid": 0,
-      "name": "신규 플랫폼 크롬캐스트 Test",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "사용자: 3300명 이상",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "출시일:2020.07.17",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "TndSoft",
-      "stream_url": ""
-    },
     {
       "cid": 1,
       "name": "KBS1",
