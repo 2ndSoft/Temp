@@ -333,8 +333,8 @@
     },
     {
       "cid": 2,
-      "name": "테스트",
-      "stream_url": "https://www.youtube.com/embed/o9mAok2hC-Q?rel=0&vq=hd720&autoplay=1"
+      "name": "TBS",
+      "stream_url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"
     },
     {
       "cid": 2,
@@ -369,12 +369,7 @@
     {
       "cid": 2,
       "name": "YTN SCIENCE",
-      "stream_url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "TBS",
-      "stream_url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"
+      "stream_url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8"
     },
     {
       "cid": 2,
@@ -408,12 +403,12 @@
     },
     {
       "cid": 2,
-      "name": "NBS 한국농업방송",
+      "name": "한국농업방송",
       "stream_url": "https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8"
     },
     {
       "cid": 2,
-      "name": "TV WORK NET 한국직업방송",
+      "name": "한국직업방송",
       "stream_url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8"
     },
     {
@@ -649,7 +644,7 @@
     {
       "cid": 4,
       "name": "EBS2",
-      "stream_url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8"
+      "stream_url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8"
     },
     {
       "cid": 4,
@@ -669,12 +664,12 @@
     {
       "cid": 5,
       "name": "CGNTV",
-      "stream_url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8"
+      "stream_url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8"
     },
     {
       "cid": 5,
       "name": "CBSTV",
-      "stream_url": "http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/chunklist.m3u8"
+      "stream_url": "http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8"
     },
     {
       "cid": 5,
@@ -688,8 +683,13 @@
     },
     {
       "cid": 5,
+      "name": "GOODTV",
+      "stream_url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8"
+    },
+    {
+      "cid": 5,
       "name": "카톨릭 평화방송",
-      "stream_url": "http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/chunklist_w613812420_b1456000.m3u8"
+      "stream_url": "http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8"
     },
     {
       "cid": 5,
@@ -699,7 +699,7 @@
     {
       "cid": 5,
       "name": "BBS 불교방송",
-      "stream_url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1554340486.m3u8"
+      "stream_url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
     },
     {
       "cid": 5,
