@@ -2,15 +2,15 @@
   "image": [
     {
       "id": 1,
-      "image": "https://cdn.pixabay.com/photo/2019/08/01/12/36/illustration-4377408_960_720.png"
+      "image": "https://api.androidhive.info/json/movies/1.jpg"
     },
     {
       "id": 2,
-      "image": "https://lh3.googleusercontent.com/proxy/mpyQ5GwZxejwPcqySrRHhMO-EpXA-js4aMcceNDxeu185w1Bxmrx7A7Q30Sr4EKLzd4wbpDJx4I7NqQl6z985Bhiy2LJNQjSiPgW_t2vu4xCcsk"
+      "image": "https://api.androidhive.info/json/movies/2.jpg"
     },
     {
       "id": 3,
-      "image": "https://t1.daumcdn.net/cfile/tistory/99531D415E170D2918"
+      "image": "https://api.androidhive.info/json/movies/3.jpg"
     }
   ],
   "menu": [
