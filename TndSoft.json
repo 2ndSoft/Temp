@@ -2,7 +2,7 @@
   "image": [
     {
       "id": 1,
-      "image": "https://api.androidhive.info/json/movies/1.jpg",
+      "image": "https://api.androidhive.info/json/movies/1.jpg"
     },
     {
       "id": 2,
@@ -11,10 +11,12 @@
     {
       "id": 3,
       "image": "https://api.androidhive.info/json/movies/3.jpg"
-    },
+    }
+  ],
+  "notice": [
     {
-       "id": 3,
-      "image": "https://api.androidhive.info/json/movies/4.jpg"
+      "title": "공지사항",
+      "board": "안녕하세요. 온에어티비 입니다.\n본 앱은 현재 무상서비스 입니다.\n저희 TndSoft는 구글플레이 개발자 정책에 따라 레이아웃을 변경 하였습니다.\n크롬 캐스트의 마지막 테스트를 거치고 곧 출시 할 예정 입니다.\n감사 합니다."
     }
   ],
   "menu": [
