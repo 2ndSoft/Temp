@@ -1,16 +1,19 @@
 {
   "image": [
     {
-      "id": 1,
-      "image": "https://api.androidhive.info/json/movies/1.jpg"
+      "title": "TndSoft Test1",
+      "image": "https://api.androidhive.info/json/movies/1.jpg",
+      "releaseYear": 2020
     },
     {
-      "id": 2,
-      "image": "https://api.androidhive.info/json/movies/2.jpg"
+      "title": "TndSoft Test2",
+      "image": "https://api.androidhive.info/json/movies/2.jpg",
+      "releaseYear": 2020
     },
     {
-      "id": 3,
-      "image": "https://api.androidhive.info/json/movies/3.jpg"
+      "title": "TndSoft Test3",
+      "image": "https://api.androidhive.info/json/movies/3.jpg",
+       "releaseYear": 2020
     }
   ],
   "notice": [
