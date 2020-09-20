@@ -1,4 +1,4 @@
-{
+[{
   "image": [
     {
       "title": "TndSoft Test1",
@@ -814,5 +814,4 @@
       "name": "홈&쇼핑",
       "stream_url": "http://1.214.67.206/vod/64901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     }
-  ]
-}
+}]
