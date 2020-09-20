@@ -98,6 +98,11 @@
     },
     {
       "cid": 1,
+      "name": "JIBS|SBS",
+      "stream_url": "http://123.140.197.22/stream/1_2000_53809/index.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "JTBC[1]",
       "stream_url": "http://1.214.67.100/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
