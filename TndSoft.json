@@ -1,10 +1,12 @@
 {
   "image": [
     {
-      "img": "https://t1.daumcdn.net/cfile/tistory/994B9A475ACC1A360C"
+      "img": "https://t1.daumcdn.net/cfile/tistory/994B9A475ACC1A360C",
+      "releaseYear": 2020
     },
     {
-      "img": "https://t1.daumcdn.net/cfile/tistory/99B176475ACC1A3707"
+      "img": "https://t1.daumcdn.net/cfile/tistory/99B176475ACC1A3707",
+      "releaseYear": 2020
     }
   ],
   "menu": [
