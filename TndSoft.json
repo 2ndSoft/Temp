@@ -1,14 +1,7 @@
 {
-  [
+  "notice": [
     {
-      "title": "Dawn of the Planet of the Apes",
-      "img": "https://t1.daumcdn.net/cfile/tistory/994B9A475ACC1A360C",
-      "releaseYear": 2020
-    },
-    {
-      "title": "Dawn of the Planet of the Apes",
-      "img": "https://t1.daumcdn.net/cfile/tistory/99B176475ACC1A3707",
-      "releaseYear": 2020
+      "board": "[긴급패치] 안녕 하세요. 온에어티비 입니다. 현재 구글정책으로 인해 온에어티비를 긴급 업데이트하게 되었습니다."
     }
   ],
   "menu": [
@@ -107,6 +100,11 @@
       "cid": 1,
       "name": "CJB|SBS",
       "stream_url": "https://5ee9be10640ac.streamlock.net/live/cjbtv/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "JIBS|SBS",
+      "stream_url": "http://123.140.197.22/stream/1_2000_53809/index.m3u8"
     },
     {
       "cid": 1,
