@@ -29,6 +29,11 @@
   "channels": [
     {
       "cid": 1,
+      "name": "유튜브",
+      "stream_url": "https://www.youtube.com/embed/mxJGDa7ThbE?autoplay=1&loop=1"
+    },
+    {
+      "cid": 1,
       "name": "KBS1",
       "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1600637259&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDYzNzI1OX19fV19&Signature=ji96~hGAt1zGsxIaCE~is103hmtvw2tYvqedBotbGEgdC5ir--xxinK8zyMHjy2OBstQyYPbQWDAe~iIe-TBklNBOhsTHo4QvnmE7OzCGAWIVUrSV7g8a-ao25pPzZ5FfN1jSucdbVM8EJUQXWhTAlky1Js6kNialHlwpwz1LjvJKXAOYsnEcNcxG0eVe-G6MIYHTTnlLBUUlPh3krCGj38zur9nAdLF4VVps7zI3k9~O4-aljeIUiLk6vtqSUAKR-TGLh7rhW-Djg3HZr5WXYsvEh0AW2IpG3-awtePN-dIqBJjWGjdrth2SCZ8XWEKqYWHEHBtZcM-MSLAiGqNyw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
