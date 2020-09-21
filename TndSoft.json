@@ -39,37 +39,37 @@
     },
     {
       "cid": 1,
-      "name": "춘천MBC",
+      "name": "MBC춘천",
       "stream_url": "https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "강원영동MBC",
+      "name": "MBC강원영동",
       "stream_url": "http://123.254.72.24:1935/tvlive/livestream/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "충북MBC",
+      "name": "MBC충북",
       "stream_url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "여수MBC",
+      "name": "MBC여수",
       "stream_url": "https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "대구MBC",
+      "name": "MBC대구",
       "stream_url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "울산MBC",
+      "name": "MBC울산",
       "stream_url": "https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8"
     },
     {
       "cid": 1,
-      "name": "제주MBC",
+      "name": "MBC제주",
       "stream_url": "https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8"
     },
     {
