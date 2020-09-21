@@ -484,6 +484,16 @@
     },
     {
       "cid": 2,
+      "name": "[미국] DRYBAR",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "[미국] ABC News",
+      "stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+    },
+    {
+      "cid": 2,
       "name": "[미국] CBSN",
       "stream_url": "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
     },
