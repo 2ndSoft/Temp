@@ -28,6 +28,16 @@
   "channels": [
     {
       "cid": 1,
+      "name": "[야경맛집] 서울나들이",
+      "stream_url": "http://210.179.218.52:1935/live/274.stream/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[야경맛집] 서울나들이",
+      "stream_url": "http://211.252.223.176:1935/live/717.stream/playlist.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "KBS1",
       "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1601121959&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTEyMTk1OX19fV19&Signature=ZqnGVkI6-6IW5Z9146TPcTcvrCQ-UOm~u5FefCJPrah~nU-8Du-97apWE-zSocjYaIfJNkYnvd0a4PPupBCmKA6YGgI8YqZoxBBADDPOvANdbftzxYONKrCCoIb4iSjh--O9HcwzjmCFoch~DmguVtwkQGN3HesoUZi46kxXYJIoWozTHQXkT3o8WQlq1WshBNug2~dOtygN1Z-g7LDZZF0aHnbS-c~GRHRI8YkepzmWjFHcTkP5Rqi8iTjTWM2opQdL~MfhZU8Z-biXartj2GMXFgEfVzPfFibXRrA4t1qOApkavQTMFHNdbKs~XrJXPUc34oRZbrMtPWtTQUaYAA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
