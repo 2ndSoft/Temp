@@ -29,7 +29,12 @@
   "channels": [
     {
       "cid": 1,
-      "name": "뉴욕 타임스퀘어",
+      "name": "뉴욕 타임스퀘어1",
+      "stream_url": "aHR0cDovL3ZpZGVvczMuZWFydGhjYW0uY29tL2ZlY25ldHdvcmsvaGR0aW1lczEwLmZsdi9jaHVua2xpc3RfdzQ4NzUwOTEzLm0zdTg="
+    },
+    {
+      "cid": 1,
+      "name": "뉴욕 타임스퀘어2",
       "stream_url": "aHR0cDovL3ZpZGVvczMuZWFydGhjYW0uY29tL2ZlY25ldHdvcmsvOTk3NC5mbHYvY2h1bmtsaXN0X3cxODAyNTg3Mzc1Lm0zdTg="
     },
     {
