@@ -28,6 +28,16 @@
   "channels": [
     {
       "cid": 1,
+      "name": "[실시간] 서울나들이",
+      "stream_url": "http://210.179.218.52:1935/live/274.stream/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "[실시간] 뉴욕나들이 in 타임스퀘어",
+      "stream_url": "http://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8"
+    },
+    {
+      "cid": 1,
       "name": "KBS1",
       "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1601170538&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTE3MDUzOH19fV19&Signature=OnfxJW-Dd1EXFw7-vlNP5yEeX7PkK3aOoDL1WtfldhZQ23~2dXC2cTM1NWPQwtPnq2ed-b5AnXDaZyeYdRk6X2oN4YJVIHpw4acdmG7IcQjSapKjG5LRA8JpQfM7ao5jrq3zsC~lodF46qkcN51UGepQG2xVCP2Uo~XL0~U3Wdvmn~fljmz8G98A~kXaT1-mlJMQGrTMzev5ubpz3XQdO6~dYrVAaYR69xuyjpXWrRfiH02WUSyEQD7TtOWQwhByY6WiZnBtGOotjt5xy2pVy0ucifqNyBJgG7~kkYVM8EykZixRqucZ1VWZxSq032ZL66KXArU-pLcknrORQk8FGA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
