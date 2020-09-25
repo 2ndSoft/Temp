@@ -29,12 +29,12 @@
     {
       "cid": 1,
       "name": "[실시간캠 타임스퀘어] 뉴욕나들이",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/9974.flv/chunklist_w617671133.m3u8"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8"
     },
     {
       "cid": 1,
       "name": "[실시간캠 브루클린] 뉴욕나들이",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/3983.flv/chunklist_w734200178.m3u8"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/3983.flv/playlist.m3u8"
     },
     {
       "cid": 1,
