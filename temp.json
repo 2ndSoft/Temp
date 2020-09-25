@@ -27,6 +27,11 @@
     }
   ],
   "channels": [
+     {
+      "cid": 1,
+      "name": "TEST",
+      "stream_url": "http://onair.kbs.co.kr/"
+    },
     {
       "cid": 1,
       "name": "뉴욕 타임스퀘어",
