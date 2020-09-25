@@ -1,5 +1,4 @@
 {
-  "notice": "[Notice] 온에어티비는 무상서비스 입니다. 이 앱에서는 수익을 창출하지 않습니다. - 언제어디서나 온에어티비 -",
   "menu": [
     {
       "id": 1,
@@ -30,12 +29,12 @@
     {
       "cid": 1,
       "name": "KBS1",
-      "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1600957262&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDk1NzI2Mn19fV19&Signature=hIbt4IrGZQrhPU4XygPeFVMwPEp-HFGzXobci-zlbf9PNhr4ukl3RseTgZVNqoEiy-KovVcB1z2OrDCNcHB~bN2rcX~qXgqXiZIdgSg6DwplKE7dgYSMdciRs69U-XjDSKIYvuTY~QFrLVEVjXDiAgXaHeBZqXVK0sHx3XK65iFNouH30OyLUYcsaBmv9K75ib0b1fQCAnn2Cqq1ZqCyMtyqCrnBy22-NDAXDj2fTQEle3zNUECdfqoi38~aizVnm3ogDJrXHQeZP~yVzMmxVa3J78Z1Q1NibSDe1jOFW8OpXBNxVmQhkfHpkx855V1gxP7U~HYZ9fe-153DVVVqKg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1601170538&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTE3MDUzOH19fV19&Signature=OnfxJW-Dd1EXFw7-vlNP5yEeX7PkK3aOoDL1WtfldhZQ23~2dXC2cTM1NWPQwtPnq2ed-b5AnXDaZyeYdRk6X2oN4YJVIHpw4acdmG7IcQjSapKjG5LRA8JpQfM7ao5jrq3zsC~lodF46qkcN51UGepQG2xVCP2Uo~XL0~U3Wdvmn~fljmz8G98A~kXaT1-mlJMQGrTMzev5ubpz3XQdO6~dYrVAaYR69xuyjpXWrRfiH02WUSyEQD7TtOWQwhByY6WiZnBtGOotjt5xy2pVy0ucifqNyBJgG7~kkYVM8EykZixRqucZ1VWZxSq032ZL66KXArU-pLcknrORQk8FGA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
       "name": "KBS2",
-      "stream_url": "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1600957210&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDk1NzIxMH19fV19&Signature=SVW-8PijNj92XddVRsS0-XZ66ZQucS2NnNxbKZRHKQZGVzxizkEgvMHwNNtwqIYvcV8ttjLxvuFbdjcA0LfrV2K~vnzLglqh3UVBtCFPIQ5DiAwZ7EEaPFQb7~ZYNVI0WJcXCOnfRWJnE8TkylbBgFezVtpf52tvvLVhSwI83qWhJoj1AF9xnaTLA0No18PEXYb2sM0ZSJtbLhHTgZ1YvX9IwzpwcsIpRAk52tYqylg2ZkFZlC5TQkwGuWo9wa-XYKbipjCposuhZCBwYGTuSsyUCwN7qWlYLj4lA1Cjy2pTiFVixIZpJupHOLQ1GwmUxgMSID3r20TaQLUkG46d-g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1601170597&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTE3MDU5N319fV19&Signature=WtWbxMJOuF6-Y4bH7JICSstFIUK0TBuRAxp1eYG5OljeEj2V7DNdQUltWVGeuc5vQl8HW57jaDkcFFfZpTBTki4uWH7Lfk0w3OOalPoxtuvJDdTqE0DAqFcjEVpJ63FBjEEKKr0fIu9-UYgJoVwHAkcxaB9yvTp~6pn6IDVIPVQECaZuTZ0Hlrsg4-MRdhofshgEVr-WdJ-bljnnhj3Tjy8z7R2MjBw0w8VE7dvsPYok3FqhODBYtpALdpjlBof7k-xPmah5EQMcRWqAORX~o1yKyvpeka5-ozzMo4xorJ27FFcGllPKAYDCOCxfpE8EqDPMLSwNG0vhmPd978x3VA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
     },
     {
       "cid": 1,
