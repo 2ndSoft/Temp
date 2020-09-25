@@ -219,12 +219,12 @@
     {
       "cid": 1,
       "name": "KCTV 제주방송",
-      "stream_url": "https://5b99fdb0a9492.streamlock.net/LIVE/ch7/playlist.m3u8"
+      "stream_url": "https://vod.kctvjeju.com/LIVE/ch7/playlist.m3u8"
     },
     {
       "cid": 1,
       "name": "KCTV20 제주방송",
-      "stream_url": "https://5b99fdb0a9492.streamlock.net/ch7/ch4/playlist.m3u8"
+      "stream_url": "https://vod.kctvjeju.com/ch7/ch4/playlist.m3u8"
     },
     {
       "cid": 2,
