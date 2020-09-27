@@ -668,56 +668,63 @@
       "cid": 2,
       "name": "[미국] TBD",
       "stream_url": "aHR0cDovL2NvbnRlbnQudXBseW5rLmNvbS9jaGFubmVsLzE4MzExNjNmOTc2NzQzMjhhZDlmNGI0ODE0ZWQzOWM1Lm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tbd.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 2,
       "name": "[미국] Pop",
       "stream_url": "aHR0cHM6Ly9saXZlLXBvcHR2LWZhc3RseS1wcm9kLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldC9wb3AvbWFzdGVyLm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/pop.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 2,
       "name": "[미국] ET Live",
       "stream_url": "aHR0cHM6Ly9ldGxpdmUtbWVkaWFwYWNrYWdlLWZhc3RseS5jYnNhYXZpZGVvLmNvbS9kdnIvbWFuaWZlc3QubTN1OA==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/et.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 2,
       "name": "[미국] DRYBAR",
       "stream_url": "aHR0cHM6Ly81OWQzOTkwMGViZmI4LnN0cmVhbWxvY2submV0L21vbGF1Z2h0ZXJ0di9tb2xhdWdodGVydHYvcGxheWxpc3QubTN1OA==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/drybar.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 2,
       "name": "[미국] ABC News",
       "stream_url": "aHR0cHM6Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC8zMzI0ZjI0NjdjNDE0MzI5YjNiMGNjNWNkOTg3YjZiZS5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/abcnews.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 2,
       "name": "[미국] CBSN",
       "stream_url": "aHR0cHM6Ly9jYnNuZXdzaGQtbGguYWthbWFpaGQubmV0L2kvQ0JTTkhEXzdAMTk5MzAyL21hc3Rlci5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cbsn.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 2,
       "name": "[미국] CNN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83MjkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cnn.png",
+      "info": "현재채널 정보가 없습니다."
+    },
+    {
+      "cid": 2,
+      "name": "[미국] CNN",
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83MjkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cnn.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 3,
-      "name": "OGN",
-      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82ODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "",
+      "name": "[영국] BBC",
+      "stream_url": "aHR0cHM6Ly9lZGdlLTExOTItY2gtZ3YuZmlsbW9uLmNvbS9saXZlLzMxNjYuaGlnaC5zdHJlYW0vcGxheWxpc3QubTN1OA==",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bbc.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
