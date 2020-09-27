@@ -714,17 +714,17 @@
       "info": "현재채널 정보가 없습니다."
     },
     {
-      "cid": 2,
-      "name": "[미국] CNN",
-      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83MjkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cnn.png",
-      "info": "현재채널 정보가 없습니다."
-    },
-    {
       "cid": 3,
       "name": "[영국] BBC",
       "stream_url": "aHR0cHM6Ly9lZGdlLTExOTItY2gtZ3YuZmlsbW9uLmNvbS9saXZlLzMxNjYuaGlnaC5zdHJlYW0vcGxheWxpc3QubTN1OA==",
       "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bbc.png",
+      "info": "현재채널 정보가 없습니다."
+    },
+    {
+      "cid": 3,
+      "name": "OGN",
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82ODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "img": "",
       "info": "현재채널 정보가 없습니다."
     },
     {
