@@ -1039,119 +1039,119 @@
       "cid": 6,
       "name": "GS SHOP",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gsshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "GS MYSHOP",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNzQwMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gsmyshop.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 6,
       "name": "현대홈쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/hydeashop.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 6,
       "name": "현대홈쇼핑PLUS#",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNzYwMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/hdshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "NS홈쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjczMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nshomeshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "CJ오쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjcyMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cjshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "CJ오쇼핑+",
       "stream_url": "aHR0cDovL2Nqb3Nob3BwaW5ncGx1cy5saXZlLmNkbi52aXNpb25jbG91ZC5jby5rci9jam9zcGx1cy9saXZlMi9wbGF5bGlzdC5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cjoshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "롯데홈쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc0MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/lotteshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "롯데OneTV",
       "stream_url": "aHR0cDovL29uZXR2aGxzbGl2ZS5sb3R0ZWltYWxsLmNvbS9sb3R0ZW9uZXR2bGl2ZS9fZGVmaW5zdF8vbG90dGVvbmV0dmxpdmUubXA0Lm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/lotteone.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "NS Shop+",
       "stream_url": "aHR0cDovL3Nob3Bwc3RyZWFtLm5zbWFsbC5jb206MTkzNS9JUEhPTkUvUEMubTN1OA==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nsshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "W쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvODEzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/wshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "신세계쇼핑",
       "stream_url": "aHR0cDovL3dsaXZlb3V0LmtvbGx1cy5jb20vc2hpbnNlZ2FldHZzaG9wcGluZ19oMDAwMGsvaW5kZXgubTN1OA==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sinshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "쇼핑엔티",
       "stream_url": "aHR0cDovLzExNC4xMDguMzEuMjMvbGl2ZS8xMDAxMS5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/shoppingent.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "공영쇼핑",
       "stream_url": "aHR0cDovL3Nob3BwaW5nZmx2LngtY2RuLmNvbS9tc2hvcGxpdmUvX2RlZmluc3RfL2xpdmUxLnN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gongshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "SK스토아",
       "stream_url": "aHR0cDovL2Nhc3QuYnNob3BwaW5nLmNvLmtyOjgwODAvbGl2ZS9CU0hPUFBJTkdfSEQvcGxheWxpc3QubTN1OA==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/skstoa.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "K쇼핑",
       "stream_url": "aHR0cDovL2Nkbndvdy5rc2hvcC5jby5rcjo4MDgwL2xpdmV0di9TdHJlYW0xL3BsYXlsaXN0Lm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kshop.png",
       "info": "현재채널 정보가 없습니다."
     }, 
     {
       "cid": 6,
       "name": "홈&쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjQ5MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/homeshop.png",
       "info": "현재채널 정보가 없습니다."
     }
   ]
