@@ -976,63 +976,63 @@
       "cid": 5,
       "name": "CGNTV",
       "stream_url": "aHR0cDovL2NnbnR2LWdsaXZlLm9mc2RlbGl2ZXJ5Lm5ldC9saXZlL19kZWZpbnN0Xy9jZ250dl9rcjAyL3BsYXlsaXN0Lm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cgntv.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "CBSTV",
       "stream_url": "aHR0cDovL2Nicy1saXZlLmdzY2RuLmNvbToxOTM1L2Nicy1saXZlL2Nicy1saXZlLnN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cbs.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "CTS 기독교방송",
       "stream_url": "aHR0cHM6Ly9kMzR0NXlqejFvb3ltai5jbG91ZGZyb250Lm5ldC9vdXQvdjEvODc1MDM5ZDVlYmEwNDc4ZmE4Mzc1YTA2YjNhYTVhMzcvaW5kZXhfMi5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cts.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "CTS2 기독교방송",
       "stream_url": "aHR0cDovL2V4dGVybmFsLmNkbi56cm9hZC50di9DaHVyY2hUVi9saXZlL3BsYXlsaXN0Lm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cts2.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "GOODTV",
       "stream_url": "aHR0cDovL21vYmxpZXN0cmVhbS5jM3R2LmNvbToxOTM1L2xpdmUvZ29vZHR2LnNkcC9wbGF5bGlzdC5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/goodtv.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "카톨릭 평화방송",
       "stream_url": "aHR0cDovL29uYWlyMS5jcGJjLmNvLmtyOjE5MzUvdHYvc21pbDpsaXZlLnNtaWwvcGxheWxpc3QubTN1OA==",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cpbc.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "C채널",
       "stream_url": "aHR0cDovLzExMi4xNzUuNTEuMjE0OjE5MzUvbGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cch.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "BBS 불교방송",
       "stream_url": "aHR0cDovL2Jic3R2LmNsb3VkdWNzLmNvbToxOTM1L2Jic3R2LWxpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bbs.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
       "cid": 5,
       "name": "WBS 원음방송",
       "stream_url": "aHR0cDovL2xpdmUuY2RuLnNtaWxlY2RuLmNvbToxOTM1L3l1bmhvOTBfbGl2ZS9saXZlL3BsYXlsaXN0Lm0zdTg=",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/wbs.png",
       "info": "현재채널 정보가 없습니다."
     },
     {
