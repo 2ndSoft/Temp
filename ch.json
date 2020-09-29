@@ -334,7 +334,7 @@
     {
       "cid": 2,
       "name": "K STAR",
-      "stream_url": "http://211.170.95.16/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "http://211.170.95.21/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
@@ -604,7 +604,7 @@
     {
       "cid": 3,
       "name": "FISHING TV[1]",
-      "stream_url": "http://211.170.95.16/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "http://211.170.95.21/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
