@@ -31,1128 +31,967 @@
       "cid": 1,
       "name": "뉴욕 타임스퀘어1",
       "stream_url": "aHR0cDovL3ZpZGVvczMuZWFydGhjYW0uY29tL2ZlY25ldHdvcmsvaGR0aW1lczEwLmZsdi9jaHVua2xpc3RfdzQ4NzUwOTEzLm0zdTg=",
-      "img": "",
-      "info": "현재채널 정보가 없습니다."
+      "info": "실시간CCTV|미국 뉴욕 타임스퀘어"
     },
     {
       "cid": 1,
       "name": "뉴욕 타임스퀘어2",
       "stream_url": "aHR0cDovL3ZpZGVvczMuZWFydGhjYW0uY29tL2ZlY25ldHdvcmsvOTk3NC5mbHYvY2h1bmtsaXN0X3cxODAyNTg3Mzc1Lm0zdTg=",
-      "img": "",
-      "info": "현재채널 정보가 없습니다."
+      "info": "실시간CCTV|미국 뉴욕 타임스퀘어"
     },
     {
       "cid": 1,
       "name": "KBS1",
       "stream_url": "aHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OD9FeHBpcmVzPTE2MDEzNDQ4MzQmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92THpGMGRpNW5jMk5rYmk1clluTXVZMjh1YTNJdk1YUjJMVzB2TVhSMkxXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TVRNME5EZ3pOSDE5ZlYxOSZTaWduYXR1cmU9YTU4NzRzMU5NcnpyeG96Ylloc0VQb2Jub25ubmJsN1h6UlJsdEF0SkdFR1dKcHZudlRLWW5IeTZ1YjNsVS1RZWlEZUg4UnVYOVpPTXNWQ0VULVZqc0RFRmFMT0RqUGJlVHRsSHowTHJ0RVpuRTZRWTlNRnQtTHRvOVE2WjBheHp2VjY2NUNnZ0dURnFIQnpvUGpzZzJDQ1dueFItWUJraHN2bGQ1V0VUeE4wVnNYMzl2M2FWdVFpbkdIYkZ2Nld2S3pIYnpvOHFjdmx5ODNjZnRjQ2hGUlJTfkpMd1hPQ05yQ1ZDVXBESzFzeVRoclhFWXpoQVFZWUJiSmZ+RlNNRm1TMzFPc35xVWtpTWtTNkF6US1uMC1UWEZILUZVSGwwTHR2R1M4N1Q5N2pjZ3MxVXZ0RkhRYXBXa0xkdG43SUdmWW9KY2REd1p4MTBtSEJqVUd+aGdBX18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbs1.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS1 TV"
     },
     {
       "cid": 1,
       "name": "KBS2",
       "stream_url": "aHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OD9FeHBpcmVzPTE2MDEzNDQ4MjImUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92THpKMGRpNW5jMk5rYmk1clluTXVZMjh1YTNJdk1uUjJMVzB2TW5SMkxXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TVRNME5EZ3lNbjE5ZlYxOSZTaWduYXR1cmU9VWw2ZlEwbTVIT1gyWlliZk54bVdIZ2R6N2dNOUw4RkxjMzI2Qk05bkZsb2JLaXItfmU4YTNqSnBycVpGa2U1N3N2dUdOcnE2cXVaVExDZExybWV6aUpqY3U0T1YxcWxFZlhJYzR4TWZTazhjbFpmVnYzQmcwbmpwdTJUbC1wZnBsS05BRHV6RzB4VjZEZFZFQ0E0aDJvSmljV0dWNC0yalRBN09hUW53anpha3RxZmNRTi1NbTFEYTVmZ3NLQVk2TEtwczlOUTNIWjV6QkwtNlJwdmM3bXJRekFoLTNNRlJXN21Fb3ZseWRDbHRUaDJQWXdwTjN4c0xaSGIxbGVReDEyR1R1R0stdC0xaTV5ZWpRRUtSLWZlc1NXYldYSXFpajcxQjJ6d0x5OFlNTX5zUnhBaTE4ekNId05UNHRnZm5uVGU0ZGRuRjdOZjlnLUltUTNVaGhBX18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbs2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS2 TV"
     },
     {
       "cid": 1,
       "name": "MBC춘천",
       "stream_url": "aHR0cHM6Ly81Yzc0OTM5Yzg5MWRjLnN0cmVhbWxvY2submV0L2xpdmUvVFYvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC춘천"
     },
     {
       "cid": 1,
       "name": "MBC강원영동",
       "stream_url": "aHR0cDovLzEyMy4yNTQuNzIuMjQ6MTkzNS90dmxpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC강원영동"
     },
     {
       "cid": 1,
       "name": "MBC충북",
       "stream_url": "aHR0cDovLzIxMS4zMy4yNDYuNDozMjk1NC9jal9saXZlL215U3RyZWFtLnNkcC9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC충북"
     },
     {
       "cid": 1,
       "name": "MBC여수",
       "stream_url": "aHR0cHM6Ly81YzM2MzlhYTk5MTQ5LnN0cmVhbWxvY2submV0L2xpdmVfVFYvVFYvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC여수"
     },
     {
       "cid": 1,
       "name": "MBC대구",
       "stream_url": "aHR0cHM6Ly81ZWUxZWM2ZjMyMTE4LnN0cmVhbWxvY2submV0L2xpdmUvbGl2ZXR2L3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC대구"
     },
     {
       "cid": 1,
       "name": "MBC울산",
       "stream_url": "aHR0cHM6Ly81ZGRmZDE2M2JkMDBkLnN0cmVhbWxvY2submV0L25IRFRWL25IRFRWL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC울산"
     },
     {
       "cid": 1,
       "name": "MBC제주",
       "stream_url": "aHR0cHM6Ly81Y2Y1OGE1NTZmOWIyLnN0cmVhbWxvY2submV0OjQ0My9saXZlL3R2X2planVtYmMvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC제주"
     },
     {
       "cid": 1,
       "name": "KNN|SBS",
       "stream_url": "aHR0cDovLzIxMS4yMjAuMTk1LjIwMDoxOTM1L2xpdmUvbXA0OktublRWLnNkcC9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KNN|SBS"
     },
     {
       "cid": 1,
       "name": "TBC|SBS",
       "stream_url": "aHR0cDovLzIyMS4xNTcuMTI1LjIzOToxOTM1L2xpdmUvcHNpa2UvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TBC|SBS"
     },
     {
       "cid": 1,
       "name": "KBC|SBS",
       "stream_url": "aHR0cDovLzExOS4yMDAuMTMxLjExOjE5MzUvS0JDVFYvdHYvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBC|SBS"
     },
     {
       "cid": 1,
       "name": "TJB|SBS",
       "stream_url": "aHR0cDovLzEuMjQ1Ljc0LjU6MTkzNS9saXZlL3R2Ly5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TJB|SBS"
     },
     {
       "cid": 1, 
       "name": "UBC|SBS",
       "stream_url": "aHR0cDovLzU5LjI1LjIwMi44MjoxOTM1L2xpdmUvVUJDc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "UBC|SBS"
     },
     {
       "cid": 1,
       "name": "CJB|SBS",
       "stream_url": "aHR0cHM6Ly81ZWU5YmUxMDY0MGFjLnN0cmVhbWxvY2submV0L2xpdmUvY2pidHYvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CJB|SBS"
     },
     {
       "cid": 1,
       "name": "JIBS|SBS",
       "stream_url": "aHR0cDovLzEyMy4xNDAuMTk3LjIyL3N0cmVhbS8xXzIwMDBfNTM4MDkvaW5kZXgubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JIBS|SBS"
     },
     {
       "cid": 1,
-      "name": "JTBC[1]",
+      "name": "[1]JTBC",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ3MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JTBC"
     },
     {
       "cid": 1,
-      "name": "JTBC[2]",
+      "name": "[2]JTBC",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNzQ3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JTBC"
     },
     {
       "cid": 1,
-      "name": "JTBC[3]",
+      "name": "[3]JTBC",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzc0NzAyLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JTBC"
     },
     {
       "cid": 1,
-      "name": "JTBC[4]",
+      "name": "[4]JTBC",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuNTAvdm9kLzc0NzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JTBC"
     },
     {
       "cid": 1,
-      "name": "MBN[1]",
+      "name": "[1]MBN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC83NTAwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBN"
     },
     {
       "cid": 1,
-      "name": "MBN[2]",
+      "name": "[2]MBN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzUwMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBN"
     },
     {
       "cid": 1,
-      "name": "MBN[3]",
+      "name": "[3]MBN",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzc1MDAyLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBN"
     },
     {
       "cid": 1,
-      "name": "MBN[4]",
+      "name": "[4]MBN",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuODAvdm9kLzc1MDAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBN"
     },
     {
       "cid": 1,
-      "name": "TV조선[1]",
+      "name": "[1]TV조선",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC83NDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tvchosun.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TV조선"
     },
     {
       "cid": 1,
-      "name": "TV조선[2]",
+      "name": "[2]TV조선",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ2MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tvchosun.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TV조선"
     },
     {
       "cid": 1,
-      "name": "TV조선[3]",
+      "name": "[3]TV조선",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTA2L3ZvZC83NDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tvchosun.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TV조선"
     },
     {
       "cid": 1,
-      "name": "TV조선[4]",
+      "name": "[4]TV조선",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NDYwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tvchosun.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TV조선"
     },
     {
       "cid": 1,
-      "name": "채널A[1]",
+      "name": "[1]채널A",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ5MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cha.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "채널A[2]",
+      "name": "[2]채널A",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNzQ5MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cha.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "채널A[3]",
+      "name": "[3]채널A",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NDkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cha.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "채널A[4]",
+      "name": "[4]채널A",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE4L3ZvZC83NDkwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cha.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "OBS[1]",
+      "name": "[1]OBS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTk2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/obs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "OBS"
     },
     {
       "cid": 1,
-      "name": "OBS[2]",
+      "name": "[2]OBS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTk2MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/obs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "OBS"
     },
     {
       "cid": 1,
       "name": "OBSW",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjQ4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/obsw.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "OBSW"
     },
     {
       "cid": 1,
       "name": "[북한] 조선중앙TV",
       "stream_url": "aHR0cHM6Ly90di5ua25ld3Mub3JnL3R2aGxzL3N0cmVhbS5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/chosunc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "북한|조선중앙TV"
     },
     {
       "cid": 1,
       "name": "KCTV 제주방송",
       "stream_url": "aHR0cHM6Ly92b2Qua2N0dmplanUuY29tL0xJVkUvY2g3L3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kctv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KCTV7|제주방송"
     },
     {
       "cid": 1,
       "name": "KCTV20 제주방송",
       "stream_url": "aHR0cHM6Ly92b2Qua2N0dmplanUuY29tL2NoNy9jaDQvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kctv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KCTV20|제주방송"
     },
     {
       "cid": 2,
-      "name": "tvn[1]",
+      "name": "[1]tvn",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC82ODIwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tvn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "tvn"
     },
     {
       "cid": 2,
-      "name": "tvn[2]",
+      "name": "[2]tvn",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTA2L3ZvZC82ODIwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tvn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "tvn"
     },
     {
       "cid": 2,
-      "name": "YTN[1]",
+      "name": "[1]YTN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC82OTgwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ytn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "YTN"
     },
     {
       "cid": 2,
-      "name": "YTN[2]",
+      "name": "[2]YTN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjk4MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ytn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "YTN"
     },
     {
       "cid": 2,
-      "name": "연합뉴스TV[1]",
+      "name": "[1]연합뉴스TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC83MzQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/yhntv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "연합뉴스TV"
     },
     {
       "cid": 2,
-      "name": "연합뉴스TV[2]",
+      "name": "[2]연합뉴스TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzM0MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/yhntv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "연합뉴스TV"
     },
     {
       "cid": 2,
       "name": "KBS 24",
       "stream_url": "aHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OD9FeHBpcmVzPTE2MDEzNDQ3ODQmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDI1bGQzTXlOQzVuYzJOa2JpNXJZbk11WTI4dWEzSXZibVYzY3pJMExXMHZibVYzY3pJMExXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TVRNME5EYzROSDE5ZlYxOSZTaWduYXR1cmU9ajVzN0lRZ01RNG00dWRzTjRLdkZzZ2toMmNGY3FpRExwTzNUalFBSU5qbkIyYXNpcHR6TWVWRDF2cUpOdmVtZWdieUN",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbs24.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS 24"
     },
     {
       "cid": 2,
       "name": "KBS Drama",
       "stream_url": "aHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OD9FeHBpcmVzPTE2MDEzNDQ3OTkmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNWtjbUZ0WVM1bmMyTmtiaTVyWW5NdVkyOHVhM0l2YTJKemJtUnlZVzFoTFcwdmEySnpibVJ5WVcxaExXMWZjMlF1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TVRNME5EYzVPWDE5ZlYxOSZTaWduYXR1cmU9SXN2TWRzUm9DQm85eHRHS3B3YXJyM35rOW9mem4zcU96NGlreEV0a3dwRGJ5Q2c3dldoclB5SERoZ25zRzlQZUVqUThXbWVRMlJYaHdwdGJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbsdrama.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS Drama"
     },
     {
       "cid": 2,
       "name": "KBS joy",
       "stream_url": "aHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OD9FeHBpcmVzPTE2MDEzNDQ4MTgmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXFiM2t1WjNOalpHNHVhMkp6TG1OdkxtdHlMMnRpYzI1cWIza3RiUzlyWW5OdWFtOTVMVzFmYzJRdWJUTjFPQ0lzSWtOdmJtUnBkR2x2YmlJNmV5SkVZWFJsVEdWemMxUm9ZVzRpT25zaVFWZFRPa1Z3YjJOb1ZHbHRaU0k2TVRZd01UTTBORGd4T0gxOWZWMTkmU2lnbmF0dXJlPWtxWUhNcjBsclpWZWZMenBtb1NlTVRRc01RckRyN2lNSDg3M2dlbGlGSDE2ZGRnc0FES0xJWHN+QWVIRUdjRnllTmd1SmpiODNNa3JheXVUeG5TWUs5cGhILX5HYmlGMEFTOWRHbTd",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbsjoy.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS joy"
     },
     {
       "cid": 2,
       "name": "KBSW",
       "stream_url": "aHR0cDovL2tic253LmdzY2RuLmticy5jby5rci9rYnNudy1tL2tic253LW1fc2QubTN1OD9FeHBpcmVzPTE2MDEzNDQ4MTMmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNTNMbWR6WTJSdUxtdGljeTVqYnk1cmNpOXJZbk51ZHkxdEwydGljMjUzTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNVE0wTkRneE0zMTlmVjE5JlNpZ25hdHVyZT1GWEZ+N01oMlZidW9SdDFjTkRlc01jSEJXenBvRlJVSS1HfllNdFVURER+UjFzZWkxa3c2SHBqQ3k3N1NwTC1rVC1xUWc4NHVNY3hIV2lDfi0tcGtEdWhGcXZiZlBwaktpa35BUXhScUVwTjBTMkpBT2xZaEpvNjZ4ZWs2bDNpMmFOSU5BLXV+dDlKamJtblBFV0xjdm1rbDY4Q2hoN0luMU02UGRrU2NSbWFZenlJc0J+bmpFdmgtNkJXMUY1QXQ1Y0pWRmNiMnVKVXlZN0RvVDVyWmUtdHR3Qlo0dEdzRklsN2ZaSDk3YndPM0RvN2wtMm1Ib3BZcDZNSm5iS1FUOURSeTNYcmxCZ0dUbExPYX4tS0V+YXBydzMxUzRmOWpkN2dCR1pjaHV+RnRBVWZZVGNtZmt0djNkfn5yaUxpRWlDblNYdU9razBmY3FpbXZlOEE3blFfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbsw.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBSW"
     },
     {
       "cid": 2,
       "name": "KBSN LIFE",
       "stream_url": "aHR0cDovL2tic25saWZlLmdzY2RuLmticy5jby5rci9rYnNubGlmZS1tL2tic25saWZlLW1fc2QubTN1OD9FeHBpcmVzPTE2MDEzNDQ4MDkmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXNhV1psTG1kelkyUnVMbXRpY3k1amJ5NXJjaTlyWW5OdWJHbG1aUzF0TDJ0aWMyNXNhV1psTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNVE0wTkRnd09YMTlmVjE5JlNpZ25hdHVyZT1kYVRqa2puaXJNZU1Yd2tUNHk2eXc1UEdHMlc1TE5kfnByc0VsaFNVSHRyM3Q3d0h5amJWWS02RUloUUlkRVRBZlVWYm9wNnVwRXZzNU5Xb3E2RXVGaFlHbi1CeXRYYnRvbGxYQm1uOFV4ZkxEaHI1bkdEZ1JPNGhvenB2bHMtR1ZrZ3pERDNhdVRkekRUfmxTb2ZpWFZXTll1eU5LTmM4QVlRfmozRm4zQVpGMEpTbi1+c0p2SXJkV3RzRklOWGdUc1FzLVhtTlppTk9DZHdWbDhkQk9yYkhVaElGRllMNU1uS2VaSTBkQVdYQ1VKbDBJWjFjaG8xUjVzNlVwc2N+SmVyUVRuemlTRlBSeFdVRE5hSE1jd3Z4T1V1aWhWS0R5N3FySUlRSzRmZzMwRFlDUTlPUVYtd0FYTjJmdDJFRXRNYnZVfmpVRmR+ajhGTkdqcndDeXdfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbsnlife.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBSN LIFE."
     },
     {
       "cid": 2,
       "name": "KBS WORLD",
       "stream_url": "aHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OD9FeHBpcmVzPTE2MDEzNDQ4NTImUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDNkdmNteGtMbWR6WTJSdUxtdGljeTVqYnk1cmNpOTNiM0pzWkMxdEwzZHZjbXhrTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNVE0wTkRnMU1uMTlmVjE5JlNpZ25hdHVyZT1XNUNVT0hLZUNodzRDSTl+VURxYlVzZDd+ZzdvUGo3Rm9vbExQSVJNN2Mya3U3OWdoRWtsd0hibm1RT1BGZ1dNRm5QSDd5QndvS2NhU1h4RzVxcFV2UzFGYk44MGRiWWtDU29iMG5Vd2NiQ1J6T2hDRjdwaU0wfmV0NzdUU0hSMWlheW92c2JmYUZjVzZQdUZETXhoWVVhOEV3ZWpZanF4MmVHQWJNNzJqLWo1T0tXU2NYeDVxQ3A3T1V+dHVPa29VSm1GVFhlN2FVUzhSNUo1dkhNZmR1cXpBcVZ3TG1lOFhpRmE1QVM1bUd6fjhmQTV5TjRDSmhPZ21OSzdZZU1heXBZYmYweGdnZnBMVnBFRzRaSjl0dGdFMG9MUVVlSlZHTnhQWTdWODhKcldIWFpaWlFPWWh4TVk2eHhROUVVcmk2LVVkOUFNTGxzM2pTV2hsdVc0R1FfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbsworld.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS WORLD"
     },
     {
       "cid": 2,
       "name": "KBSN PLUS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC8zODkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbsnplus.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBSN PLUS"
     },
     {
       "cid": 2,
       "name": "SBS STAR",
       "stream_url": "aHR0cHM6Ly9zdHJlYW1pbmctYS04MDIuY2RuLm5leHRvbG9naWVzLmNvbS9TQlNfMTgvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SBS STAR"
     },
     {
       "cid": 2,
-      "name": "jtbc2[1]",
+      "name": "[1]jtbc2",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE2L3ZvZC82MDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "jtbc2"
     },
     {
       "cid": 2,
-      "name": "Jtbc2[2]",
+      "name": "[2]Jtbc2",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE4L3ZvZC82MDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Jtbc2"
     },
     {
       "cid": 2,
-      "name": "Jtbc4[1]",
+      "name": "[1]Jtbc4",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzY3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc4.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Jtbc4"
     },
     {
       "cid": 2,
-      "name": "Jtbc4[2]",
+      "name": "[2]Jtbc4",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NjcwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbc4.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Jtbc4"
     },
     {
       "cid": 2,
       "name": "Mnet",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzY4NzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mnet.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Mnet"
     },
     {
       "cid": 2,
       "name": "가요TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC83OTQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gayotv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "가요TV"
     },
     {
       "cid": 2,
       "name": "GM",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC82ODgwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gm.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "GM"
     },
     {
       "cid": 2,
       "name": "K STAR",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTYvdm9kLzY2MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kstar.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "K STAR"
     },
     {
       "cid": 2,
       "name": "Otvn",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjg5MDMubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/otvn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Otvn"
     },
     {
       "cid": 2,
       "name": "Xtvn",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjcxMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/xtvn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Xtvn"
     },
     {
       "cid": 2,
       "name": "STATV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/statv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "STATV"
     },
     {
       "cid": 2,
       "name": "TBS",
       "stream_url": "aHR0cDovLzU4LjIzNC4xNTguNjA6MTkzNS9jYXR2bGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TBS"
     },
     {
       "cid": 2,
       "name": "AsiaN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjU4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/asian.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "AsiaN"
     },
     {
       "cid": 2,
       "name": "중화TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI1MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/chinatv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "중화TV"
     },
     {
       "cid": 2,
       "name": "PLAYY프리미엄",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC8zOTEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/playy.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "PLAYY프리미엄"
     },
     {
       "cid": 2,
       "name": "PLAYY웰메이드",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTYvdm9kLzM5MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/playy.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "PLAYY웰메이드"
     },
     {
       "cid": 2,
       "name": "MTN",
       "stream_url": "aHR0cDovLzE4My4xMTAuMjcuODcvbXRubGl2ZS9fZGVmaW5zdF8vNzIwL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mtn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MTN"
     },
     {
       "cid": 2,
       "name": "TomatoTV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83NzEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tomatotv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "TomatoTV"
     },
     {
       "cid": 2,
       "name": "YTN SCIENCE",
       "stream_url": "aHR0cDovL3NsaXZlLnNjaWVuY2V0di5rcjoxOTM1L3NjaWVuY2UveXNsaXZlXzIwMTQwNDE5XzEvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ytnsien.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "YTN SCIENCE"
     },
     {
       "cid": 2,
       "name": "Olive",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjM4L3ZvZC82OTYwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/olive.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Olive"
     },
     {
       "cid": 2,
-      "name": "ON STYLE",
+      "name": "ONSTYLE",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzc4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/onstyle.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "ONSTYLE"
     },
     {
       "cid": 2,
       "name": "라이프타임",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNjAzMDEubTN1OD9TZXNzaW9uSUQ9OTY0NDEwZmEtNjk2OC00NjdmLTgyY2EtNWJiMDQ5MzY3ZWRjJlZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/lifetime.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "라이프타임"
     },
     {
       "cid": 2,
-      "name": "BILLIARDS TV",
+      "name": "BILLIARDS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjY4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/billiards.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "BILLIARDS"
     },
     {
       "cid": 2,
       "name": "POLARIS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/polaris.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "POLARIS"
     },
     {
       "cid": 2,
       "name": "ARTE",
       "stream_url": "aHR0cDovL2V0b21hdG9tb2JpbGUuaHNjZG4uY29tL2FydGVtb2JpbGUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/arte.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "ARTE"
     },
     {
       "cid": 2,
       "name": "NHTV농협방송",
       "stream_url": "aHR0cDovL25vbmdoeXVwLmZsaXZlLnNrY2RuLmNvbS9ub25naHl1cC9fZGVmaW5zdF8vbmhsaXZlL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nhtv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "NHTV농협방송"
     },
     {
       "cid": 2,
       "name": "한국농업방송",
       "stream_url": "aHR0cHM6Ly9tZWRpYS5qb3ljb3JwLmNvLmtyOjQ0NDMvbGl2ZS9saXZlXzcyMHAvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "한국농업방송"
     },
     {
       "cid": 2,
       "name": "한국직업방송",
       "stream_url": "aHR0cDovL2xpdmUud29ya3R2Lm9yLmtyOjE5MzUvbGl2ZS93b3d0dmxpdmUxLnNkcC9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kjtv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "한국직업방송"
     },
     {
       "cid": 2,
       "name": "G국악방송",
       "stream_url": "aHR0cHM6Ly9tZ3VnYWtsaXZlLm5vd2Nkbi5jby5rci9ndWdha3ZpZGVvL2d1Z2FrdmlkZW8uc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/g.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "G국악방송"
     },
     {
       "cid": 2,
-      "name": "ArirangTV",
+      "name": "Arirang",
       "stream_url": "aHR0cDovL2FtZGxpdmUuY3RuZC5jb20uZWRnZXN1aXRlLm5ldC9hcmlyYW5nXzFjaC9zbWlsOmFyaXJhbmdfMWNoLnNtaWwvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ari.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Arirang"
     },
     {
       "cid": 2,
       "name": "KOREA K+",
       "stream_url": "aHR0cDovLzIxMC4yMTAuMTU1LjM1L3VxMjY2My9oL2gwOC9pbmRleC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/k.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KOREA K+"
     },
     {
       "cid": 2,
-      "name": "KoreaTV",
+      "name": "KTV",
       "stream_url": "aHR0cDovLzIxOC4zOC4xNTIuNTc6MTkzNS9tbGl2ZS9tcDQ6Y2gwMDEvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ktv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KoreaTV"
     },
     {
       "cid": 2,
       "name": "복지TV",
       "stream_url": "aHR0cDovLzEzOS4xNTAuMjQ4LjI5L3NtYXJ0bGl2ZS8zMTIvNDYzMjRiZTI0NDU0YmQ5OGY3ODUwMzk0NTdhYzY5NWQvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bokg.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "복지TV"
     },
     {
       "cid": 2,
       "name": "국방TV",
       "stream_url": "aHR0cDovL21lZGlhd29ya3MuZGVtYS5taWwua3I6MTkzNS9saXZlX2VkZ2UvY3Vkby5zZHAvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gukbang.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "국방TV"
     },
     {
       "cid": 2,
       "name": "국회방송",
       "stream_url": "aHR0cDovL20ud2ViY2FzdC5nby5rci9saXZlL19kZWZpbnN0Xy9zbWlsOm5hdHYuc21pbC9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/guktv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "국회방송"
     },
     {
       "cid": 2,
       "name": "한국선거방송",
       "stream_url": "aHR0cDovL25lY2dva3IyLTcyNC5hY3Mud2VjYW5kZW8uY29tL21zLzI1MjgvNzI0L2luZGV4XzEubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/guk.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "한국선거방송"
     },
     {
       "cid": 2,
       "name": "[미국] NASA TV",
       "stream_url": "aHR0cDovL2lwaG9uZS1zdHJlYW1pbmcudXN0cmVhbS50di91aGxzLzY1NDAxNTQvc3RyZWFtcy9saXZlL2lwaG9uZS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nasatv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|NASA"
     },
     {
       "cid": 2,
       "name": "[미국] TBD",
       "stream_url": "aHR0cDovL2NvbnRlbnQudXBseW5rLmNvbS9jaGFubmVsLzE4MzExNjNmOTc2NzQzMjhhZDlmNGI0ODE0ZWQzOWM1Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/tbd.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|TBD"
     },
     {
       "cid": 2,
       "name": "[미국] Pop",
       "stream_url": "aHR0cHM6Ly9saXZlLXBvcHR2LWZhc3RseS1wcm9kLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldC9wb3AvbWFzdGVyLm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/pop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|Pop"
     },
     {
       "cid": 2,
       "name": "[미국] ET Live",
       "stream_url": "aHR0cHM6Ly9ldGxpdmUtbWVkaWFwYWNrYWdlLWZhc3RseS5jYnNhYXZpZGVvLmNvbS9kdnIvbWFuaWZlc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/et.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|ET Live"
     },
     {
       "cid": 2,
       "name": "[미국] DRYBAR",
       "stream_url": "aHR0cHM6Ly81OWQzOTkwMGViZmI4LnN0cmVhbWxvY2submV0L21vbGF1Z2h0ZXJ0di9tb2xhdWdodGVydHYvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/drybar.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|DRYBAR"
     },
     {
       "cid": 2,
       "name": "[미국] ABC News",
       "stream_url": "aHR0cHM6Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC8zMzI0ZjI0NjdjNDE0MzI5YjNiMGNjNWNkOTg3YjZiZS5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/abcnews.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|ABC News"
     },
     {
       "cid": 2,
       "name": "[미국] CBSN",
       "stream_url": "aHR0cHM6Ly9jYnNuZXdzaGQtbGguYWthbWFpaGQubmV0L2kvQ0JTTkhEXzdAMTk5MzAyL21hc3Rlci5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cbsn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|CBSN"
     },
     {
       "cid": 2,
       "name": "[미국] CNN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83MjkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cnn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "미국|CBSN"
     },
     {
       "cid": 2,
       "name": "[영국] BBC",
       "stream_url": "aHR0cHM6Ly9lZGdlLTExOTItY2gtZ3YuZmlsbW9uLmNvbS9saXZlLzMxNjYuaGlnaC5zdHJlYW0vcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "영국|BBC"
     },
     {
       "cid": 3,
       "name": "OGN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82ODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ogn.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "OGN"
     },
     {
       "cid": 3,
       "name": "KBSN 스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE4L3ZvZC8wNDEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbssports.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBSN 스포츠"
     },
     {
       "cid": 3,
-      "name": "MBC 스포츠[1]",
+      "name": "[1]MBC 스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE4L3ZvZC8wMTEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbcsports.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC 스포츠"
     },
     {
       "cid": 3,
-      "name": "MBC 스포츠[2]",
+      "name": "[2]MBC 스포츠",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuNDAvdm9kLzM5ODAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/mbcsports.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "MBC 스포츠"
     },
     {
       "cid": 3,
-      "name": "SBS 스포츠[1]",
+      "name": "[1]SBS 스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMzgxMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbssports.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SBS 스포츠"
     },
     {
       "cid": 3,
-      "name": "SBS 스포츠[2]",
+      "name": "[2]SBS 스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE1L3ZvZC8zODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbssports.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SBS 스포츠"
     },
     {
       "cid": 3,
-      "name": "SPOTV[1]",
+      "name": "[1]SPOTV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwL3ZvZC82NjcwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/spotv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SPOTV"
     },
     {
       "cid": 3,
-      "name": "SPOTV[2]",
+      "name": "[2]SPOTV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82NjcwMS5tM3U4PyZWT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/spotv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SPOTV"
     },
     {
       "cid": 3,
-      "name": "SPOTV2[1]",
+      "name": "[1]SPOTV2",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMyL3ZvZC8zODMwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/spotv2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SPOTV2"
     },
     {
       "cid": 3,
-      "name": "SPOTV2[2]",
+      "name": "[2]SPOTV2",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMzgzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/spotv2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SPOTV2"
     },
     {
       "cid": 3,
-      "name": "JTBC 골프&스포츠[1]",
+      "name": "[1]JTBC 골프&스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82MDIwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbcgs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JTBC 골프&스포츠"
     },
     {
       "cid": 3,
-      "name": "JTBC 골프&스포츠[2]",
+      "name": "[2]JTBC 골프&스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjAyMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jtbcgs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JTBC 골프&스포츠"
     },
     {
       "cid": 3,
-      "name": "SPOTV 골프&헬스[1]",
+      "name": "[1]SPOTV 골프&헬스",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjQwL3ZvZC82NTAwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/spotvgh.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SPOTV 골프&헬스"
     },
     {
       "cid": 3,
-      "name": "SPOTV 골프&헬스[2]",
+      "name": "[2]SPOTV 골프&헬스",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC82NTAwMS5tM3U4P1Nlc3Npb25JRD04MzZkYTRiNC1jOTc4LTQwMjEtYmMxYy1iZTBiMWM4YzI3NzMmVk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/spotvgh.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SPOTV 골프&헬스"
     },
     {
       "cid": 3,
-      "name": "SBS 골프[1]",
+      "name": "[1]SBS 골프",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC82MTQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbsgolf.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SBS 골프"
     },
     {
       "cid": 3,
-      "name": "SBS 골프[2]",
+      "name": "[2]SBS 골프",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjE0MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sbsgolf.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SBS 골프"
     },
     {
       "cid": 3,
-      "name": "FISHING TV[1]",
+      "name": "[1]FISHING TV",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTYvdm9kLzYyNTAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/fishingtv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "FISHING TV"
     },
     {
       "cid": 3,
-      "name": "FISHING TV[2]",
+      "name": "[2]FISHING TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC82MjUwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/fishingtv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "FISHING TV"
     },
     {
       "cid": 3,
-      "name": "FTV[1]",
+      "name": "[1]FTV",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzY2NTAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ftv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "FTV"
     },
     {
       "cid": 3,
-      "name": "FTV[2]",
+      "name": "[2]FTV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjY1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ftv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "FTV"
     },
     {
       "cid": 3,
       "name": "바둑TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC82ODMwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/badook.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "바둑TV"
     },
     {
       "cid": 3,
       "name": "브레인 TV",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTYvdm9kLzcwNzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/braintv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "브레인 TV"
     },
     {
       "cid": 3,
       "name": "스크린 골프존",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuOC92b2QvNTc4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/screengolf.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "스크린 골프존"
     },
     {
       "cid": 4,
       "name": "애니맥스",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC83MDMwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/animax.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "애니맥스"
     },
     {
       "cid": 4,
       "name": "애니플러스",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE1L3ZvZC82OTkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/aniplus.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "애니플러스"
     },
     {
       "cid": 4,
-      "name": "Bravokids TV",
+      "name": "Bravokids",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC83MjgwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bravokids.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "Bravokids"
     },
     {
       "cid": 4,
-      "name": "플레이런TV",
+      "name": "플레이런",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMTc1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/playrun.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "플레이런"
     },
     {
       "cid": 4,
       "name": "대교 어린이TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjM0L3ZvZC83NjEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/dkkids.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "대교 어린이TV"
     },
     {
       "cid": 4,
       "name": "JEI EnglishTV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzkzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/jeieng.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "JEI EnglishTV"
     },
     {
       "cid": 4,
       "name": "KBS Kids",
       "stream_url": "YUhSMGNEb3ZMMnRpYzI1cmFXUnpMbWR6WTJSdUxtdGljeTVqYnk1cmNpOXJZbk51YTJsa2N5MXRMMnRpYzI1cmFXUnpMVzFmYzJRdWJUTjFPRDlGZUhCcGNtVnpQVEUyTURFek5EUTRNRGttVUc5c2FXTjVQV1Y1U2xSa1IwWXdXbGN4YkdKdVVXbFBiSFEzU1d4S2JHTXlPVEZqYlU1c1NXcHZhV0ZJVWpCalJHOTJUREowYVdNeU5YSmhWMUo2VEcxa2Vsa3lVblZNYlhScFkzazFhbUo1TlhKamFUbHlXVzVPZFdFeWJHdGplVEYwVERKMGFXTXlOWEpoVjFKNlRGY3habU15VVhWaVZFNHhUME5KYzBsclRuWmliVkp3WkVkc2RtSnBTVFpsZVVwRldWaFNiRlJIVm5wak1WSnZXVmMwYVU5dWMybFJWbVJVVDJ0V2QySXlUbTlXUjJ4MFdsTkpOazFVV1hkTlZFMHdUa1JuZDA5WU1UbG1WakU1SmxOcFoyNWhkSFZ5WlQxYUxUVk9kbE14U0RCK2FubHNSWGQzT1RBelZWTnZWa04yVnpCTmNFbFpZVmhMVjJoMFVqRmxWR3BGYVV4RFVteEhWRXhTWTBreVluRXlmalpZY0hsT1IxbCtjREZqZFhOdVpXeFhPWGcxVjBoSGFtcFpSR1l3UnpSYWEzUjJRamxuWVhkYVRHeGpOM2RVZm5kRWIxQndTVlJTVFZSSlRVdDNaMEpLZmtzemRtaExSM1EwUkU5b01FeDBUblZoY1dwVFFtSTJObVpaUnpoTmZrOXBSMk5VVjA5YVdtNWpaams1UlUxbU5YY3haWE5JYkRSNlprZEpNMlJHY1VWUGFXaHliMU5yVFd4amEya3RkR1V3UnpCU2VXaGxhVXR5UkVaNlkxZzBVak5PVDNKbmVWYzVjakp4UmtscE1HSjZSR0U0UmxCelNXZEZRMnh4T0ZWUE1UTnJkbW80VW1FeVkzUm5RMmhITmxBMFVXMTVjRVkwTUg0d2FsVnlNMVpaTFc5dWRGWlZiMVV5YVZNM2JuQjBjMGhVVFROV05tOVVTMHBZZW5KMVMzNW5kSGxzTlVVeVdVWTBNWEo2U2s5eVExUnpZVzF5WVhkZlh5WkxaWGt0VUdGcGNpMUpaRDFCVUV0QlNVTkVVMGRVTTFrM1NWaEhTak5VUVE9PQ==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kbskids.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "KBS Kids"
     },
     {
       "cid": 4,
       "name": "EBS Kids",
       "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rci9lYnN1dGFibGV0NTAway9fZGVmaW5zdF8vdGFibGV0NTAway9QbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ebskids.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "EBS Kids"
     },
     {
       "cid": 4,
       "name": "EBS1",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTA1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ebs1.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "EBS1"
     },
     {
       "cid": 4,
       "name": "EBS2",
       "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L2ViczJmYW1pbHlwYy9mYW1pbHlwYzFtL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ebs2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "EBS2"
     },
     {
       "cid": 4,
       "name": "EBSi",
       "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L3BsdXMxdGFibGV0NTAway90YWJsZXQ1MDBrL1BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ebsi.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "EBSi"
     },
     {
       "cid": 4,
       "name": "EBS+2",
       "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L3BsdXMydGFibGV0NTAway90YWJsZXQ1MDBrL1BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ebs22.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "EBS+2"
     },
     {
       "cid": 4,
       "name": "EBSe",
       "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L3BsdXMzZmFtaWx5cGMvZmFtaWx5cGMxbS9QbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/ebse.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "EBSe"
     },
     {
       "cid": 5,
       "name": "CGNTV",
       "stream_url": "aHR0cDovL2NnbnR2LWdsaXZlLm9mc2RlbGl2ZXJ5Lm5ldC9saXZlL19kZWZpbnN0Xy9jZ250dl9rcjAyL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cgntv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CGN"
     },
     {
       "cid": 5,
       "name": "CBSTV",
       "stream_url": "aHR0cDovL2Nicy1saXZlLmdzY2RuLmNvbToxOTM1L2Nicy1saXZlL2Nicy1saXZlLnN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CBS"
     },
     {
       "cid": 5,
       "name": "CTS 기독교방송",
       "stream_url": "aHR0cHM6Ly9kMzR0NXlqejFvb3ltai5jbG91ZGZyb250Lm5ldC9vdXQvdjEvODc1MDM5ZDVlYmEwNDc4ZmE4Mzc1YTA2YjNhYTVhMzcvaW5kZXhfMi5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cts.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CTS"
     },
     {
       "cid": 5,
       "name": "CTS2 기독교방송",
       "stream_url": "aHR0cDovL2V4dGVybmFsLmNkbi56cm9hZC50di9DaHVyY2hUVi9saXZlL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cts2.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CTS2"
     },
     {
       "cid": 5,
       "name": "GOODTV",
       "stream_url": "aHR0cDovL21vYmxpZXN0cmVhbS5jM3R2LmNvbToxOTM1L2xpdmUvZ29vZHR2LnNkcC9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/goodtv.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "GOODTV"
     },
     {
       "cid": 5,
-      "name": "카톨릭 평화방송",
+      "name": "CPBC",
       "stream_url": "aHR0cDovL29uYWlyMS5jcGJjLmNvLmtyOjE5MzUvdHYvc21pbDpsaXZlLnNtaWwvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cpbc.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "카톨릭 평화방송"
     },
     {
       "cid": 5,
       "name": "C채널",
       "stream_url": "aHR0cDovLzExMi4xNzUuNTEuMjE0OjE5MzUvbGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cch.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "C채널"
     },
     {
       "cid": 5,
       "name": "BBS 불교방송",
       "stream_url": "aHR0cDovL2Jic3R2LmNsb3VkdWNzLmNvbToxOTM1L2Jic3R2LWxpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/bbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "BBS 불교방송"
     },
     {
       "cid": 5,
       "name": "WBS 원음방송",
       "stream_url": "aHR0cDovL2xpdmUuY2RuLnNtaWxlY2RuLmNvbToxOTM1L3l1bmhvOTBfbGl2ZS9saXZlL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/wbs.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "WBS 원음방송"
     },
     {
       "cid": 6,
-      "name": "GS SHOP",
+      "name": "GSSHOP",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gsshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "GSSHOP"
     }, 
     {
       "cid": 6,
-      "name": "GS MYSHOP",
+      "name": "GSMYSHOP",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNzQwMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gsmyshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "GSMYSHOP"
     },
     {
       "cid": 6,
       "name": "현대홈쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/hydeashop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "현대홈쇼핑"
     },
     {
       "cid": 6,
       "name": "현대홈쇼핑PLUS#",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNzYwMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/hdshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "현대홈쇼핑PLUS#"
     }, 
     {
       "cid": 6,
       "name": "NS홈쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjczMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nshomeshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "NS홈쇼핑"
     }, 
     {
       "cid": 6,
       "name": "CJ오쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjcyMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cjshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CJ오쇼핑"
     }, 
     {
       "cid": 6,
       "name": "CJ오쇼핑+",
       "stream_url": "aHR0cDovL2Nqb3Nob3BwaW5ncGx1cy5saXZlLmNkbi52aXNpb25jbG91ZC5jby5rci9jam9zcGx1cy9saXZlMi9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/cjoshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "CJ오쇼핑+"
     }, 
     {
       "cid": 6,
       "name": "롯데홈쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc0MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/lotteshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "롯데홈쇼핑"
     }, 
     {
       "cid": 6,
       "name": "롯데OneTV",
       "stream_url": "aHR0cDovL29uZXR2aGxzbGl2ZS5sb3R0ZWltYWxsLmNvbS9sb3R0ZW9uZXR2bGl2ZS9fZGVmaW5zdF8vbG90dGVvbmV0dmxpdmUubXA0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/lotteone.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "롯데OneTV"
     }, 
     {
       "cid": 6,
       "name": "NS Shop+",
       "stream_url": "aHR0cDovL3Nob3Bwc3RyZWFtLm5zbWFsbC5jb206MTkzNS9JUEhPTkUvUEMubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/nsshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "NS Shop+"
     }, 
     {
       "cid": 6,
       "name": "W쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvODEzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/wshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "W쇼핑"
     }, 
     {
       "cid": 6,
       "name": "신세계쇼핑",
       "stream_url": "aHR0cDovL3dsaXZlb3V0LmtvbGx1cy5jb20vc2hpbnNlZ2FldHZzaG9wcGluZ19oMDAwMGsvaW5kZXgubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/sinshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "신세계쇼핑"
     }, 
     {
       "cid": 6,
       "name": "쇼핑엔티",
       "stream_url": "aHR0cDovLzExNC4xMDguMzEuMjMvbGl2ZS8xMDAxMS5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/shoppingent.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "쇼핑엔티"
     }, 
     {
       "cid": 6,
       "name": "공영쇼핑",
       "stream_url": "aHR0cDovL3Nob3BwaW5nZmx2LngtY2RuLmNvbS9tc2hvcGxpdmUvX2RlZmluc3RfL2xpdmUxLnN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/gongshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "공영쇼핑"
     }, 
     {
       "cid": 6,
       "name": "SK스토아",
       "stream_url": "aHR0cDovL2Nhc3QuYnNob3BwaW5nLmNvLmtyOjgwODAvbGl2ZS9CU0hPUFBJTkdfSEQvcGxheWxpc3QubTN1OA==",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/skstoa.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "SK스토아"
     }, 
     {
       "cid": 6,
       "name": "K쇼핑",
       "stream_url": "aHR0cDovL2Nkbndvdy5rc2hvcC5jby5rcjo4MDgwL2xpdmV0di9TdHJlYW0xL3BsYXlsaXN0Lm0zdTg=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/kshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "K쇼핑"
     }, 
     {
       "cid": 6,
       "name": "홈&쇼핑",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjQ5MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "img": "https://raw.githubusercontent.com/2ndSoft/Temp/master/image/homeshop.png",
-      "info": "현재채널 정보가 없습니다."
+      "info": "홈&쇼핑"
     }
   ]
 }
