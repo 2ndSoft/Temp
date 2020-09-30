@@ -5,6 +5,10 @@
       "name": "온에어티비"
     },
     {
+      "id": 707,
+      "name": "[추석]이시각 주요 고속도로"
+    },
+    {
       "id": 1,
       "name": "지상파&종합편성 채널"
     },
@@ -94,6 +98,56 @@
       "cid": 0,
       "name": "공지끝",
       "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1601596285&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTU5NjI4NX19fV19&Signature=ncbbrP76LIF2kl8S6W038M9wtLnyz4eDrr6IU1edwwRgy9kGTwoYWeOYzXqAXWlkYIljZwm695M0aWgj1kAmGAG3Sp9HT30ngI72gfql~ulFGLMCGca1CI8SVc9nrdibR8EDae2rC6OwfvzEevup3NO5WjglS1eNaMEYuodh2BcRW6SQn1Dez6Ivr1ZTVC4QCMSyb7mHtT3jRaOeGfIwhfkiFbUyfxtrMYfG0gt2yBgzf8u-0GQixNrjvz0TECxnNaBu-7t8zPMlhNH0g1hFTVu6g9kMWg6SplZYRoWo2OuoX2FZ0KRq9-Xsyarv~HnnMxwS9-hqdoizMfpN37pAxw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+    },
+    {
+      "cid": 707,
+      "name": "경부선 (부산방향) 오산부근",
+      "stream_url": "http://live4.exmobile.hscdn.com/exlive/cctv0020.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "경부선 (부산방향) 남사",
+      "stream_url": "http://live1.exmobile.hscdn.com/exlive/cctv0019.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "경부선 (부산방향) 안성부근",
+      "stream_url": "http://live5.exmobile.hscdn.com/exlive/cctv3982.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "서해안선(목포방향)",
+      "stream_url": "http://live1.exmobile.hscdn.com/exlive/cctv0211.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "서해안선(목포방향)",
+      "stream_url": "http://live1.exmobile.hscdn.com/exlive/cctv0211.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "제1 순환선(구리방향)",
+      "stream_url": "http://live15.exmobile.hscdn.com/exlive/cctv0237.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "광주원주선 (원주방향)",
+      "stream_url": "http://live12.exmobile.hscdn.com/exlive/cctv7197.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "남해선(순천방향)",
+      "stream_url": "http://live15.exmobile.hscdn.com/exlive/cctv3722.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "논산천안선 (논산방향)",
+      "stream_url": "http://live11.exmobile.hscdn.com/exlive/cctv7136.stream/playlist.m3u8"
+    },
+    {
+      "cid": 707,
+      "name": "중앙선 (춘천방향)",
+      "stream_url": "http://live6.exmobile.hscdn.com/exlive/cctv3564.stream/playlist.m3u8"
     },
     {
       "cid": 1,
