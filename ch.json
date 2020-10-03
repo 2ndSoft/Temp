@@ -32,6 +32,16 @@
   "channels": [
     {
       "cid": 0,
+      "name": "티비보려면 화면을",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
+      "name": "사진을 보듯 넘겨 주세요.",
+      "stream_url": ""
+    },
+    {
+      "cid": 0,
       "name": "현재버전은 공지사항을",
       "stream_url": ""
     },
