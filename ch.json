@@ -453,12 +453,12 @@
     {
       "cid": 2,
       "name": "PLAYY프리미엄",
-      "stream_url": "http://211.170.95.45/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "http://1.214.67.30/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
       "name": "PLAYY웰메이드",
-      "stream_url": "http://211.170.95.45/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "http://1.214.67.20/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
