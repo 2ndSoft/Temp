@@ -51,109 +51,109 @@
       "cid": 1,
       "name": "MBC춘천",
       "stream_url": "aHR0cHM6Ly81Yzc0OTM5Yzg5MWRjLnN0cmVhbWxvY2submV0L2xpdmUvVFYvcGxheWxpc3QubTN1OA==",
-      "info": "MBC춘천"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "MBC강원영동",
       "stream_url": "aHR0cDovLzEyMy4yNTQuNzIuMjQ6MTkzNS90dmxpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
-      "info": "MBC강원영동"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "MBC충북",
       "stream_url": "aHR0cDovLzIxMS4zMy4yNDYuNDozMjk1NC9jal9saXZlL215U3RyZWFtLnNkcC9wbGF5bGlzdC5tM3U4",
-      "info": "MBC충북"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "MBC여수",
       "stream_url": "aHR0cHM6Ly81YzM2MzlhYTk5MTQ5LnN0cmVhbWxvY2submV0L2xpdmVfVFYvVFYvcGxheWxpc3QubTN1OA==",
-      "info": "MBC여수"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "MBC대구",
       "stream_url": "aHR0cHM6Ly81ZWUxZWM2ZjMyMTE4LnN0cmVhbWxvY2submV0L2xpdmUvbGl2ZXR2L3BsYXlsaXN0Lm0zdTg=",
-      "info": "MBC대구"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "MBC울산",
       "stream_url": "aHR0cHM6Ly81ZGRmZDE2M2JkMDBkLnN0cmVhbWxvY2submV0L25IRFRWL25IRFRWL3BsYXlsaXN0Lm0zdTg=",
-      "info": "MBC울산"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "MBC제주",
       "stream_url": "aHR0cHM6Ly81Y2Y1OGE1NTZmOWIyLnN0cmVhbWxvY2submV0OjQ0My9saXZlL3R2X2planVtYmMvcGxheWxpc3QubTN1OA==",
-      "info": "MBC제주"
+      "info": "MBC"
     },
     {
       "cid": 1,
       "name": "KNN|SBS",
       "stream_url": "aHR0cDovLzIxMS4yMjAuMTk1LjIwMDoxOTM1L2xpdmUvbXA0OktublRWLnNkcC9wbGF5bGlzdC5tM3U4",
-      "info": "KNN|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "TBC|SBS",
       "stream_url": "aHR0cDovLzIyMS4xNTcuMTI1LjIzOToxOTM1L2xpdmUvcHNpa2UvcGxheWxpc3QubTN1OA==",
-      "info": "TBC|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "KBC|SBS",
       "stream_url": "aHR0cDovLzExOS4yMDAuMTMxLjExOjE5MzUvS0JDVFYvdHYvcGxheWxpc3QubTN1OA==",
-      "info": "KBC|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "TJB|SBS",
       "stream_url": "aHR0cDovLzEuMjQ1Ljc0LjU6MTkzNS9saXZlL3R2Ly5tM3U4",
-      "info": "TJB|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "UBC|SBS",
       "stream_url": "aHR0cDovLzU5LjI1LjIwMi44MjoxOTM1L2xpdmUvVUJDc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
-      "info": "UBC|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "CJB|SBS",
       "stream_url": "aHR0cHM6Ly81ZWU5YmUxMDY0MGFjLnN0cmVhbWxvY2submV0L2xpdmUvY2pidHYvcGxheWxpc3QubTN1OA==",
-      "info": "CJB|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "JIBS|SBS",
       "stream_url": "aHR0cDovLzEyMy4xNDAuMTk3LjIyL3N0cmVhbS8xXzIwMDBfNTQzMjMvaW5kZXgubTN1OA==",
-      "info": "JIBS|SBS"
+      "info": "SBS"
     },
     {
       "cid": 1,
       "name": "[1]JTBC",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ3MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "info": "JIBS|SBS"
+      "info": "JTBC"
     },
     {
       "cid": 1,
       "name": "[2]JTBC",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNzQ3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
-      "info": "JIBS|SBS"
+      "info": "JTBC"
     },
     {
       "cid": 1,
       "name": "[3]JTBC",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzc0NzAyLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "info": "JIBS|SBS"
+      "info": "JTBC"
     },
     {
       "cid": 1,
       "name": "[4]JTBC",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuNTAvdm9kLzc0NzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
-      "info": "JIBS|SBS"
+      "info": "JTBC"
     },
     {
       "cid": 1,
@@ -211,459 +211,547 @@
     },
     {
       "cid": 1,
-      "name": "채널A[2]",
+      "name": "[2]채널A",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNzQ5MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
       "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "채널A[3]",
+      "name": "[3]채널A",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NDkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "채널A[4]",
+      "name": "[4]채널A",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE4L3ZvZC83NDkwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "채널A"
     },
     {
       "cid": 1,
-      "name": "OBS[1]",
+      "name": "[1]OBS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTk2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "OBS"
     },
     {
       "cid": 1,
-      "name": "OBS[2]",
+      "name": "[2]OBS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTk2MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "OBS"
     },
     {
       "cid": 1,
       "name": "OBSW",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjQ4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "OBSW"
     },
     {
       "cid": 1,
       "name": "[북한] 조선중앙TV",
       "stream_url": "aHR0cHM6Ly90di5ua25ld3Mub3JnL3R2aGxzL3N0cmVhbS5tM3U4",
+      "info": "북한 - 조선중앙TV"
     },
     {
       "cid": 1,
       "name": "KCTV 제주방송",
       "stream_url": "aHR0cHM6Ly92b2Qua2N0dmplanUuY29tL0xJVkUvY2g3L3BsYXlsaXN0Lm0zdTg=",
+      "info": "KCTV 제주방송"
     },
     {
       "cid": 1,
       "name": "KCTV20 제주방송",
       "stream_url": "aHR0cHM6Ly92b2Qua2N0dmplanUuY29tL2NoNy9jaDQvcGxheWxpc3QubTN1OA==",
+      "info": "KCTV20 제주방송"
     },
     {
       "cid": 2,
-      "name": "tvn[1]",
+      "name": "[1]tvn",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC82ODIwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "tvn"
     },
     {
       "cid": 2,
-      "name": "tvn[2]",
+      "name": "[2]tvn",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTA2L3ZvZC82ODIwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "tvn"
     },
     {
       "cid": 2,
-      "name": "YTN[1]",
+      "name": "[1]YTN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC82OTgwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "YTN"
     },
     {
       "cid": 2,
-      "name": "YTN[2]",
+      "name": "[2]YTN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjk4MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "YTN"
     },
     {
       "cid": 2,
-      "name": "연합뉴스TV[1]",
+      "name": "[1]연합뉴스TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC83MzQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "연합뉴스TV"
     },
     {
       "cid": 2,
-      "name": "연합뉴스TV[2]",
+      "name": "[2]연합뉴스TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzM0MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "연합뉴스TV"
     },
     {
       "cid": 2,
       "name": "KBS 24",
       "stream_url": "aHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OD9FeHBpcmVzPTE2MDIwNjM2NDQmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDI1bGQzTXlOQzVuYzJOa2JpNXJZbk11WTI4dWEzSXZibVYzY3pJMExXMHZibVYzY3pJMExXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TWpBMk16WTBOSDE5ZlYxOSZTaWduYXR1cmU9ZDRxSE1DV1NUMU56blpBYnpyZzNnMG9vRDJKflBXRGJleHJPVUYtTHI1eHdDWU5aVUtTY2NWME4tZUt+MG83ZERlR0JrSFpObGhZV05yREdOdDJmYzEzY2N5aX5KdDgzVTB0flo4bWJkTEhXZ3hhR2VCTmx+UDBEYzFFbURPeFdMMkNXSnhCcHVTV2N4ZXk5YTBuSjZhV1BRUDhDZ3VZbzVNRVpWbUNGbnpMa2dCdjZpU29Jb0Q1blZleXJ6bkNjMHE3MG5VRFNLYlhmMHBnUTI3U1JaOGFmNXdRZmh0b3FRWGJ6bGJOUURFLXp+WkRWRlkzcDR1M1BrMWVOWjR6LUM1WVlPRzRrWnVvYzNtdE1XdU1YOH5INXV5LX42ZUZtWE54SW40UWNifkN2dGdtTTNEWEdMWDhhdjN4LXI4alB3OFY5RERzfmtJNlJxUUNBcnFvWmJ3X18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE=",
+      "info": "KBS 24"
     },
     {
       "cid": 2,
       "name": "KBS Drama",
       "stream_url": "aHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2OTcmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNWtjbUZ0WVM1bmMyTmtiaTVyWW5NdVkyOHVhM0l2YTJKemJtUnlZVzFoTFcwdmEySnpibVJ5WVcxaExXMWZjMlF1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TWpBMk16WTVOMzE5ZlYxOSZTaWduYXR1cmU9YWJTTlhITFJJOXlndGdNaTIyd1VkdGF3LWk2MXhleVA5eDRieWpXRGJQeEJadGtyNkVNWEFvb045ZFZkVFZ2M0ZuV2pwLVlRNlVRRmc4dTNnRDZZaVVQVzcxZn5vUFVvTXJuYXFYMklWeG9CbTFTZ2Eza0w0Y1o1N0FldG9FMk5jSnpad05ocXJjRUN6Y1NXVi1lMVptME4xT2tFfkJ3YkpFdEVsU0ZZOFlLSXA4NTBIZWQ1M2t4fjVxVnJhT1FXTGNFNU0wWDlTLUdYalRFaWlXblU3RFBqUjZxaXZ1UDI3LXd0NnZEdHdwSnJVdUFHQTFxNmE3bWUySzZXdWpiTH40WXl0QWNac0JySDBIdTd5aXVlbkFiSGlhcDQ0emFNZUNWTjBmR2hMQTBSLVVxR2hYVmEtUmI5MG91TXEtTjVGWGFJcE81N1FQT3pHcUF5Q24yeE9nX18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE=",
+      "info": "KBS Drama"
     },
     {
       "cid": 2,
       "name": "KBS joy",
       "stream_url": "aHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2ODcmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXFiM2t1WjNOalpHNHVhMkp6TG1OdkxtdHlMMnRpYzI1cWIza3RiUzlyWW5OdWFtOTVMVzFmYzJRdWJUTjFPQ0lzSWtOdmJtUnBkR2x2YmlJNmV5SkVZWFJsVEdWemMxUm9ZVzRpT25zaVFWZFRPa1Z3YjJOb1ZHbHRaU0k2TVRZd01qQTJNelk0TjMxOWZWMTkmU2lnbmF0dXJlPWtCUDJVNktjeX55bjNISnA3VXN4U1djODZKYmE1N1o1REF3RDdmcEN5bi02NVBvMHJJN29oQUZHfjk5MTg4fmJUSkhZSW1iZFJPc3lvWGMxdEs0SFo4ZHJVVUItbmdmcXQxUzdTTmstZVVzV0lPSEN6bDFBUWl0ZFR4b0JNWE1YbkZ0Qld4a0JZYTNRaW1wWE8zRU9TY0JjdnlYdW1tNVE1N3Vxa2V4MG4xbzZxNFhQMFhUa3hlcVlLaGtHS2V6S2F2QmZtUEFKdzlzcFQ5MnRFQmVFNG5xYzdwZzEtb3Z5cDdnVEpRbGRXbWE1cXFmU2dEdn5aR012dTkzSE1YMVJLbmxHZkl5U0k1a1BuQ3pSci0xd25CR1l1S2VjaDM1Z1ZkWHQtMUR1bE5Bc2t3djhxTFZRdjJuUkVadFJFWWJkS1l5U0UzclFsbVlhbThNQ2liSWlyQV9fJktleS1QYWlyLUlkPUFQS0FJQ0RTR1QzWTdJWEdKM1RB",
+      "info": "KBS joy"
     },
     {
       "cid": 2,
       "name": "KBSW",
       "stream_url": "aHR0cDovL2tic253LmdzY2RuLmticy5jby5rci9rYnNudy1tL2tic253LW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjQ3NjUmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNTNMbWR6WTJSdUxtdGljeTVqYnk1cmNpOXJZbk51ZHkxdEwydGljMjUzTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTkRjMk5YMTlmVjE5JlNpZ25hdHVyZT1kVWNTWHE3dmdxWUxPZnpGeDRBVktiZ3NTc2I0dEFyOThZRG5JVW5MRFVjVDRlN0NXRGNsU3FnbmM1M2l0cUZ+V1Q2WWlUaEJqZjZDVlB0d3hXN1VJQ29JMExoS1l0TTYtZmNZRVdSMjZiOUtSQ3NQNHVndVRoa1J3cThlWEhHbTZWMVIwNi0zaXhofnN0blJOMlpRNzNnYkhUb2MxT1RSMW5XTDg3WDZ+eEZkTjlMM3drSUZkVldramFpdVJJczd2Y201Qy1zbGh6YWxuNHNTWWt5VFVPflk4Rk5XZzZlTzV4b1dydkdTeExDZWZtaVl+dG52c3hzSTFJbUFTMy1GT1NrY25xazBNQldNcFVVejF+eFFmSH5Hc1plbUIyY01GYTlDWGhDeW9TcTRleERxQU5nZW5CSG0wRkxTNnV4TW9JZFVoU2Zndkp+bmkzVmg0fmpFWUFfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ==",
+      "info": "KBSW"
     },
     {
       "cid": 2,
       "name": "KBSN LIFE",
       "stream_url": "aHR0cDovL2tic25saWZlLmdzY2RuLmticy5jby5rci9rYnNubGlmZS1tL2tic25saWZlLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2ODEmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXNhV1psTG1kelkyUnVMbXRpY3k1amJ5NXJjaTlyWW5OdWJHbG1aUzF0TDJ0aWMyNXNhV1psTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTXpZNE1YMTlmVjE5JlNpZ25hdHVyZT1tYkt1dDRTMktYMlNtNjIydDBMOUZpRkYwNGNqWHBjYjRzN3JvY1llak9McFhXMlhiWDNTVnRNUGl2R3k1Q1ZLc1JxTDN3dFN+WTluQWJ2amZoTDctRWxKbDBoRFQwNWI1ZDdmLUp5Sn4ySmFEcFZ5QW5DZGxBSGYzTUtYRlgyWjE1Qn4zbEtVQTYwS0JVenE3dThZd0p0dnNWZW5rWG1yMTQ2fnZBRFhnb2xWZEZFcTBDN0tBd29lUGRkcHpjNm1GNzdYd2NqRDFRZ2lCb1RoazNQRVhDa3l3N3JLQmVZbEd0WVNmd2N3aUNTanhzVWNtNDk5WWExVnl1fkFmWUJrOFo3b2x0S1NmZXVXd1hLM1M5S0VEd0FwSEljRFN6d1RmQllEYTF4Z0g3SDZKZk4xaTRyZkNyYkxpT3VaM0REMkVLaH5mQjdmZ3hCRnlTSlF0cHNYYWdfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ==",
+      "info": "KBSN LIFE"
     },
     {
       "cid": 2,
       "name": "KBS WORLD",
       "stream_url": "aHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2NjAmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDNkdmNteGtMbWR6WTJSdUxtdGljeTVqYnk1cmNpOTNiM0pzWkMxdEwzZHZjbXhrTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTXpZMk1IMTlmVjE5JlNpZ25hdHVyZT1tQ3Zvb2xHTlBxaWtxbUpBZzNJUS00VEV6R1gyaDBjOXY3VVZSQ1JuQWRGZnE3VDU1cnlTMnB2eFl+THdWYUo1ZFdFN354a2tORndzTDZURVVaMFlKV21pWjVjQUp+M2ZvaVljTWxobzd5Y2VnTDhuOW5Rc3hXcFo5U1JrU1BvVklBS1lVSWM5MklaLVB1TFg2bnpuanRWOEYxM0VvSlcybUhZbi0zTk9wV0lCTm04bHRhRU4yWmxqMHc3bkJGMHFLeC1GSFN0aXBqSHBpLUppcWV1aWtENmRVd1dOaDY1aW5rek5pck5+MkhkaGxPSG1jS0JhaHBrelhpdm1qQUc0UnA0Z3FIajE1R1RSekhHdXFhV01obEs1dEFZbUJKTkpUUlJYYlJhYU84R0R+WEcyWldrMDFydU1HZlY1N3kxOFM4SWt6QTJRTnV4c2xTaHhINkVsQ0FfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ==",
+      "info": "KBS WORLD"
     },
     {
       "cid": 2,
       "name": "KBSN PLUS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC8zODkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "KBSN PLUS"
     },
     {
       "cid": 2,
       "name": "SBS STAR",
       "stream_url": "aHR0cHM6Ly9zdHJlYW1pbmctYS04MDIuY2RuLm5leHRvbG9naWVzLmNvbS9TQlNfMTgvcGxheWxpc3QubTN1OA==",
+      "info": "SBS"
     },
     {
       "cid": 2,
-      "name": "jtbc2[1]",
+      "name": "[1]jtbc2",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE2L3ZvZC82MDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "jtbc2"
     },
     {
       "cid": 2,
-      "name": "Jtbc2[2]",
+      "name": "[2]Jtbc2",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzYwNjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "jtbc2"
     },
     {
       "cid": 2,
-      "name": "Jtbc4[1]",
+      "name": "[1]Jtbc4",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzY3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "Jtbc4"
     },
     {
       "cid": 2,
-      "name": "Jtbc4[2]",
+      "name": "[2]Jtbc4",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NjcwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "Jtbc4"
     },
     {
       "cid": 2,
       "name": "Mnet",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzY4NzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "Mnet"
     },
     {
       "cid": 2,
       "name": "가요TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC83OTQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "가요TV"
     },
     {
       "cid": 2,
       "name": "GM",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC82ODgwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "GM"
     },
     {
       "cid": 2,
       "name": "K STAR",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzY2MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "K STAR"
     },
     {
       "cid": 2,
       "name": "Otvn",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjg5MDMubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "Otvn"
     },
     {
       "cid": 2,
       "name": "Xtvn",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjcxMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "Xtvn"
     },
     {
       "cid": 2,
       "name": "STATV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "STATV"
     },
     {
       "cid": 2,
       "name": "TBS",
       "stream_url": "aHR0cDovLzU4LjIzNC4xNTguNjA6MTkzNS9jYXR2bGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4",
+      "info": "TBS"
     },
     {
       "cid": 2,
       "name": "AsiaN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjU4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "AsiaN"
     },
     {
       "cid": 2,
       "name": "중화TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI1MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "중화TV"
     },
     {
       "cid": 2,
       "name": "[1]PLAYY프리미엄",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC8zOTEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "PLAYY 프리미엄"
     },
     {
       "cid": 2,
       "name": "[2]PLAYY프리미엄",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuOS92b2QvMzkxMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "PLAYY 프리미엄"
     },
     {
       "cid": 2,
       "name": "[1]PLAYY웰메이드",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwL3ZvZC8zOTIwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "PLAYY 웰메이드"
     },
     {
       "cid": 2,
       "name": "[2]PLAYY웰메이드",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTUvdm9kLzM5MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "PLAYY 웰메이드"
     },
     {
       "cid": 2,
       "name": "MTN",
       "stream_url": "aHR0cDovLzE4My4xMTAuMjcuODcvbXRubGl2ZS9fZGVmaW5zdF8vNzIwL3BsYXlsaXN0Lm0zdTg=",
+      "info": "MTN"
     },
     {
       "cid": 2,
       "name": "TomatoTV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83NzEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "TomatoTV"
     },
     {
       "cid": 2,
       "name": "YTN SCIENCE",
       "stream_url": "aHR0cDovL3NsaXZlLnNjaWVuY2V0di5rcjoxOTM1L3NjaWVuY2UveXNsaXZlXzIwMTQwNDE5XzEvcGxheWxpc3QubTN1OA==",
+      "info": "YTN SCIENCE"
     },
     {
       "cid": 2,
       "name": "Olive",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjM4L3ZvZC82OTYwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "Olive"
     },
     {
       "cid": 2,
-      "name": "ON STYLE",
+      "name": "ONSTYLE",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzc4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "ONSTYLE"
     },
     {
       "cid": 2,
       "name": "라이프타임",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzYwMzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "라이프타임"
     },
     {
       "cid": 2,
-      "name": "BILLIARDS TV",
+      "name": "BILLIARDS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjY4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "BILLIARDS TV"
     },
     {
       "cid": 2,
       "name": "POLARIS",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "POLARIS"
     },
     {
       "cid": 2,
       "name": "ARTE",
       "stream_url": "aHR0cDovL2V0b21hdG9tb2JpbGUuaHNjZG4uY29tL2FydGVtb2JpbGUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4",
+      "info": "ARTE"
     },
     {
       "cid": 2,
       "name": "NHTV농협방송",
       "stream_url": "aHR0cDovL25vbmdoeXVwLmZsaXZlLnNrY2RuLmNvbS9ub25naHl1cC9fZGVmaW5zdF8vbmhsaXZlL3BsYXlsaXN0Lm0zdTg=",
+      "info": "NHTV농협방송"
     },
     {
       "cid": 2,
-      "name": "한국농업방송",
+      "name": "NBS",
       "stream_url": "aHR0cHM6Ly9tZWRpYS5qb3ljb3JwLmNvLmtyOjQ0NDMvbGl2ZS9saXZlXzcyMHAvcGxheWxpc3QubTN1OA==",
+      "info": "한국농업방송"
     },
     {
       "cid": 2,
       "name": "한국직업방송",
       "stream_url": "aHR0cDovL2xpdmUud29ya3R2Lm9yLmtyOjE5MzUvbGl2ZS93b3d0dmxpdmUxLnNkcC9wbGF5bGlzdC5tM3U4",
+      "info": "한국직업방송"
     },
     {
       "cid": 2,
       "name": "G국악방송",
       "stream_url": "aHR0cHM6Ly9tZ3VnYWtsaXZlLm5vd2Nkbi5jby5rci9ndWdha3ZpZGVvL2d1Z2FrdmlkZW8uc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+      "info": "G국악방송"
     },
     {
       "cid": 2,
       "name": "ArirangTV",
       "stream_url": "aHR0cDovL2FtZGxpdmUuY3RuZC5jb20uZWRnZXN1aXRlLm5ldC9hcmlyYW5nXzFjaC9zbWlsOmFyaXJhbmdfMWNoLnNtaWwvcGxheWxpc3QubTN1OA==",
+      "info": "ArirangTV"
     },
     {
       "cid": 2,
       "name": "KOREA K+",
       "stream_url": "aHR0cDovLzIxMC4yMTAuMTU1LjM1L3VxMjY2My9oL2gwOC9pbmRleC5tM3U4",
+      "info": "KOREA K+"
     },
     {
       "cid": 2,
-      "name": "KoreaTV",
+      "name": "KTV",
       "stream_url": "aHR0cDovLzIxOC4zOC4xNTIuNTc6MTkzNS9tbGl2ZS9tcDQ6Y2gwMDEvcGxheWxpc3QubTN1OA==",
+      "info": "KoreaTV"
     },
     {
       "cid": 2,
       "name": "복지TV",
       "stream_url": "aHR0cDovLzEzOS4xNTAuMjQ4LjI5L3NtYXJ0bGl2ZS8zMTIvNDYzMjRiZTI0NDU0YmQ5OGY3ODUwMzk0NTdhYzY5NWQvcGxheWxpc3QubTN1OA==",
+      "info": "복지TV"
     },
     {
       "cid": 2,
       "name": "국방TV",
       "stream_url": "aHR0cDovL21lZGlhd29ya3MuZGVtYS5taWwua3I6MTkzNS9saXZlX2VkZ2UvY3Vkby5zZHAvcGxheWxpc3QubTN1OA==",
+      "info": "국방TV"
     },
     {
       "cid": 2,
       "name": "국회방송",
       "stream_url": "aHR0cDovL20ud2ViY2FzdC5nby5rci9saXZlL19kZWZpbnN0Xy9zbWlsOm5hdHYuc21pbC9wbGF5bGlzdC5tM3U4",
+      "info": "국회방송"
     },
     {
       "cid": 2,
       "name": "한국선거방송",
       "stream_url": "aHR0cDovL25lY2dva3IyLTcyNC5hY3Mud2VjYW5kZW8uY29tL21zLzI1MjgvNzI0L2luZGV4XzEubTN1OA==",
+      "info": "한국선거방송"
     },
     {
       "cid": 3,
       "name": "OGN",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82ODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "OGN"
     },
     {
       "cid": 3,
       "name": "KBSN 스포츠",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE4L3ZvZC8wNDEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "KBSN 스포츠"
     },
     {
       "cid": 3,
       "name": "MBC 스포츠[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE4L3ZvZC8wMTEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "MBC 스포츠"
     },
     {
       "cid": 3,
       "name": "MBC 스포츠[2]",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTgvdm9kLzM4MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "MBC 스포츠"
     },
     {
       "cid": 3,
       "name": "SBS 스포츠[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMzgxMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "SBS 스포츠"
     },
     {
       "cid": 3,
       "name": "SBS 스포츠[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE1L3ZvZC8zODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "SBS 스포츠"
     },
     {
       "cid": 3,
       "name": "SPOTV[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwL3ZvZC82NjcwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "SPOTV"
     },
     {
       "cid": 3,
       "name": "SPOTV[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82NjcwMS5tM3U4P1Nlc3Npb25JRD04YTFhZjRiOC03ZTcxLTRhZjktOGZkMi1iYTNmZWU3YmI4OTAmVk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "SPOTV"
     },
     {
       "cid": 3,
       "name": "SPOTV2[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjMyL3ZvZC8zODMwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "SPOTV2"
     },
     {
       "cid": 3,
       "name": "SPOTV2[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMzgzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "SPOTV2"
     },
     {
       "cid": 3,
       "name": "JTBC 골프&스포츠[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82MDIwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "JTBC 골프&스포츠"
     },
     {
       "cid": 3,
       "name": "JTBC 골프&스포츠[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjAyMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "JTBC 골프&스포츠"
     },
     {
       "cid": 3,
       "name": "SPOTV 골프&헬스[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjQwL3ZvZC82NTAwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "SPOTV 골프&헬스"
     },
     {
       "cid": 3,
       "name": "SPOTV 골프&헬스[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC82NTAwMS5tM3U4P1Nlc3Npb25JRD04MzZkYTRiNC1jOTc4LTQwMjEtYmMxYy1iZTBiMWM4YzI3NzMmVk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "SPOTV 골프&헬스"
     },
     {
       "cid": 3,
       "name": "SBS 골프[1]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC82MTQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "SBS 골프"
     },
     {
       "cid": 3,
       "name": "SBS 골프[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjE0MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "SBS 골프"
     },
     {
       "cid": 3,
       "name": "FISHING TV[1]",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzYyNTAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "FISHING TV"
     },
     {
       "cid": 3,
       "name": "FISHING TV[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC82MjUwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "FISHING TV"
     },
     {
       "cid": 3,
       "name": "FTV[1]",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzY2NTAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "FTV"
     },
     {
       "cid": 3,
       "name": "FTV[2]",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjY1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "FTV"
     },
     {
       "cid": 3,
       "name": "바둑TV",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC82ODMwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "바둑TV"
     },
     {
       "cid": 3,
       "name": "[1]브레인 TV",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzcwNzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "브레인 TV"
     },
     {
       "cid": 3,
       "name": "[2]브레인 TV",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTgvdm9kLzcwNzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ",
+      "info": "브레인 TV"
     },
     {
       "cid": 3,
       "name": "스크린 골프존",
       "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuOC92b2QvNTc4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "스크린 골프존"
     },
     {
       "cid": 4,
       "name": "애니맥스",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC83MDMwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "애니맥스"
     },
     {
       "cid": 4,
       "name": "애니플러스",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjE1L3ZvZC82OTkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "애니플러스"
     },
     {
       "cid": 4,
-      "name": "Bravokids TV",
+      "name": "Bravokids",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC83MjgwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
+      "info": "Bravokids TV"
     },
     {
       "cid": 4,
-      "name": "플레이런TV",
+      "name": "플레이런",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMTc1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
+      "info": "플레이런TV"
     },
     {
       "cid": 4,
-      "name": "대교 어린이TV",
+      "name": "대교 어린이",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjM0L3ZvZC83NjEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ==",
       "info": "대교 어린이TV"
     },
     {
       "cid": 4,
-      "name": "JEI EnglishTV",
+      "name": "JEI English",
       "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzkzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk=",
       "info": "JEI EnglishTV"
     },
