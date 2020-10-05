@@ -40,824 +40,824 @@
       "info": "실시간CCTV|미국 뉴욕 타임스퀘어"
     },
     {
-       "cid": 1,
+      "cid": 1,
       "name": "KBS1",
-      "stream_url": "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1601890900&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDkwMH19fV19&Signature=TNa3GBz0RMUlUtpJX9TGJ~S1dk6zOfmUX33wMlsZ-DWU5Sqy4O6L0CcRUIJcwDLfNuFy3rBLEMVe8KQ6RTVf5~3Jx8tPxE95mchu0cTLZ~cXdBi2pYd20lpPZRXRiqNAoS9xCglbXGnwZvHmZEaXTS0BVHgtN9v7xqvgWWGNhgO26a8H6CzvE3yi39q6wfuMxutorTOyuFeWOZCNSc3OxfaBeXn5Ef-JZGNGdJlHnf5-4DDsrcO5Lhnl2u4o0Y3LfH9vOZ4EybIbGOZ-ottn99lMfGsNYLAXza16h4SJQLGKqsmhgco6ECKRdVmeO~XKkw958orF1lhX4U0dFtM7xA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OD9FeHBpcmVzPTE2MDIwNjM2MTImUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92THpGMGRpNW5jMk5rYmk1clluTXVZMjh1YTNJdk1YUjJMVzB2TVhSMkxXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TWpBMk16WXhNbjE5ZlYxOSZTaWduYXR1cmU9ZlRwTDd5aHFiS1R1YUttUWR1RE9Ob1VBN2xHS2Rrbm83aks5NH5OTktWc2dYb3F4clZiQU9LMlNVflFxbGpSTEUwbVR2dG14VlZaU2M4ekZldGl3TmNvZE5MbUVvRGthVmlVV05PRUZQcWJIRGhNc1VuSUdmamR1RjdKTmluSk1WY0hLMi13SWV5OWxYWG9LMU9TUlN6RlJ+Z1V3a3hGSGpHLVY4clFsMFJDdWdNTU1vVDRrRUFYbnU4b0VxU05ZSXVXQkRhcUxJYmlRWTh6cFZONWFYLTdYR1NTdmtPdnJ6SDBUd0Fnb2NuM2F2N1JKZDg0SjB5MnI1dWh3OXhSVHFkQmw1ckE5dWNuZnlkTW9XVnRrQy1UQ3ljREh5eVdZOVNIZXpxa1JOWGRzWnVlZkZCSW1LYllvaW9TMTFVdVVMNUhqNHVERDFkUExkNHhqOGNJdU1BX18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE="
     },
     {
       "cid": 1,
       "name": "KBS2",
-      "stream_url": "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1601890891&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDg5MX19fV19&Signature=hzI-aD6cmbobA5bVACeP62uBohVnXxoDDd5RgsaX7yA00mVgL5L8X1ne3r4cJYKoTQJNmpCNreCnZnzsK9QEaLirqd0Q-G1-gJl7jJjmuz0HpRX9GVTyBZOK5XE7cIGySg5amXVRr4hKWpzUY1MqTouioRtCBjingoesYQRx5G5VdcZu2stKcdrzvHiEaTAYTxWYpLQqzgAPaQOI-544wpuiUqvXCc089Bpe7PX3HA5P-EtoNzbfDD6SYD1-FMKrktEAQRMLPOV~FQV4xN4xdlQR1YVD8M2jQ-OjBUcvGtHwA77kT79sKKjOuoY~8clDM0Ooi1BP6o54GeOXzWSUdw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OD9FeHBpcmVzPTE2MDIwNjM2NDgmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92THpKMGRpNW5jMk5rYmk1clluTXVZMjh1YTNJdk1uUjJMVzB2TW5SMkxXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TWpBMk16WTBPSDE5ZlYxOSZTaWduYXR1cmU9a3BBSktlQUEyT3M0VlBaQWRNSUdqUmxRejZIVk5BNVpyVjZBakx4cFVrZUFDT1FVY3Q0NTRCLVJhOFZRcVJYd3JyVllhdnplR2kxcGN0Z0l6UldRWXRaSDNlcG9vSHZKcWxETkR1OWhZRE1ONDF3SWQwd2hWdFN5akhTU0Vxdi1OZXROTE5SSHN3aG45SzZ5cGw2WkxXd1JiYW1DU2VvRmdWdmNxWmNXanBUaTg2TlozRHk4ZXlieFRaRTdPNVZWZ1pTT1RycX5mckRZanQyWXhUVGd0S0YtV3B+TERsOE8zdzBLa2lKQnBjM0FhVnhwSktmUFNMdDVoNjlFc35aY2thZk5Ec2JsSjB6alhHUUVGakd0eC1RazhxWEZRSmljNXBLUFd0ZDJlQlBBR1BOLTdkUkdxTTF2ZHpINDlsdndjUThSa2ZpVklvV2xPREJUfkNUNmxRX18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE="
     },
     {
       "cid": 1,
       "name": "MBC춘천",
-      "stream_url": "https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81Yzc0OTM5Yzg5MWRjLnN0cmVhbWxvY2submV0L2xpdmUvVFYvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 1,
       "name": "MBC강원영동",
-      "stream_url": "http://123.254.72.24:1935/tvlive/livestream/playlist.m3u8"
+      "stream_url": "aHR0cDovLzEyMy4yNTQuNzIuMjQ6MTkzNS90dmxpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 1,
       "name": "MBC충북",
-      "stream_url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
+      "stream_url": "aHR0cDovLzIxMS4zMy4yNDYuNDozMjk1NC9jal9saXZlL215U3RyZWFtLnNkcC9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 1,
       "name": "MBC여수",
-      "stream_url": "https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81YzM2MzlhYTk5MTQ5LnN0cmVhbWxvY2submV0L2xpdmVfVFYvVFYvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 1,
       "name": "MBC대구",
-      "stream_url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81ZWUxZWM2ZjMyMTE4LnN0cmVhbWxvY2submV0L2xpdmUvbGl2ZXR2L3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 1,
       "name": "MBC울산",
-      "stream_url": "https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81ZGRmZDE2M2JkMDBkLnN0cmVhbWxvY2submV0L25IRFRWL25IRFRWL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 1,
       "name": "MBC제주",
-      "stream_url": "https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81Y2Y1OGE1NTZmOWIyLnN0cmVhbWxvY2submV0OjQ0My9saXZlL3R2X2planVtYmMvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 1,
       "name": "KNN|SBS",
-      "stream_url": "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8"
+      "stream_url": "aHR0cDovLzIxMS4yMjAuMTk1LjIwMDoxOTM1L2xpdmUvbXA0OktublRWLnNkcC9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 1,
       "name": "TBC|SBS",
-      "stream_url": "http://221.157.125.239:1935/live/psike/playlist.m3u8"
+      "stream_url": "aHR0cDovLzIyMS4xNTcuMTI1LjIzOToxOTM1L2xpdmUvcHNpa2UvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 1,
       "name": "KBC|SBS",
-      "stream_url": "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8"
+      "stream_url": "aHR0cDovLzExOS4yMDAuMTMxLjExOjE5MzUvS0JDVFYvdHYvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 1,
       "name": "TJB|SBS",
-      "stream_url": "http://1.245.74.5:1935/live/tv/.m3u8"
+      "stream_url": "aHR0cDovLzEuMjQ1Ljc0LjU6MTkzNS9saXZlL3R2Ly5tM3U4"
     },
     {
       "cid": 1,
       "name": "UBC|SBS",
-      "stream_url": "http://59.25.202.82:1935/live/UBCstream/playlist.m3u8"
+      "stream_url": "aHR0cDovLzU5LjI1LjIwMi44MjoxOTM1L2xpdmUvVUJDc3RyZWFtL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 1,
       "name": "CJB|SBS",
-      "stream_url": "https://5ee9be10640ac.streamlock.net/live/cjbtv/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81ZWU5YmUxMDY0MGFjLnN0cmVhbWxvY2submV0L2xpdmUvY2pidHYvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 1,
       "name": "JIBS|SBS",
-      "stream_url": "http://123.140.197.22/stream/1_2000_54323/index.m3u8"
+      "stream_url": "aHR0cDovLzEyMy4xNDAuMTk3LjIyL3N0cmVhbS8xXzIwMDBfNTQzMjMvaW5kZXgubTN1OA=="
     },
     {
       "cid": 1,
       "name": "JTBC[1]",
-      "stream_url": "http://1.214.67.100/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ3MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "JTBC[2]",
-      "stream_url": "http://1.214.67.208/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNzQ3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "JTBC[3]",
-      "stream_url": "http://211.170.95.20/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzc0NzAyLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 1,
       "name": "JTBC[4]",
-      "stream_url": "http://211.170.95.50/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuNTAvdm9kLzc0NzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 1,
       "name": "MBN[1]",
-      "stream_url": "http://1.214.67.30/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC83NTAwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 1,
       "name": "MBN[2]",
-      "stream_url": "http://211.170.95.13/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTMvdm9kLzc1MDAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 1,
       "name": "MBN[3]",
-      "stream_url": "http://211.170.95.20/vod/75002.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzc1MDAyLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 1,
       "name": "MBN[4]",
-      "stream_url": "http://211.170.95.80/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuODAvdm9kLzc1MDAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 1,
       "name": "TV조선[1]",
-      "stream_url": "http://1.214.67.26/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC83NDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 1,
       "name": "TV조선[2]",
-      "stream_url": "http://1.214.67.100/vod/74602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ2MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "TV조선[3]",
-      "stream_url": "http://211.170.95.106/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTA2L3ZvZC83NDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 1,
       "name": "TV조선[4]",
-      "stream_url": "http://211.170.95.115/vod/74602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NDYwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 1,
       "name": "채널A[1]",
-      "stream_url": "http://1.214.67.100/vod/74902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzQ5MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "채널A[2]",
-      "stream_url": "http://1.214.67.208/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwOC92b2QvNzQ5MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "채널A[3]",
-      "stream_url": "http://211.170.95.115/vod/74902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NDkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 1,
       "name": "채널A[4]",
-      "stream_url": "http://211.170.95.118/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE4L3ZvZC83NDkwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 1,
       "name": "OBS[1]",
-      "stream_url": "http://1.214.67.100/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTk2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "OBS[2]",
-      "stream_url": "http://1.214.67.100/vod/59602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTk2MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "OBSW",
-      "stream_url": "http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjQ4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 1,
       "name": "[북한] 조선중앙TV",
-      "stream_url": "https://tv.nknews.org/tvhls/stream.m3u8"
+      "stream_url": "aHR0cHM6Ly90di5ua25ld3Mub3JnL3R2aGxzL3N0cmVhbS5tM3U4"
     },
     {
       "cid": 1,
       "name": "KCTV 제주방송",
-      "stream_url": "https://vod.kctvjeju.com/LIVE/ch7/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly92b2Qua2N0dmplanUuY29tL0xJVkUvY2g3L3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 1,
       "name": "KCTV20 제주방송",
-      "stream_url": "https://vod.kctvjeju.com/ch7/ch4/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly92b2Qua2N0dmplanUuY29tL2NoNy9jaDQvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "tvn[1]",
-      "stream_url": "http://1.214.67.30/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC82ODIwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "tvn[2]",
-      "stream_url": "http://211.170.95.106/vod/68202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTA2L3ZvZC82ODIwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "YTN[1]",
-      "stream_url": "http://1.214.67.26/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC82OTgwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "YTN[2]",
-      "stream_url": "http://1.214.67.100/vod/69802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjk4MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "연합뉴스TV[1]",
-      "stream_url": "http://1.214.67.26/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI2L3ZvZC83MzQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "연합뉴스TV[2]",
-      "stream_url": "http://1.214.67.100/vod/73402.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzM0MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "KBS 24",
-      "stream_url": "http://news24.gscdn.kbs.co.kr/news24-m/news24-m_hd.m3u8?Expires=1601890824&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDgyNH19fV19&Signature=HyGkOKcbuid5A8EsFxaRNuxXdDr6wHVnByfZdDJXEkDeRaXSmyUDwL2KvUQFztNS3yEVPF2Mf2um1gLu~VecoMo2UmCJ4WUAacKW9r3zG7iSSeKeq16gWaVIxdrlYvjYB6dk2bunZKZfi2c3oU9a31veQ9hAaUswJaAyer3cE5wiH3b1fvHGmewxfKba1a-ApO7Dp66VZlLzcDWQnD76xVi-psxkiEIcAxUESdxd6cgAMV8fv3pyGfIH8MIEiFwdvlF5nLAwp9DEJ~jMPVxrnhUd55rglmWIXvRlhuJKbDyyLdzytxVU-zEKL6eIRVv~bpguUbof17pJ6ZHaxMnvqw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LW0vbmV3czI0LW1faGQubTN1OD9FeHBpcmVzPTE2MDIwNjM2NDQmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDI1bGQzTXlOQzVuYzJOa2JpNXJZbk11WTI4dWEzSXZibVYzY3pJMExXMHZibVYzY3pJMExXMWZhR1F1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TWpBMk16WTBOSDE5ZlYxOSZTaWduYXR1cmU9ZDRxSE1DV1NUMU56blpBYnpyZzNnMG9vRDJKflBXRGJleHJPVUYtTHI1eHdDWU5aVUtTY2NWME4tZUt+MG83ZERlR0JrSFpObGhZV05yREdOdDJmYzEzY2N5aX5KdDgzVTB0flo4bWJkTEhXZ3hhR2VCTmx+UDBEYzFFbURPeFdMMkNXSnhCcHVTV2N4ZXk5YTBuSjZhV1BRUDhDZ3VZbzVNRVpWbUNGbnpMa2dCdjZpU29Jb0Q1blZleXJ6bkNjMHE3MG5VRFNLYlhmMHBnUTI3U1JaOGFmNXdRZmh0b3FRWGJ6bGJOUURFLXp+WkRWRlkzcDR1M1BrMWVOWjR6LUM1WVlPRzRrWnVvYzNtdE1XdU1YOH5INXV5LX42ZUZtWE54SW40UWNifkN2dGdtTTNEWEdMWDhhdjN4LXI4alB3OFY5RERzfmtJNlJxUUNBcnFvWmJ3X18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE="
     },
     {
       "cid": 2,
       "name": "KBS Drama",
-      "stream_url": "http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-m/kbsndrama-m_sd.m3u8?Expires=1601890868&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDg2OH19fV19&Signature=IO0FbuTZIIPScjT66af--2k-ocmVhQ4cCZJ-j3CDf21jAdOwC0mw2nTvK3UWoq4sZOfoJx1qp4ZWkTmct3gSJNXuadXKkU66VXYAwIda1CMtJtapAw9u3RBPLenrF-jOtKuHRDXWby-sNmHYvQd9tW9vB7V5nk~hKh~hk46ARxZtQ5xYyGp4KBvJaZIg2UcQGVpSf01crFxerEoqqzHiBZqGEJDR-438K8GTQ-HljIrJtu88kROKJxqRfBvTTgwP4W8lLdGQweeZysMU27E08dv1xbkP26wtFlo5yh2GFWThQOUXdcn8dELAQolL04YlubTEE0zmpOhoSxcwfjfs7A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2OTcmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNWtjbUZ0WVM1bmMyTmtiaTVyWW5NdVkyOHVhM0l2YTJKemJtUnlZVzFoTFcwdmEySnpibVJ5WVcxaExXMWZjMlF1YlROMU9DSXNJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFl3TWpBMk16WTVOMzE5ZlYxOSZTaWduYXR1cmU9YWJTTlhITFJJOXlndGdNaTIyd1VkdGF3LWk2MXhleVA5eDRieWpXRGJQeEJadGtyNkVNWEFvb045ZFZkVFZ2M0ZuV2pwLVlRNlVRRmc4dTNnRDZZaVVQVzcxZn5vUFVvTXJuYXFYMklWeG9CbTFTZ2Eza0w0Y1o1N0FldG9FMk5jSnpad05ocXJjRUN6Y1NXVi1lMVptME4xT2tFfkJ3YkpFdEVsU0ZZOFlLSXA4NTBIZWQ1M2t4fjVxVnJhT1FXTGNFNU0wWDlTLUdYalRFaWlXblU3RFBqUjZxaXZ1UDI3LXd0NnZEdHdwSnJVdUFHQTFxNmE3bWUySzZXdWpiTH40WXl0QWNac0JySDBIdTd5aXVlbkFiSGlhcDQ0emFNZUNWTjBmR2hMQTBSLVVxR2hYVmEtUmI5MG91TXEtTjVGWGFJcE81N1FQT3pHcUF5Q24yeE9nX18mS2V5LVBhaXItSWQ9QVBLQUlDRFNHVDNZN0lYR0ozVEE="
     },
     {
       "cid": 2,
       "name": "KBS joy",
-      "stream_url": "http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-m/kbsnjoy-m_sd.m3u8?Expires=1601890798&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDc5OH19fV19&Signature=eiFn4hmnU48hBb2TpGQz8W38Z9jCQdqwI9CwSW9EGNxFQ8DT1CqCOTXDh1Cx6akDci9Hw54TjWYKyIS5ra66RHYWQ05LtbEO-JOHxDt3DcE923j0ch1VhTpBdqB82k8jkoL-h7KubLE~zR0fioLkBPAy8eugdYSFnhrYF2HgEU3NkuwFq5VmiS5WWUvyx2lm-kBT8QLtweRJNnURLIJPhy6B~DlfE06h40cl54IjHOlP9P6g6p2DX4Thnd5USgtNHdJSH6bSzqKfoPk7NUsvbRnEqVKyw2~~FkZW5gnAybj6jUmwX-Qzls9LRy3zepuvOuAD9BE70o2gXCwb9fsHJA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktbS9rYnNuam95LW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2ODcmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXFiM2t1WjNOalpHNHVhMkp6TG1OdkxtdHlMMnRpYzI1cWIza3RiUzlyWW5OdWFtOTVMVzFmYzJRdWJUTjFPQ0lzSWtOdmJtUnBkR2x2YmlJNmV5SkVZWFJsVEdWemMxUm9ZVzRpT25zaVFWZFRPa1Z3YjJOb1ZHbHRaU0k2TVRZd01qQTJNelk0TjMxOWZWMTkmU2lnbmF0dXJlPWtCUDJVNktjeX55bjNISnA3VXN4U1djODZKYmE1N1o1REF3RDdmcEN5bi02NVBvMHJJN29oQUZHfjk5MTg4fmJUSkhZSW1iZFJPc3lvWGMxdEs0SFo4ZHJVVUItbmdmcXQxUzdTTmstZVVzV0lPSEN6bDFBUWl0ZFR4b0JNWE1YbkZ0Qld4a0JZYTNRaW1wWE8zRU9TY0JjdnlYdW1tNVE1N3Vxa2V4MG4xbzZxNFhQMFhUa3hlcVlLaGtHS2V6S2F2QmZtUEFKdzlzcFQ5MnRFQmVFNG5xYzdwZzEtb3Z5cDdnVEpRbGRXbWE1cXFmU2dEdn5aR012dTkzSE1YMVJLbmxHZkl5U0k1a1BuQ3pSci0xd25CR1l1S2VjaDM1Z1ZkWHQtMUR1bE5Bc2t3djhxTFZRdjJuUkVadFJFWWJkS1l5U0UzclFsbVlhbThNQ2liSWlyQV9fJktleS1QYWlyLUlkPUFQS0FJQ0RTR1QzWTdJWEdKM1RB"
     },
     {
       "cid": 2,
       "name": "KBSW",
-      "stream_url": "http://kbsnw.gscdn.kbs.co.kr/kbsnw-m/kbsnw-m_sd.m3u8?Expires=1601890831&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic253LmdzY2RuLmticy5jby5rci9rYnNudy1tL2tic253LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDgzMX19fV19&Signature=Mb17xDQjfKOCGKxu1pZR4~WP-agYMuK6Z9LQcs0fBXhHIoONCKZSWO2uVDqn4BeJsoGbXAqD54av4bphfzzYg-EBergAHDfrSDzIunKekK68FoDOCQ3sbdJeMU8jqDVm7DcDJAUHdxAcznKo4Kga6dtvNkndbVmTKyfmgcHchUfa53SrK4j-4g3sakE0AndOI~SxutccXMyvT8ryicJG-xGRHzV-F~XW64Jx1DFzoaIpSKrsTge904D7hTqpP33CGUOfVO~Wzu~0sWtu4pKZ4Md4F0j8laNVs2rdRwUCTRXEGoV9Lwe7m6Bcs8ql5AR4mwl8mXs5cVJVIoSU2OCWSQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL2tic253LmdzY2RuLmticy5jby5rci9rYnNudy1tL2tic253LW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjQ3NjUmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNTNMbWR6WTJSdUxtdGljeTVqYnk1cmNpOXJZbk51ZHkxdEwydGljMjUzTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTkRjMk5YMTlmVjE5JlNpZ25hdHVyZT1kVWNTWHE3dmdxWUxPZnpGeDRBVktiZ3NTc2I0dEFyOThZRG5JVW5MRFVjVDRlN0NXRGNsU3FnbmM1M2l0cUZ+V1Q2WWlUaEJqZjZDVlB0d3hXN1VJQ29JMExoS1l0TTYtZmNZRVdSMjZiOUtSQ3NQNHVndVRoa1J3cThlWEhHbTZWMVIwNi0zaXhofnN0blJOMlpRNzNnYkhUb2MxT1RSMW5XTDg3WDZ+eEZkTjlMM3drSUZkVldramFpdVJJczd2Y201Qy1zbGh6YWxuNHNTWWt5VFVPflk4Rk5XZzZlTzV4b1dydkdTeExDZWZtaVl+dG52c3hzSTFJbUFTMy1GT1NrY25xazBNQldNcFVVejF+eFFmSH5Hc1plbUIyY01GYTlDWGhDeW9TcTRleERxQU5nZW5CSG0wRkxTNnV4TW9JZFVoU2Zndkp+bmkzVmg0fmpFWUFfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ=="
     },
     {
       "cid": 2,
       "name": "KBSN LIFE",
-      "stream_url": "http://kbsnlife.gscdn.kbs.co.kr/kbsnlife-m/kbsnlife-m_sd.m3u8?Expires=1601890885&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25saWZlLmdzY2RuLmticy5jby5rci9rYnNubGlmZS1tL2tic25saWZlLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDg4NX19fV19&Signature=VhVTbiReRflJS1e2Jz~BeMcLB8VIcUOqjwxqwnOC1ehENEKxtIJ04xbN~qApMghs6jV0XRazd63jiIbjTWsAFeJPXsTQ6QhDNjtfI8ZetlS~-h~sEvJwHfLFEkpNpLlKXHzkfxwl5Qi9IiBatBomVbSSR6b1FDGEKuyPgs4dsOBVYqY88OiyHJNHHIntBfzbddhM7jQbb4Pgo7Mn9YecBhJL1B3c7K6Bz4-G9Zmokwdq3JoKCmG8ZbKFVBMR5zUBvedi5nECqSBQw4bGSlFIy~CIoTjpoBhse0b8FogDIixOd-MjBfVaH5p7HOE0sK05O090picosdBZ0O0kMsBBrg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL2tic25saWZlLmdzY2RuLmticy5jby5rci9rYnNubGlmZS1tL2tic25saWZlLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2ODEmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXNhV1psTG1kelkyUnVMbXRpY3k1amJ5NXJjaTlyWW5OdWJHbG1aUzF0TDJ0aWMyNXNhV1psTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTXpZNE1YMTlmVjE5JlNpZ25hdHVyZT1tYkt1dDRTMktYMlNtNjIydDBMOUZpRkYwNGNqWHBjYjRzN3JvY1llak9McFhXMlhiWDNTVnRNUGl2R3k1Q1ZLc1JxTDN3dFN+WTluQWJ2amZoTDctRWxKbDBoRFQwNWI1ZDdmLUp5Sn4ySmFEcFZ5QW5DZGxBSGYzTUtYRlgyWjE1Qn4zbEtVQTYwS0JVenE3dThZd0p0dnNWZW5rWG1yMTQ2fnZBRFhnb2xWZEZFcTBDN0tBd29lUGRkcHpjNm1GNzdYd2NqRDFRZ2lCb1RoazNQRVhDa3l3N3JLQmVZbEd0WVNmd2N3aUNTanhzVWNtNDk5WWExVnl1fkFmWUJrOFo3b2x0S1NmZXVXd1hLM1M5S0VEd0FwSEljRFN6d1RmQllEYTF4Z0g3SDZKZk4xaTRyZkNyYkxpT3VaM0REMkVLaH5mQjdmZ3hCRnlTSlF0cHNYYWdfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ=="
     },
     {
       "cid": 2,
       "name": "KBS WORLD",
-      "stream_url": "http://world.gscdn.kbs.co.kr/world-m/world-m_sd.m3u8?Expires=1601890903&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDkwM319fV19&Signature=R16rHFOqlu6MfNotQAeh2Io86wwGvAo353hR76BWM0hZcNjHd1Hh5Od-CyELcI5W00dPk8bwAL8ccPVN63TcZR2-WIo5nu15moOXFe9UYcfAEmw64F2FKhf9qH16kizw14XqzFhkBIl20sNSYB~6NtZgQW4zUxvSL3YkY8G~snronoGw5CQ7Skhrc-2KeObSdrKZzxAdm9lsQx5hI5mqjYy8YPhkh1pbI5thigNpNCrXDowNwkPuOiY6KV3NI7LtReZAdZkzsCAcsiL-3m8-oKgk6LAOCs1EevuP4eKNMcLAOYozKbQUbD7EYZTlFfVKBLuRAufmy~j16OlUzb0ZPg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1tL3dvcmxkLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2NjAmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDNkdmNteGtMbWR6WTJSdUxtdGljeTVqYnk1cmNpOTNiM0pzWkMxdEwzZHZjbXhrTFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTXpZMk1IMTlmVjE5JlNpZ25hdHVyZT1tQ3Zvb2xHTlBxaWtxbUpBZzNJUS00VEV6R1gyaDBjOXY3VVZSQ1JuQWRGZnE3VDU1cnlTMnB2eFl+THdWYUo1ZFdFN354a2tORndzTDZURVVaMFlKV21pWjVjQUp+M2ZvaVljTWxobzd5Y2VnTDhuOW5Rc3hXcFo5U1JrU1BvVklBS1lVSWM5MklaLVB1TFg2bnpuanRWOEYxM0VvSlcybUhZbi0zTk9wV0lCTm04bHRhRU4yWmxqMHc3bkJGMHFLeC1GSFN0aXBqSHBpLUppcWV1aWtENmRVd1dOaDY1aW5rek5pck5+MkhkaGxPSG1jS0JhaHBrelhpdm1qQUc0UnA0Z3FIajE1R1RSekhHdXFhV01obEs1dEFZbUJKTkpUUlJYYlJhYU84R0R+WEcyWldrMDFydU1HZlY1N3kxOFM4SWt6QTJRTnV4c2xTaHhINkVsQ0FfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ=="
     },
     {
       "cid": 2,
       "name": "KBSN PLUS",
-      "stream_url": "http://1.214.67.17/vod/38902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC8zODkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "SBS STAR",
-      "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly9zdHJlYW1pbmctYS04MDIuY2RuLm5leHRvbG9naWVzLmNvbS9TQlNfMTgvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "jtbc2[1]",
-      "stream_url": "http://1.214.67.16/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE2L3ZvZC82MDYwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "Jtbc2[2]",
-      "stream_url": "http://211.170.95.21/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzYwNjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 2,
       "name": "Jtbc4[1]",
-      "stream_url": "http://1.214.67.100/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzY3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "Jtbc4[2]",
-      "stream_url": "http://211.170.95.115/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTE1L3ZvZC83NjcwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "Mnet",
-      "stream_url": "http://211.170.95.20/vod/68701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzY4NzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 2,
       "name": "가요TV",
-      "stream_url": "http://1.214.67.22/vod/79401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC83OTQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "GM",
-      "stream_url": "http://1.214.67.17/vod/68802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC82ODgwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "K STAR",
-      "stream_url": "http://211.170.95.21/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzY2MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 2,
       "name": "Otvn",
-      "stream_url": "http://1.214.67.100/vod/68903.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjg5MDMubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "Xtvn",
-      "stream_url": "http://1.214.67.100/vod/67101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjcxMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "STATV",
-      "stream_url": "http://1.214.67.100/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI3MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "TBS",
-      "stream_url": "http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"
+      "stream_url": "aHR0cDovLzU4LjIzNC4xNTguNjA6MTkzNS9jYXR2bGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 2,
       "name": "AsiaN",
-      "stream_url": "http://1.214.67.100/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjU4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "중화TV",
-      "stream_url": "http://1.214.67.100/vod/72502.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI1MDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "[1]PLAYY프리미엄",
-      "stream_url": "http://1.214.67.30/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjMwL3ZvZC8zOTEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "[2]PLAYY프리미엄",
-      "stream_url": "http://211.170.95.9/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuOS92b2QvMzkxMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "[1]PLAYY웰메이드",
-      "stream_url": "http://1.214.67.20/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwL3ZvZC8zOTIwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "[2]PLAYY웰메이드",
-      "stream_url": "http://211.170.95.15/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTUvdm9kLzM5MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 2,
       "name": "MTN",
-      "stream_url": "http://183.110.27.87/mtnlive/_definst_/720/playlist.m3u8"
+      "stream_url": "aHR0cDovLzE4My4xMTAuMjcuODcvbXRubGl2ZS9fZGVmaW5zdF8vNzIwL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 2,
       "name": "TomatoTV",
-      "stream_url": "http://1.214.67.17/vod/77102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83NzEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "YTN SCIENCE",
-      "stream_url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8"
+      "stream_url": "aHR0cDovL3NsaXZlLnNjaWVuY2V0di5rcjoxOTM1L3NjaWVuY2UveXNsaXZlXzIwMTQwNDE5XzEvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "Olive",
-      "stream_url": "http://1.214.67.38/vod/69602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjM4L3ZvZC82OTYwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "ON STYLE",
-      "stream_url": "http://1.214.67.100/vod/77801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzc4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "라이프타임",
-      "stream_url": "http://211.170.95.21/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzYwMzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 2,
       "name": "BILLIARDS TV",
-      "stream_url": "http://1.214.67.100/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjY4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "POLARIS",
-      "stream_url": "http://1.214.67.100/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzI2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 2,
       "name": "ARTE",
-      "stream_url": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
+      "stream_url": "aHR0cDovL2V0b21hdG9tb2JpbGUuaHNjZG4uY29tL2FydGVtb2JpbGUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 2,
       "name": "NHTV농협방송",
-      "stream_url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"
+      "stream_url": "aHR0cDovL25vbmdoeXVwLmZsaXZlLnNrY2RuLmNvbS9ub25naHl1cC9fZGVmaW5zdF8vbmhsaXZlL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 2,
       "name": "한국농업방송",
-      "stream_url": "https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly9tZWRpYS5qb3ljb3JwLmNvLmtyOjQ0NDMvbGl2ZS9saXZlXzcyMHAvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "한국직업방송",
-      "stream_url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8"
+      "stream_url": "aHR0cDovL2xpdmUud29ya3R2Lm9yLmtyOjE5MzUvbGl2ZS93b3d0dmxpdmUxLnNkcC9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 2,
       "name": "G국악방송",
-      "stream_url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly9tZ3VnYWtsaXZlLm5vd2Nkbi5jby5rci9ndWdha3ZpZGVvL2d1Z2FrdmlkZW8uc3RyZWFtL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 2,
       "name": "ArirangTV",
-      "stream_url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      "stream_url": "aHR0cDovL2FtZGxpdmUuY3RuZC5jb20uZWRnZXN1aXRlLm5ldC9hcmlyYW5nXzFjaC9zbWlsOmFyaXJhbmdfMWNoLnNtaWwvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "KOREA K+",
-      "stream_url": "http://210.210.155.35/uq2663/h/h08/index.m3u8"
+      "stream_url": "aHR0cDovLzIxMC4yMTAuMTU1LjM1L3VxMjY2My9oL2gwOC9pbmRleC5tM3U4"
     },
     {
       "cid": 2,
       "name": "KoreaTV",
-      "stream_url": "http://218.38.152.57:1935/mlive/mp4:ch001/playlist.m3u8"
+      "stream_url": "aHR0cDovLzIxOC4zOC4xNTIuNTc6MTkzNS9tbGl2ZS9tcDQ6Y2gwMDEvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "복지TV",
-      "stream_url": "http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
+      "stream_url": "aHR0cDovLzEzOS4xNTAuMjQ4LjI5L3NtYXJ0bGl2ZS8zMTIvNDYzMjRiZTI0NDU0YmQ5OGY3ODUwMzk0NTdhYzY5NWQvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "국방TV",
-      "stream_url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
+      "stream_url": "aHR0cDovL21lZGlhd29ya3MuZGVtYS5taWwua3I6MTkzNS9saXZlX2VkZ2UvY3Vkby5zZHAvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "국회방송",
-      "stream_url": "http://m.webcast.go.kr/live/_definst_/smil:natv.smil/playlist.m3u8"
+      "stream_url": "aHR0cDovL20ud2ViY2FzdC5nby5rci9saXZlL19kZWZpbnN0Xy9zbWlsOm5hdHYuc21pbC9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 2,
       "name": "한국선거방송",
-      "stream_url": "http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8"
+      "stream_url": "aHR0cDovL25lY2dva3IyLTcyNC5hY3Mud2VjYW5kZW8uY29tL21zLzI1MjgvNzI0L2luZGV4XzEubTN1OA=="
     },
     {
       "cid": 2,
       "name": "[미국] HD Fashion",
-      "stream_url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
+      "stream_url": "aHR0cDovLzk1LjY3LjQ3LjExNS9obHMvaGRmYXNoaW9uX3VhX2hpL2luZGV4Lm0zdTg="
     },
     {
       "cid": 2,
       "name": "[미국] NASA TV",
-      "stream_url": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8"
+      "stream_url": "aHR0cDovL2lwaG9uZS1zdHJlYW1pbmcudXN0cmVhbS50di91aGxzLzY1NDAxNTQvc3RyZWFtcy9saXZlL2lwaG9uZS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 2,
       "name": "[미국] TBD",
-      "stream_url": "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8"
+      "stream_url": "aHR0cDovL2NvbnRlbnQudXBseW5rLmNvbS9jaGFubmVsLzE4MzExNjNmOTc2NzQzMjhhZDlmNGI0ODE0ZWQzOWM1Lm0zdTg="
     },
     {
       "cid": 2,
       "name": "[미국] Pop",
-      "stream_url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
+      "stream_url": "aHR0cHM6Ly9saXZlLXBvcHR2LWZhc3RseS1wcm9kLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldC9wb3AvbWFzdGVyLm0zdTg="
     },
     {
       "cid": 2,
       "name": "[미국] ET Live",
-      "stream_url": "https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"
+      "stream_url": "aHR0cHM6Ly9ldGxpdmUtbWVkaWFwYWNrYWdlLWZhc3RseS5jYnNhYXZpZGVvLmNvbS9kdnIvbWFuaWZlc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "[미국] DRYBAR",
-      "stream_url": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly81OWQzOTkwMGViZmI4LnN0cmVhbWxvY2submV0L21vbGF1Z2h0ZXJ0di9tb2xhdWdodGVydHYvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 2,
       "name": "[미국] ABC News",
-      "stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+      "stream_url": "aHR0cHM6Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC8zMzI0ZjI0NjdjNDE0MzI5YjNiMGNjNWNkOTg3YjZiZS5tM3U4"
     },
     {
       "cid": 2,
       "name": "[미국] CBSN",
-      "stream_url": "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+      "stream_url": "aHR0cHM6Ly9jYnNuZXdzaGQtbGguYWthbWFpaGQubmV0L2kvQ0JTTkhEXzdAMTk5MzAyL21hc3Rlci5tM3U4"
     },
     {
       "cid": 2,
       "name": "[미국] CNN",
-      "stream_url": "http://1.214.67.17/vod/72902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC83MjkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 2,
       "name": "[영국] BBC",
-      "stream_url": "https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8"
+      "stream_url": "aHR0cHM6Ly9lZGdlLTExOTItY2gtZ3YuZmlsbW9uLmNvbS9saXZlLzMxNjYuaGlnaC5zdHJlYW0vcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 3,
       "name": "OGN",
-      "stream_url": "http://1.214.67.28/vod/68102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82ODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "KBSN 스포츠",
-      "stream_url": "http://1.214.67.18/vod/04101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE4L3ZvZC8wNDEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "MBC 스포츠[1]",
-      "stream_url": "http://1.214.67.18/vod/01101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE4L3ZvZC8wMTEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "MBC 스포츠[2]",
-      "stream_url": "http://211.170.95.18/vod/38201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTgvdm9kLzM4MjAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "SBS 스포츠[1]",
-      "stream_url": "http://1.214.67.100/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMzgxMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 3,
       "name": "SBS 스포츠[2]",
-      "stream_url": "http://1.214.67.15/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE1L3ZvZC8zODEwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "SPOTV[1]",
-      "stream_url": "http://1.214.67.20/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwL3ZvZC82NjcwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "SPOTV[2]",
-      "stream_url": "http://1.214.67.28/vod/66701.m3u8?SessionID=8a1af4b8-7e71-4af9-8fd2-ba3fee7bb890&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82NjcwMS5tM3U4P1Nlc3Npb25JRD04YTFhZjRiOC03ZTcxLTRhZjktOGZkMi1iYTNmZWU3YmI4OTAmVk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "SPOTV2[1]",
-      "stream_url": "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjMyL3ZvZC8zODMwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "SPOTV2[2]",
-      "stream_url": "http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMzgzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 3,
       "name": "JTBC 골프&스포츠[1]",
-      "stream_url": "http://1.214.67.28/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI4L3ZvZC82MDIwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "JTBC 골프&스포츠[2]",
-      "stream_url": "http://1.214.67.100/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjAyMDIubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 3,
       "name": "SPOTV 골프&헬스[1]",
-      "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjQwL3ZvZC82NTAwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "SPOTV 골프&헬스[2]",
-      "stream_url": "http://1.214.67.22/vod/65001.m3u8?SessionID=836da4b4-c978-4021-bc1c-be0b1c8c2773&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC82NTAwMS5tM3U4P1Nlc3Npb25JRD04MzZkYTRiNC1jOTc4LTQwMjEtYmMxYy1iZTBiMWM4YzI3NzMmVk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "SBS 골프[1]",
-      "stream_url": "http://1.214.67.22/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIyL3ZvZC82MTQwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "SBS 골프[2]",
-      "stream_url": "http://1.214.67.100/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjE0MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 3,
       "name": "FISHING TV[1]",
-      "stream_url": "http://211.170.95.21/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzYyNTAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "FISHING TV[2]",
-      "stream_url": "http://1.214.67.17/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE3L3ZvZC82MjUwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "FTV[1]",
-      "stream_url": "http://211.170.95.21/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjEvdm9kLzY2NTAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "FTV[2]",
-      "stream_url": "http://1.214.67.100/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNjY1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 3,
       "name": "바둑TV",
-      "stream_url": "http://1.214.67.24/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC82ODMwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 3,
       "name": "[1]브레인 TV",
-      "stream_url": "http://211.170.95.20/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMjAvdm9kLzcwNzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "[2]브레인 TV",
-      "stream_url": "http://211.170.95.18/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuMTgvdm9kLzcwNzAxLm0zdTg/Vk9EX1JlcXVlc3RJRD12Mk0yLTAxMDEtMTAxMC03MjcyLTUwNTAtMDAwMDIwMTgwNzE3MDIxNjMzO0xURTsxNjAwUDtXSUZJ"
     },
     {
       "cid": 3,
       "name": "스크린 골프존",
-      "stream_url": "http://211.170.95.8/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzIxMS4xNzAuOTUuOC92b2QvNTc4MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 4,
       "name": "애니맥스",
-      "stream_url": "http://1.214.67.24/vod/70302.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC83MDMwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 4,
       "name": "애니플러스",
-      "stream_url": "http://1.214.67.15/vod/69902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjE1L3ZvZC82OTkwMi5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 4,
       "name": "Bravokids TV",
-      "stream_url": "http://1.214.67.24/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjI0L3ZvZC83MjgwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 4,
       "name": "플레이런TV",
-      "stream_url": "http://1.214.67.100/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvMTc1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 4,
       "name": "대교 어린이TV",
-      "stream_url": "http://1.214.67.34/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjM0L3ZvZC83NjEwMS5tM3U4P1ZPRF9SZXF1ZXN0SUQ9djJNMi0wMTAxLTEwMTAtNzI3Mi01MDUwLTAwMDAyMDE4MDcxNzAyMTYzMztMVEU7MTYwMFA7V0lGSQ=="
     },
     {
       "cid": 4,
       "name": "JEI EnglishTV",
-      "stream_url": "http://1.214.67.100/vod/79301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNzkzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 4,
       "name": "KBS Kids",
-      "stream_url": "http://kbsnkids.gscdn.kbs.co.kr/kbsnkids-m/kbsnkids-m_sd.m3u8?Expires=1601890903&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25raWRzLmdzY2RuLmticy5jby5rci9rYnNua2lkcy1tL2tic25raWRzLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTg5MDkwM319fV19&Signature=MNqadj4K8XvHR9RSDin6iZ3AjCRaAsnb8j0v1NbVUGESxkuTAqhxtSw530ifBfiUX9K~XDWT8~qFaCl9nzz37TkJ2SIwMpSGqeR9QWQ4KuiQynUU-2GPIlnPQM63lwkQFh1fkJEJaXETBPKZue414zb768f1CivfrGYQbrNZNUq09Gg-tZSyMjY877Jw01a1LmMCn3Q~aIgg6Jz8NKkxXdVYqzK3BBrFHXfMKENn11ZifiWvsy2q0J6RP1g1S8134-iV8X69OhVcSWANF8rKUVrjtMzmPS6vnhUOnabxfFVPLqCrpauZYBs0u8BqOH-X7xXQ6CfKihjeu7TGKU5Prg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+      "stream_url": "aHR0cDovL2tic25raWRzLmdzY2RuLmticy5jby5rci9rYnNua2lkcy1tL2tic25raWRzLW1fc2QubTN1OD9FeHBpcmVzPTE2MDIwNjM2NDMmUG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWxKbGMyOTFjbU5sSWpvaWFIUjBjRG92TDJ0aWMyNXJhV1J6TG1kelkyUnVMbXRpY3k1amJ5NXJjaTlyWW5OdWEybGtjeTF0TDJ0aWMyNXJhV1J6TFcxZmMyUXViVE4xT0NJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lRVmRUT2tWd2IyTm9WR2x0WlNJNk1UWXdNakEyTXpZME0zMTlmVjE5JlNpZ25hdHVyZT1OQnZrT05ZVWJ4SXlQVU9mS3Q1cXhUemdrVTNSNWw1bFRQY284Q3o5ZjFsaVVqN203enl5YThaZkNCS1o5WVdGTWlFWUw4TXZHUG9lVzR4UVlWTTNuTmpnTzR+ejNSNlloT1pmQkQtcG9EbDNSMzFuRVZPVU5ieGVOczNseFhEMTBJa0tmV1FQZXFyZ0tZSXJtUVRDMmc1QXlubkktRXd5TnI3UzgtT3h1eUdKSFRxMFFXSUxjQ1FmY0Z2Y0hjZU54ZGN5YlFMYk5udnMtTmpLd0hYNUsta056UWhZam9abnJYTUk4bTYyeTdDbmxrbTRlZERCTmllYTJEeDRQMG5aNFpMSldBeTVLQ1BrUURUT09ocmZwR3NRN01IVEdxc2E0eU9EbXRSeGpWOTROcy1aaW9oU3E3S3dqVWVsWE9QNy1EYnZPZmJKZ21ZaWNzUzhaeTRtTUFfXyZLZXktUGFpci1JZD1BUEtBSUNEU0dUM1k3SVhHSjNUQQ=="
     },
     {
       "cid": 4,
       "name": "EBS Kids",
-      "stream_url": "http://ebsonair.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/Playlist.m3u8"
+      "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rci9lYnN1dGFibGV0NTAway9fZGVmaW5zdF8vdGFibGV0NTAway9QbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 4,
       "name": "EBS1",
-      "stream_url": "http://1.214.67.100/vod/50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjEwMC92b2QvNTA1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 4,
       "name": "EBS2",
-      "stream_url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8"
+      "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L2ViczJmYW1pbHlwYy9mYW1pbHlwYzFtL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 4,
       "name": "EBSi",
-      "stream_url": "http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/Playlist.m3u8"
+      "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L3BsdXMxdGFibGV0NTAway90YWJsZXQ1MDBrL1BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 4,
       "name": "EBS+2",
-      "stream_url": "http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/Playlist.m3u8"
+      "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L3BsdXMydGFibGV0NTAway90YWJsZXQ1MDBrL1BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 4,
       "name": "EBSe",
-      "stream_url": "http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/Playlist.m3u8"
+      "stream_url": "aHR0cDovL2Vic29uYWlyLmVicy5jby5rcjoxOTM1L3BsdXMzZmFtaWx5cGMvZmFtaWx5cGMxbS9QbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 5,
       "name": "CGNTV",
-      "stream_url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8"
+      "stream_url": "aHR0cDovL2NnbnR2LWdsaXZlLm9mc2RlbGl2ZXJ5Lm5ldC9saXZlL19kZWZpbnN0Xy9jZ250dl9rcjAyL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 5,
       "name": "CBSTV",
-      "stream_url": "http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8"
+      "stream_url": "aHR0cDovL2Nicy1saXZlLmdzY2RuLmNvbToxOTM1L2Nicy1saXZlL2Nicy1saXZlLnN0cmVhbS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 5,
       "name": "CTS 기독교방송",
-      "stream_url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index_2.m3u8"
+      "stream_url": "aHR0cHM6Ly9kMzR0NXlqejFvb3ltai5jbG91ZGZyb250Lm5ldC9vdXQvdjEvODc1MDM5ZDVlYmEwNDc4ZmE4Mzc1YTA2YjNhYTVhMzcvaW5kZXhfMi5tM3U4"
     },
     {
       "cid": 5,
       "name": "CTS2 기독교방송",
-      "stream_url": "http://external.cdn.zroad.tv/ChurchTV/live/playlist.m3u8"
+      "stream_url": "aHR0cDovL2V4dGVybmFsLmNkbi56cm9hZC50di9DaHVyY2hUVi9saXZlL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 5,
       "name": "GOODTV",
-      "stream_url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8"
+      "stream_url": "aHR0cDovL21vYmxpZXN0cmVhbS5jM3R2LmNvbToxOTM1L2xpdmUvZ29vZHR2LnNkcC9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 5,
       "name": "카톨릭 평화방송",
-      "stream_url": "http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8"
+      "stream_url": "aHR0cDovL29uYWlyMS5jcGJjLmNvLmtyOjE5MzUvdHYvc21pbDpsaXZlLnNtaWwvcGxheWxpc3QubTN1OA=="
     },
     {
       "cid": 5,
       "name": "C채널",
-      "stream_url": "http://112.175.51.214:1935/live/myStream/playlist.m3u8"
+      "stream_url": "aHR0cDovLzExMi4xNzUuNTEuMjE0OjE5MzUvbGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 5,
       "name": "BTN 불교방송",
-      "stream_url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+      "stream_url": "aHR0cDovL2J0bi5ub3djZG4uY28ua3IvYnRuL2J0bmxpdmUwMS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 5,
       "name": "BBS 불교방송",
-      "stream_url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+      "stream_url": "aHR0cDovL2Jic3R2LmNsb3VkdWNzLmNvbToxOTM1L2Jic3R2LWxpdmUvbGl2ZXN0cmVhbS9wbGF5bGlzdC5tM3U4"
     },
     {
       "cid": 5,
       "name": "WBS 원음방송",
-      "stream_url": "http://live.cdn.smilecdn.com:1935/yunho90_live/live/playlist.m3u8"
+      "stream_url": "aHR0cDovL2xpdmUuY2RuLnNtaWxlY2RuLmNvbToxOTM1L3l1bmhvOTBfbGl2ZS9saXZlL3BsYXlsaXN0Lm0zdTg="
     },
     {
       "cid": 6,
       "name": "GS SHOP",
-      "stream_url": "http://1.214.67.206/vod/67601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc2MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }, 
     {
       "cid": 6,
       "name": "GS MYSHOP",
-      "stream_url": "http://1.214.67.206/vod/74001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNzQwMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 6,
       "name": "현대홈쇼핑",
-      "stream_url": "http://1.214.67.206/vod/67501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc1MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     },
     {
       "cid": 6,
       "name": "현대홈쇼핑PLUS#",
-      "stream_url": "http://1.214.67.206/vod/76001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNzYwMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }, 
     {
       "cid": 6,
       "name": "NS홈쇼핑",
-      "stream_url": "http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjczMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }, 
     {
       "cid": 6,
       "name": "CJ오쇼핑",
-      "stream_url": "http://1.214.67.206/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjcyMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }, 
     {
       "cid": 6,
       "name": "CJ오쇼핑+",
-      "stream_url": "http://cjoshoppingplus.live.cdn.visioncloud.co.kr/cjosplus/live2/playlist.m3u8"
+      "stream_url": "aHR0cDovL2Nqb3Nob3BwaW5ncGx1cy5saXZlLmNkbi52aXNpb25jbG91ZC5jby5rci9jam9zcGx1cy9saXZlMi9wbGF5bGlzdC5tM3U4"
     }, 
     {
       "cid": 6,
       "name": "롯데홈쇼핑",
-      "stream_url": "http://1.214.67.206/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjc0MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }, 
     {
       "cid": 6,
       "name": "롯데OneTV",
-      "stream_url": "http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8"
+      "stream_url": "aHR0cDovL29uZXR2aGxzbGl2ZS5sb3R0ZWltYWxsLmNvbS9sb3R0ZW9uZXR2bGl2ZS9fZGVmaW5zdF8vbG90dGVvbmV0dmxpdmUubXA0Lm0zdTg="
     }, 
     {
       "cid": 6,
       "name": "NS Shop+",
-      "stream_url": "http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8"
+      "stream_url": "aHR0cDovL3Nob3Bwc3RyZWFtLm5zbWFsbC5jb206MTkzNS9JUEhPTkUvUEMubTN1OA=="
     }, 
     {
       "cid": 6,
       "name": "W쇼핑",
-      "stream_url": "http://1.214.67.206/vod/81301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvODEzMDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }, 
     {
       "cid": 6,
       "name": "신세계쇼핑",
-      "stream_url": "http://wliveout.kollus.com/shinsegaetvshopping_h0000k/index.m3u8"
+      "stream_url": "aHR0cDovL3dsaXZlb3V0LmtvbGx1cy5jb20vc2hpbnNlZ2FldHZzaG9wcGluZ19oMDAwMGsvaW5kZXgubTN1OA=="
     }, 
     {
       "cid": 6,
       "name": "쇼핑엔티",
-      "stream_url": "http://114.108.31.23/live/10011.m3u8"
+      "stream_url": "aHR0cDovLzExNC4xMDguMzEuMjMvbGl2ZS8xMDAxMS5tM3U4"
     }, 
     {
       "cid": 6,
       "name": "공영쇼핑",
-      "stream_url": "http://shoppingflv.x-cdn.com/mshoplive/_definst_/live1.stream/playlist.m3u8"
+      "stream_url": "aHR0cDovL3Nob3BwaW5nZmx2LngtY2RuLmNvbS9tc2hvcGxpdmUvX2RlZmluc3RfL2xpdmUxLnN0cmVhbS9wbGF5bGlzdC5tM3U4"
     }, 
     {
       "cid": 6,
       "name": "SK스토아",
-      "stream_url": "http://cast.bshopping.co.kr:8080/live/BSHOPPING_HD/playlist.m3u8"
+      "stream_url": "aHR0cDovL2Nhc3QuYnNob3BwaW5nLmNvLmtyOjgwODAvbGl2ZS9CU0hPUFBJTkdfSEQvcGxheWxpc3QubTN1OA=="
     }, 
     {
       "cid": 6,
       "name": "K쇼핑",
-      "stream_url": "http://cdnwow.kshop.co.kr:8080/livetv/Stream1/playlist.m3u8"
+      "stream_url": "aHR0cDovL2Nkbndvdy5rc2hvcC5jby5rcjo4MDgwL2xpdmV0di9TdHJlYW0xL3BsYXlsaXN0Lm0zdTg="
     }, 
     {
       "cid": 6,
       "name": "홈&쇼핑",
-      "stream_url": "http://1.214.67.206/vod/64901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+      "stream_url": "aHR0cDovLzEuMjE0LjY3LjIwNi92b2QvNjQ5MDEubTN1OD9WT0RfUmVxdWVzdElEPXYyTTItMDEwMS0xMDEwLTcyNzItNTA1MC0wMDAwMjAxODA3MTcwMjE2MzM7TFRFOzE2MDBQO1dJRkk="
     }
   ]
 }
