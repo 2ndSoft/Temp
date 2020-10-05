@@ -582,6 +582,11 @@
     },
     {
       "cid": 2,
+      "name": "[미국] HD Fashion",
+      "stream_url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
+    },
+    {
+      "cid": 2,
       "name": "[미국] NASA TV",
       "stream_url": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8"
     },
