@@ -1019,11 +1019,6 @@
     },
     {
       "cid": 8,
-      "name": "제주 사계",
-      "stream_url": "https://wsb.live.smilecdn.com/484600939/main/playlist.m3u8"
-    },
-    {
-      "cid": 8,
       "name": "제주 탑동",
       "stream_url": "http://59.8.86.15:1935/live/51.stream/playlist.m3u8"
     },
