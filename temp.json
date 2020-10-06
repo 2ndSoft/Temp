@@ -19,19 +19,23 @@
     },
     {
       "id": 5,
-      "name": "종교 채널"
+      "name": "종교"
     },
     {
       "id": 6,
-      "name": "홈쇼핑 채널"
+      "name": "홈쇼핑"
     },
     {
       "id": 7,
-      "name": "해외 채널"
+      "name": "해외"
     },
     {
       "id": 8,
-      "name": "라이브캠"
+      "name": "온에어:한국"
+    },
+    {
+      "id": 9,
+      "name": "온에어:해외"
     }
   ],
   "channels": [
@@ -1021,12 +1025,18 @@
     },
     {
       "cid": 8,
+      "name": "독도전망대",
+      "stream_url": "aHR0cDovLzIxMS4yMjQuMTMwLjIwOjE5MzUvbGl2ZS9kb2Rvbmcuc3RyZWFtL3BsYXlsaXN0Lm0zdTg=",
+      "info": "실시간|한국 독도전망대"
+    },
+    {
+      "cid": 9,
       "name": "뉴욕 타임스퀘어1",
       "stream_url": "aHR0cDovL3ZpZGVvczMuZWFydGhjYW0uY29tL2ZlY25ldHdvcmsvaGR0aW1lczEwLmZsdi9jaHVua2xpc3RfdzQ4NzUwOTEzLm0zdTg=",
       "info": "실시간|미국 뉴욕 타임스퀘어"
     },
     {
-      "cid": 8,
+      "cid": 9,
       "name": "뉴욕 타임스퀘어2",
       "stream_url": "aHR0cDovL3ZpZGVvczMuZWFydGhjYW0uY29tL2ZlY25ldHdvcmsvOTk3NC5mbHYvY2h1bmtsaXN0X3cxODAyNTg3Mzc1Lm0zdTg=",
       "info": "실시간|미국 뉴욕 타임스퀘어"
