@@ -984,16 +984,6 @@
     },
     {
       "cid": 8,
-      "name": "덕유산 설천봉",
-      "stream_url": "http://220.70.164.229/hls/zsulchun.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "지리산 중산리",
-      "stream_url": "http://220.70.164.229/hls/jirisan.m3u8"
-    },
-    {
-      "cid": 8,
       "name": "양양 물치",
       "stream_url": "https://wsb.live.smilecdn.com/wsbrtsp7/stream7.stream/playlist.m3u8"
     },
