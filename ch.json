@@ -1,10 +1,6 @@
 {
   "menu": [
     {
-      "id": 0,
-      "name": "온에어티비"
-    },
-    {
       "id": 1,
       "name": "지상파&종합편성"
     },
@@ -38,41 +34,6 @@
     }
   ],
   "channels": [
-    {
-      "cid": 0,
-      "name": "티비를 보려면 사진을",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "보듯 화면을 넘겨주세요.",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "이곳의 버튼을 눌러도",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "티비는 나오지 않습니다.",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "앱 업데이트 대기중...",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "카테고리 맨끝은",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "실시간 캠 서비스 중..",
-      "stream_url": ""
-    },
     {
       "cid": 1,
       "name": "KBS1",
