@@ -325,92 +325,92 @@
     },
     {
       "cid": 1,
-      "name": "[1]JTBC",
+      "name": "JTBC",
       "stream_url": "http://1.214.67.100/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[2]JTBC",
+      "name": "JTBC",
       "stream_url": "http://1.214.67.208/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[3]JTBC",
+      "name": "JTBC",
       "stream_url": "http://211.170.95.20/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[4]JTBC",
+      "name": "JTBC",
       "stream_url": "http://211.170.95.50/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[1]MBN",
+      "name": "MBN",
       "stream_url": "http://1.214.67.30/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[2]MBN",
+      "name": "MBN",
       "stream_url": "http://211.170.95.13/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[3]MBN",
+      "name": "MBN",
       "stream_url": "http://211.170.95.20/vod/75002.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[4]MBN",
+      "name": "MBN",
       "stream_url": "http://211.170.95.80/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[1]TV조선",
+      "name": "TV조선",
       "stream_url": "http://1.214.67.26/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[2]TV조선",
+      "name": "TV조선",
       "stream_url": "http://1.214.67.100/vod/74602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[3]TV조선",
+      "name": "TV조선",
       "stream_url": "http://211.170.95.106/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[4]TV조선",
+      "name": "TV조선",
       "stream_url": "http://211.170.95.115/vod/74602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[1]채널A",
+      "name": "채널A",
       "stream_url": "http://1.214.67.100/vod/74902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[2]채널A",
+      "name": "채널A",
       "stream_url": "http://1.214.67.208/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[3]채널A",
+      "name": "채널A",
       "stream_url": "http://211.170.95.115/vod/74902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[4]채널A",
+      "name": "채널A",
       "stream_url": "http://211.170.95.118/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[1]OBS",
+      "name": "OBS",
       "stream_url": "http://1.214.67.100/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 1,
-      "name": "[2]OBS",
+      "name": "OBS",
       "stream_url": "http://1.214.67.100/vod/59602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
@@ -435,32 +435,32 @@
     },
     {
       "cid": 2,
-      "name": "[1]tvn",
+      "name": "tvn",
       "stream_url": "http://1.214.67.30/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]tvn",
+      "name": "tvn",
       "stream_url": "http://211.170.95.106/vod/68202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[1]YTN",
+      "name": "YTN",
       "stream_url": "http://1.214.67.26/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]YTN",
+      "name": "YTN",
       "stream_url": "http://1.214.67.100/vod/69802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[1]연합뉴스TV",
+      "name": "연합뉴스TV",
       "stream_url": "http://1.214.67.26/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]연합뉴스TV",
+      "name": "연합뉴스TV",
       "stream_url": "http://1.214.67.100/vod/73402.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
@@ -505,22 +505,22 @@
     },
     {
       "cid": 2,
-      "name": "[1]jtbc2",
+      "name": "Jtbc2",
       "stream_url": "http://1.214.67.16/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]Jtbc2",
+      "name": "Jtbc2",
       "stream_url": "http://211.170.95.21/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[1]Jtbc4",
+      "name": "Jtbc4",
       "stream_url": "http://1.214.67.100/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]Jtbc4",
+      "name": "Jtbc4",
       "stream_url": "http://211.170.95.115/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
@@ -575,22 +575,22 @@
     },
     {
       "cid": 2,
-      "name": "[1]PLAYY프리미엄",
+      "name": "PLAYY프리미엄",
       "stream_url": "http://1.214.67.30/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]PLAYY프리미엄",
+      "name": "PLAYY프리미엄",
       "stream_url": "http://211.170.95.9/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[1]PLAYY웰메이드",
+      "name": "PLAYY웰메이드",
       "stream_url": "http://1.214.67.20/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 2,
-      "name": "[2]PLAYY웰메이드",
+      "name": "PLAYY웰메이드",
       "stream_url": "http://211.170.95.15/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
@@ -705,92 +705,92 @@
     },
     {
       "cid": 3,
-      "name": "[1]MBC 스포츠",
+      "name": "MBC 스포츠",
       "stream_url": "http://1.214.67.18/vod/01101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]MBC 스포츠",
+      "name": "MBC 스포츠",
       "stream_url": "http://211.170.95.18/vod/38201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]SBS 스포츠",
+      "name": "SBS 스포츠",
       "stream_url": "http://1.214.67.100/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]SBS 스포츠",
+      "name": "SBS 스포츠",
       "stream_url": "http://1.214.67.15/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]SPOTV",
+      "name": "SPOTV",
       "stream_url": "http://1.214.67.20/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]SPOTV",
+      "name": "SPOTV",
       "stream_url": "http://1.214.67.28/vod/66701.m3u8?SessionID=8a1af4b8-7e71-4af9-8fd2-ba3fee7bb890&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]SPOTV2",
+      "name": "SPOTV2",
       "stream_url": "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]SPOTV2",
+      "name": "SPOTV2",
       "stream_url": "http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]JTBC 골프&스포츠",
+      "name": "JTBC 골프&스포츠",
       "stream_url": "http://1.214.67.28/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]JTBC 골프&스포츠",
+      "name": "JTBC 골프&스포츠",
       "stream_url": "http://1.214.67.100/vod/60202.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]SPOTV 골프&헬스",
+      "name": "SPOTV 골프&헬스",
       "stream_url": "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]SPOTV 골프&헬스",
+      "name": "SPOTV 골프&헬스",
       "stream_url": "http://1.214.67.22/vod/65001.m3u8?SessionID=836da4b4-c978-4021-bc1c-be0b1c8c2773&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]SBS 골프",
+      "name": "SBS 골프",
       "stream_url": "http://1.214.67.22/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]SBS 골프",
+      "name": "SBS 골프",
       "stream_url": "http://1.214.67.100/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]FISHING TV",
+      "name": "FISHING TV",
       "stream_url": "http://211.170.95.21/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]FISHING TV",
+      "name": "FISHING TV",
       "stream_url": "http://1.214.67.17/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[1]FTV",
+      "name": "FTV",
       "stream_url": "http://211.170.95.21/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]FTV",
+      "name": "FTV",
       "stream_url": "http://1.214.67.100/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
@@ -800,12 +800,12 @@
     },
     {
       "cid": 3,
-      "name": "[1]브레인 TV",
+      "name": "브레인 TV",
       "stream_url": "http://211.170.95.20/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
       "cid": 3,
-      "name": "[2]브레인 TV",
+      "name": "브레인 TV",
       "stream_url": "http://211.170.95.18/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
     },
     {
