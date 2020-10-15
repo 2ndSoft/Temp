@@ -40,42 +40,22 @@
   "channels": [
     {
       "cid": 0,
-      "name": "티비를 보려면 사진을",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "보듯 화면을 넘겨주세요",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
       "name": "앱 업데이트를",
       "stream_url": ""
     },
     {
       "cid": 0,
-      "name": "하지 마세요.",
+      "name": "하셔도 됩니다.",
+      "stream_url": ""
+    },
+        {
+      "cid": 0,
+      "name": "이 서버는 이제",
       "stream_url": ""
     },
     {
       "cid": 0,
-      "name": "업데이트 앱을 실행하면",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "작동중지가 됩니다",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "이용의 불편을",
-      "stream_url": ""
-    },
-    {
-      "cid": 0,
-      "name": "드려 죄송합니다",
+      "name": "관리 안합니다.",
       "stream_url": ""
     },
     {
