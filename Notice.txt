@@ -40,5 +40,5 @@
 온에어티비의 모든 기능은 TndSoft의 
 자체 기술로 구현되었습니다.
 
-Copyright ⓒ 2020.07.21, TndSoft.
+Copyright ⓒ 2020.07.17, TndSoft.
 
