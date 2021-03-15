@@ -23,7 +23,7 @@ You can see the entire Korean channel of On-Air TV through the VPN bypass app.
 6. 화질선택 기능
 
 2021년 7월 30일 업데이트 예상 됨.
-(* 각 기능의 기술 요소를 개발 중 ㅠ_ㅠ )
+(* 각 기능의 기술 요소를 개발 중... )
 
 - 사용방법 -
 
