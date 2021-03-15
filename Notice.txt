@@ -4,13 +4,13 @@
 - KOR
 
 한국 TV 방송사의 저작권 문제로 한국 국적의 IP에서만 송출을하고 있습니다.
-VPN 우회 앱을 통해 온에어티비의 한국 전체 채널을 볼 수 있습니다.
+해외에 있으면 VPN 우회 앱을 통해 온에어티비의 한국 채널 전체를 볼 수 있습니다.
 [ 저작권 문제로 VPN 기능 개발을 중단합니다. ]
 
 - ENG
 
 Due to copyright issues of Korean TV broadcasters, it is being transmitted only from the IP of Korean nationality.
-You can see the entire Korean channel of On-Air TV through the VPN bypass app.
+When you are overseas, you can see the entire Korean channel of On Air TV through the VPN bypass app.
 [ Stop developing VPN function due to copyright issue. ]
 
 1. 안드로이드10 버전 이상 즐겨찾기 오류 수정
