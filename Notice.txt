@@ -70,7 +70,3 @@ When you are overseas, you can see the entire Korean channel of On Air TV throug
 하단의 오른쪽 끝에 있는것은 백그라운드 플레이어 입니다.
 백그라운드 플레이어는 안드로이드 6.0 버전부터 지원이 됩니다.
 
-
-온에어티비는 개발 팀원이 혼자서 만든 앱 입니다.
-Copyright ⓒ 2020.07.17, TndSoft.
-
