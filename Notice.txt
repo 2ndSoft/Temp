@@ -45,9 +45,6 @@ When you are overseas, you can see the entire Korean channel of On Air TV throug
 1. 채널 편성표 (한국 tv채널)
 2. 화질선택 기능
 
-2021년 7월 30일 업데이트 예상 됨.
-(* 각 기능의 기술 요소를 개발 중... )
-
 - 사용방법 -
 
 비디오 화면 터치하면 다양한 기능들이 나옵니다.
