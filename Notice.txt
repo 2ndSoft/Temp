@@ -40,14 +40,6 @@ Due to copyright issues of Korean TV broadcasters, it is being transmitted only 
 When you are overseas, you can see the entire Korean channel of On Air TV through the VPN bypass app.
 [ Stop developing VPN function due to copyright issue. ]
 
-- 이번에 업데이트 될 주요내용 -
-
-1. 안드로이드10 버전 이상 즐겨찾기 오류 수정
-2. 비디오 화면 시 전원버튼 눌렀을 때 
-   디스플레이가 꺼지면 플레이 종료 추가
-3. 비디오 화면 시청 채널표시
-4. 앱 종료 광고 수정
-
 - 다음 업데이트 주요내용 -
 
 1. 채널 편성표 (한국 tv채널)
