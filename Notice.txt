@@ -12,6 +12,23 @@
 늘 최선을 다하며 좋은 서비스를 위해 노력 합니다.
 온에어티비를 이용해주셔서 감사합니다.
 
+- KOR
+
+한국 TV 방송사의 저작권 문제로 한국 국적의 IP에서만 송출을하고 있습니다.
+해외에 있으면 VPN 우회 앱을 통해 온에어티비의 한국 채널 전체를 볼 수 있습니다.
+[ 저작권 문제로 VPN 기능 개발을 중단합니다. ]
+
+- ENG
+
+Due to copyright issues of Korean TV broadcasters, it is being transmitted only from the IP of Korean nationality.
+When you are overseas, you can see the entire Korean channel of On Air TV through the VPN bypass app.
+[ Stop developing VPN function due to copyright issue. ]
+
+- 다음 업데이트 주요내용 -
+
+1. 채널 편성표 (한국 tv채널)
+2. 화질선택 기능
+
 - 채널 무한로딩 증상원인 -
 
 채널이 무한로딩 일때 뒤로 나기해서 다시 클릭해도 동일한 증상이면
@@ -31,23 +48,6 @@
 - 폰 요금제에 따라 부과금이 발생 되오니 모바일 네트워크를 사용하지 마세요. 
   (* 영상이기 때문에 15 ~ 30초당 데이터를 엄청 잡아먹습니다.)
 - 와이파이 사용을 적극 권장합니다.
-
-- KOR
-
-한국 TV 방송사의 저작권 문제로 한국 국적의 IP에서만 송출을하고 있습니다.
-해외에 있으면 VPN 우회 앱을 통해 온에어티비의 한국 채널 전체를 볼 수 있습니다.
-[ 저작권 문제로 VPN 기능 개발을 중단합니다. ]
-
-- ENG
-
-Due to copyright issues of Korean TV broadcasters, it is being transmitted only from the IP of Korean nationality.
-When you are overseas, you can see the entire Korean channel of On Air TV through the VPN bypass app.
-[ Stop developing VPN function due to copyright issue. ]
-
-- 다음 업데이트 주요내용 -
-
-1. 채널 편성표 (한국 tv채널)
-2. 화질선택 기능
 
 - 사용방법 -
 
